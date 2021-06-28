@@ -13,29 +13,6 @@ output: html_document
 
 # Licensing
 
-We want you to use these materials, which might mean modifying them to suit your purposes.  Our CC BY-NC-SA license
-should support you in this.  You can read the details below, but here are the main points:
-
-You are free to:
-
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material
-
-As long as 
-
-* **Attribution** — You must give appropriate credit, provide a link to the
-license, and indicate if changes were made. You may do so in any reasonable
-manner, but not in any way that suggests the licensor endorses you or your use.
-
-    Please use the following attribution for this work:
-    
-    >> Need citation
-
-* **NonCommercial** — You may not use the material for commercial purposes.
-
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -46,3 +23,28 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+We want you to use these materials, which might mean modifying them to suit your purposes. 
+Our CC BY-NC-SA license should support you in this. You can read the details by following the links above,
+but here are the main points:
+
+You are free to:
+
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material
+
+Subject to these restrictions:
+
+* **NonCommercial** — You may not use the material for commercial purposes.
+
+* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+* **Attribution** — You must give appropriate credit, provide a link to the
+license, and indicate if changes were made. You may do so in any reasonable
+manner, but not in any way that suggests the licensor endorses you or your use.
+
+    Please use the following attribution for this work:
+    
+    > Need citation
+
+
