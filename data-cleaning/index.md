@@ -1,4 +1,7 @@
-# Data Cleaning Ethics Module
+---
+title: "Data Cleaning Lab"
+output: html_document
+---
 
 ## Module Summary
 

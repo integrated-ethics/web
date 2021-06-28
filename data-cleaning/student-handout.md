@@ -1,4 +1,7 @@
-## Student Handout for the Ethics of Data Cleaning Module
+---
+title: "Student Handout for the Ethics of Data Cleaning Lab"
+output: html_document
+---
 
 The field names of a dataset used to understand the reasons that
 students leave college before graduation are shown below.
