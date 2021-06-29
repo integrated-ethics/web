@@ -1,0 +1,68 @@
+---
+title: "Convert GDrive"
+author: "K Arnold"
+date: "6/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+# Pull Documents
+
+For now, this is by hand. Download the ZIP file and extract it to "Modules".
+
+
+# Convert to Markdown
+
+```{r}
+dir.create("content/lab", showWarnings = FALSE)
+input_files <- Sys.glob("Modules/*.docx")
+output_files <- input_files |> 
+  stringr::str_replace("Modules/", "content/lab/") |>
+  stringr::str_to_lower() |> 
+  stringr::str_replace(".docx", ".Rmd") |> 
+  stringr::str_replace_all("[()]", "") |> 
+  stringr::str_replace_all(" ", "-")
+
+purrr::walk2(input_files, output_files, function(filename, output_filename) {
+  rmarkdown::pandoc_convert(filename, to = "markdown", output = output_filename, verbose = TRUE, wd = getwd())
+  md <- readLines(output_filename)
+  title <- md[[1]]
+
+header <- glue::glue("
+---
+title: \"{title}\"
+author: \"TODO\"
+date: \"2021-06-29\"
+output:
+  blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: \"svg\"
+---
+
+")
+
+writeLines(
+  paste0(c(header, md), collapse = "\n"),
+  output_filename)
+})
+
+```
+
+
+# Build site
+
+```{r}
+#blogdown::build_site(build_rmd = 'newfile')
+blogdown::build_site(build_rmd = TRUE)
+```
+
+
+```{r}
+blogdown::check_site()
+```
+
