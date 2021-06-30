@@ -32,13 +32,13 @@ statistics
 
 **Placement** in overall ethics curriculum:
 
-         Academic year: Years two through four -- a class in data
+* Academic year: Years two through four -- a class in data
 management or data analysis
 
-> Recommended previous modules: First year ethics curriculum
-> (specifically virtue ethics and utilitarian modules)
+* Recommended previous modules: First year ethics curriculum
+  (specifically virtue ethics and utilitarian modules)
 
-         Recommended follow-up modules: No direct follow-up modules
+* Recommended follow-up modules: No direct follow-up modules
 
 **Time** required:
 
