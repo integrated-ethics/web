@@ -1,15 +1,8 @@
 ---
-title: "Data Cleaning Ethics"
+title: "Data Cleaning"
 author: "TODO"
 date: "2021-06-29"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
 ---
-
-Data Cleaning
 
 # For Instructors
 
@@ -40,32 +33,24 @@ management or data analysis
 
 * Recommended follow-up modules: No direct follow-up modules
 
-**Time** required:
-
-         In class: 20 minutes * *
-
-Out of class: none
+**Time** required: **In class**: 20 minutes, **Out of class**: none
 
 **Learning objectives**:
 
 -   Introduce the idea of and need for data cleaning if it has not
-    > already been covered in class
+    already been covered in class
 
 -   Practice recognizing ethical issues in data cleaning
 
 -   Assess different methods of data cleaning for ethicality
 
 -   Practice articulating and supporting the degree to which an approach
-    > to cleaning data is ethical in a particular situation
+    to cleaning data is ethical in a particular situation
 
-* *
-
-**Module overview**:
-
-[Ethical issues to be considered]{.ul}: Transparency, Diversity,
+**Ethical issues to be considered**: Transparency, Diversity,
 Dignity, Privacy, Data Integrity, Reliability
 
-The goal of this module is to show that data cleaning, while necessary,
+**Overview**: The goal of this module is to show that data cleaning, while necessary,
 can be conducted with differing degrees of ethicality. The process of
 correcting data (changing location, imputing a new value, removing typos
 etc.), removing incomplete records, or leaving questionable data as is
@@ -73,27 +58,26 @@ can affect the results of the analysis. Consequently, methods must be
 scrutinized. Students will evaluate the ethical ramifications of data
 cleaning choices on a fictional data set description.
 
-**Preparation required:**
+**Preparation required**
 
 Read through the entire module. Print a student handout for each
 student. The handout includes a dataset description, questions for the
 students to consider, and definitions of potential ethical issues.
 
-[Exercise flow:]{.ul}
+**Exercise flow**
 
 -   Professor introduces the concept of data cleaning
 
 -   Professor reminds students of potential ethical issues to be
-    > considered along with introducing a description of the dataset to
-    > be worked on.
+    considered along with introducing a description of the dataset to
+    be worked on.
 
 -   Students work individually and then in groups to decide if each of
-    > several suggestions for cleaning the described dataset would
-    > result in ethical problems
+    several suggestions for cleaning the described dataset would
+    result in ethical problems
 
  
-
-## Instructors Guide
+## Instructors' Guide
 
 ### Lesson plan
 
@@ -115,7 +99,7 @@ checking the validity of the data do?
 The process of trying to deal with dirty data in a way that has as
 little impact on the results of a study is called data cleaning[^1]. It
 is often said that data analysts spend 80% of their time cleaning and
-20% analyzing \[2\]. If the time is not spent to clean the data
+20% analyzing[^2]. If the time is not spent to clean the data
 properly, the results could be incorrect, and the process fraught with
 ethical issues.
 
@@ -171,9 +155,6 @@ not read earlier, it should be read while the students work):**
 
 2.  Regarding the age being left out
 
-```{=html}
-<!-- -->
-```
 a)  Fill with the median of the student population
 
 -   Maybe -- this is skewed data, but you could be missing important
@@ -193,9 +174,7 @@ c)  Remove records where age is missing and make a note of this in the
         > this option -- shouldn't affect other metrics -- there
         > shouldn't be more males than females for example
 
-```{=html}
-<!-- -->
-```
+
 3.  Regarding parental college experience:
 
 > More likely to happen for parents with no college experience or
@@ -280,12 +259,6 @@ if LOs were reached*
             > adaptability, compassion, dignity, excellence, honesty,
             > inclusivity, justice, patience, transparency)
 
-\[1\]
-
-\[2\] Browne-Anderson, Hugo. (2018) What Data Scientists Really Do
-According to 35 Data Scientists, Harvard Business Review, August 2018.
-[[https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists]{.ul}](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists).
-Accessed July 4, 2019.
 
 **Student handouts are attached**
 
@@ -441,3 +414,8 @@ employer and the discipline's overarching guild
     (2005) Data Cleaning: Detecting, Diagnosing, and Editing Data
     Abnormalities. PLoS Med 2(10): e267.
     [[https://doi.org/10.1371/journal.pmed.0020267]{.ul}](https://doi.org/10.1371/journal.pmed.0020267)
+
+[^2]: Browne-Anderson, Hugo. (2018) What Data Scientists Really Do
+    According to 35 Data Scientists, Harvard Business Review, August 2018.
+    [[https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists]{.ul}](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists).
+    Accessed July 4, 2019.
