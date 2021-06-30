@@ -20,11 +20,11 @@ Subject matter referred to in this module: computer and data science tasks
 Placement in overall ethics curriculum:
  Academic year: First year, first semester, probably introductory programming course
  Recommended previous modules: Why Ethics?
- Recommended follow-up modules: Virtue Ethics 
+ Recommended follow-up modules: Virtue Ethics* *
 Time required:
  In class: 25 minutes
 Learning objectives:
- Students are introduced to the 3 ethical frameworks that are &amp;gt; considered in future modules</description>
+  Students are introduced to the 3 ethical frameworks that are</description>
     </item>
     
     <item>
@@ -88,7 +88,8 @@ Placement in overall ethics curriculum:
 Academic year: First semester of first year. Good first semester module.
 Recommended previous modules: Why Ethics? Module
 Recommended follow-up modules: Virtue Ethics with Coding Scenarios Module
-Time required:</description>
+Time required:
+Out of class: None (but potential online version available if unable to do in class)</description>
     </item>
     
     <item>
@@ -97,10 +98,11 @@ Time required:</description>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/lab/data-cleaning-ethics-module/</guid>
-      <description>For Instructors  Module Summary Instructors Guide  Lesson plan Assessment   Student Handout for the Ethics of Data Cleaning Module  Ethical Issues Definitions    Data Cleaning Ethics Module
+      <description>Data Cleaning Ethics Module
 For Instructors Module Summary  Main Point: Choices made in data cleaning have ethical implications.
 Contents: instructor guide, student handout, suggested assessment questions
-Ethics background required: It is helpful if students have learned about the virtue ethics and utilitarian frameworks for making ethical decisions though not absolutely required.</description>
+Ethics background required: It is helpful if students have learned about the virtue ethics and utilitarian frameworks for making ethical decisions though not absolutely required. These frameworks are covered in the first year curriculum.
+Subject matter referred to in this module: Data Cleaning, simple statistics</description>
     </item>
     
     <item>
@@ -126,7 +128,7 @@ Module Summary
 Ethics background desired: Virtue Ethics, Analogies, Utilitarianism, &amp;amp; Deontology. If students or professor are not familiar with these frameworks, a brief summary is provided in the reflection.
 Subject matter referred to in this module: Hospitable computer programming (Exercise written in C++ (uses pointers and vectors), and also Java). Could be adapted to another language if preferable.
 Placement in overall ethics curriculum:
- Academic year: Years 2-4.</description>
+ Academic year: Years 2-4. To reinforce the need for good programming techniques we recommend using it earlier rather than later!</description>
     </item>
     
     <item>
@@ -179,7 +181,8 @@ Module Summary
 Ethics background required: Ideally, students should be familiar with the four ethical frameworks presented in the first year curriculum (virtue ethics, deontology, utilitarianism, analogies). If they (or the professor) are not, brief summaries are provided in the activity section.
 Subject matter referred to in this module: Professional Ethics
 Placement in overall ethics curriculum:
- Academic year: Year 2-4 core course that talks about professional ethics.</description>
+ Academic year: Year 2-4 core course that talks about professional ethics.
+ Recommended previous modules: First year ethics curriculum</description>
     </item>
     
     <item>
@@ -219,17 +222,17 @@ Placement in overall ethics curriculum:
       
       <guid>/lab/virtue-ethics/</guid>
       <description>Virtue Ethics
-Module Summary
- Ethics background required: None
+Overview  Ethics background required: None
 Subject matter referred to in this module: Computer Programming
 Placement in overall ethics curriculum:
  Academic year: First year, first semester, probably introductory programming course
  Recommended previous modules: A First Look at Ethics in Computer and Data Science
- Recommended follow-up modules: Analogies 
+ Recommended follow-up modules: Analogies* *
 Time required:
  Out of class: None
   In class: 20-30 minutes
-Learning objectives:</description>
+Learning objectives:
+  Students further understand how the virtue ethics framework works</description>
     </item>
     
     <item>
@@ -298,12 +301,12 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>About Hugo XMin</title>
+      <title>About Integrated Ethics Labs</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <description>TODO</description>
     </item>
     
   </channel>
