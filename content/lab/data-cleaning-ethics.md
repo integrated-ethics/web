@@ -1,5 +1,5 @@
 ---
-title: "Data Cleaning Ethics Module"
+title: "Data Cleaning Ethics"
 author: "TODO"
 date: "2021-06-29"
 output:
@@ -9,7 +9,7 @@ output:
     dev: "svg"
 ---
 
-Data Cleaning Ethics Module
+Data Cleaning Ethics
 
 # For Instructors
 
