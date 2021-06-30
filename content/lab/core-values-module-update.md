@@ -208,6 +208,8 @@ instrument or some other skill that involve practice- then maybe you
 value physical activity, competition or challenge. ) Try to choose 20-25
 top values.
 
+{{% multicolumn %}}
+
 Achievement
 
 Advancement
@@ -398,6 +400,8 @@ Usefulness
 Vision
 
 Wealth
+
+{{% /multicolumn %}}
 
 **Question 3:** After you have circled your 20-25 top values, put a W
 next to the circled values that might inform where you would choose to
@@ -434,6 +438,8 @@ instrument or some other skill that involve practice- then maybe you
 value physical activity, competition or challenge. ) Try to choose 20-25
 top values.
 
+<div style="columns: 3">
+
 Achievement
 
 Advancement
@@ -624,6 +630,8 @@ Usefulness
 Vision
 
 Wealth
+
+</div>
 
 **Question 3:** After you have circled your 20-25 top values, put a W
 next to the circled values that might inform where you would choose to
