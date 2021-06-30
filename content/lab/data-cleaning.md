@@ -9,7 +9,7 @@ output:
     dev: "svg"
 ---
 
-Data Cleaning Ethics
+Data Cleaning
 
 # For Instructors
 
