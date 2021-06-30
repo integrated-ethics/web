@@ -1,6 +1,6 @@
-baseurl: "/"
+baseurl: "/labs"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Integrated Ethics Labs"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
