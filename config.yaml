@@ -1,4 +1,4 @@
-baseurl: "/labs"
+baseurl: "/"
 languageCode: "en-us"
 title: "Integrated Ethics Labs"
 theme: "hugo-xmin"
