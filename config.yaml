@@ -39,7 +39,7 @@ menu:
 
 params:
   description: "Integrated Ethics Labs for teaching ethics in computing and data courses"
-  footer: "CC-BY-NC-SA-4.0"
+  # footer: "CC-BY-NC-SA-4.0"
 
 markup:
   goldmark:
