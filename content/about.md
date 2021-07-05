@@ -1,5 +1,6 @@
 ---
 title: About Integrated Ethics Labs
+slug: about
 ---
 
 Integrated Ethics Labs was started by Lori Carter and Catherine Crockett at
@@ -19,5 +20,6 @@ Point Loma Nazarene University in 2017.
 
 ## Access and Availability
 
-Materials produced by Integrated Ethics are available at <integratedethics.org> and made available
-under the [Creative Commons CC-BY-SA license](../LICENCE)
+Materials produced by Integrated Ethics are available at 
+[integratedethics.org](https://integratedethics.org) and made available
+under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
