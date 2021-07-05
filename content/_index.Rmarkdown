@@ -42,9 +42,9 @@ license, and indicate if changes were made. You may do so in any reasonable
 manner, but not in any way that suggests the licensor endorses you or your use.
 
     Please use the following attribution for this work:
-    
-    > Need citation
 
+`r blogdown::shortcode('ie-cite')`    
+    
 
 ## Available Labs
 
