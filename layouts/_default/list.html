@@ -10,7 +10,7 @@
   {{ $pages := .Pages }}
   {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ range (where $pages "Section" "!=" "") }}
-  {{ if (.PublishDate.After (time "2021-07-01")) }}
+  {{ if and (.PublishDate.After (time "2021-07-01")) (.PublishDate.Before now) }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
     ({{.Date.Format "2006-01-02" }})
@@ -19,4 +19,6 @@
   {{ end }}
 </ul>
 
-{{ partial "footer.html" . }}
+{{ template "_internal/disqus.html" . }}
+
+
