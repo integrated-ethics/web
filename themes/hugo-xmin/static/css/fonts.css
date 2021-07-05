@@ -1,6 +1,50 @@
-body {
-  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,250;0,300;0,400;0,500;0,600;1,100;1,300;1,500;1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600&display=swap');
+
+@font-face {
+	font-family: 'Roboto Flex';
+	src: url('RobotoFlex-VF.woff2') format('woff2 supports variations'),
+       url('RobotoFlex-VF.woff2') format('woff2-variations');
+	font-weight: 100 1000;
+	font-stretch: 25% 151%;
 }
+
+font-family: 'Encode Sans', sans-serif;
+
+font-family: 'Josefin Slab', serif;
+
+font-family: 'Poppins', sans-serif;
+
+# body {
+#   font-family: Optima, Candara, Calibri, Arial, sans-serif;
+# }
+
+body {
+  font-family: Josefin Slab, Optima, Candara, Calibri, Arial, sans-serif;
+  font-family: Encode Sans, Optima, Candara, Calibri, Arial, sans-serif;
+  font-weight: 350;
+}
+
+h1, h2, h3 {
+  font-family: Josefin Slab, Optima, Candara, Calibri, Arial, sans-serif;
+}
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+strong {
+  font-weight: 700;
+}
+
+
 code {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 85%;
