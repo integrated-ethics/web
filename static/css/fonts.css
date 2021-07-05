@@ -32,6 +32,10 @@ body {
   font-weight: 350;
 }
 
+.title {
+  line-height: 1.2em;
+}
+
 h1, h2, h3 {
   font-family: Josefin Slab, Optima, Candara, Calibri, Arial, sans-serif;
 }
