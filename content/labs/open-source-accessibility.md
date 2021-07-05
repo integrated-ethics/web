@@ -1,5 +1,5 @@
 ---
-title: "Open Source Accessibility Module"
+title: "Open Source Accessibility"
 author: "TODO"
 date: "2021-06-29"
 output:

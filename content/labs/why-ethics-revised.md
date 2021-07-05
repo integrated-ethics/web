@@ -1,5 +1,5 @@
 ---
-title: "Why Ethics? Module"
+title: "Why Ethics?"
 author: "TODO"
 date: "2021-06-29"
 output:

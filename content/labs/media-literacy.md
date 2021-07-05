@@ -1,5 +1,5 @@
 ---
-title: "Media Literacy Module"
+title: "Media Literacy"
 author: "TODO"
 date: "2021-06-29"
 output:

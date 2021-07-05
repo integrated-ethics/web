@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Algorithmic Bias Module"
+title: "Avoiding Algorithmic Bias"
 author: "TODO"
 date: "2021-06-29"
 output:

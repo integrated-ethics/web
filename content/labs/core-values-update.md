@@ -1,5 +1,5 @@
 ---
-title: "Core Values Module"
+title: "Core Values"
 author: "TODO"
 date: "2021-06-29"
 output:
@@ -9,9 +9,8 @@ output:
     dev: "svg"
 ---
 
-Core Values Module
 
-Module Summary
+# Overview
 
 **Ethics background** required: None
 

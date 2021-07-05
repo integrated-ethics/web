@@ -1,5 +1,5 @@
 ---
-title: "Transparency Module"
+title: "Transparency"
 author: "TODO"
 date: "2021-06-29"
 output:

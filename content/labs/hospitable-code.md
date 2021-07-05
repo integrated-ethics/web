@@ -1,5 +1,5 @@
 ---
-title: "Hospitality Module"
+title: "Hospitality"
 author: "TODO"
 date: "2021-06-29"
 output:
@@ -9,9 +9,8 @@ output:
     dev: "svg"
 ---
 
-Hospitality Module
 
-Module Summary
+## Overview
 
 **Ethics background** desired: Virtue Ethics, Analogies, Utilitarianism,
 & Deontology. If students or professor are not familiar with these
