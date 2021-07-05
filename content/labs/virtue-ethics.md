@@ -47,7 +47,7 @@ Computer and Data Science
 -   Students consider how virtues are developed as positive character
     traits
 
-**Module overview**:
+**Overview**:
 
 [Ethical issue to be considered]{.ul}: Several scenarios related to a
 computer programming course
