@@ -28,9 +28,10 @@ but here are the main points:
 You are free to:
 
 * **Share** — copy and redistribute the material in any medium or format
+
 * **Adapt** — remix, transform, and build upon the material
 
-Subject to these restrictions:
+subject to these restrictions:
 
 * **NonCommercial** — You may not use the material for commercial purposes.
 
