@@ -1,7 +1,8 @@
 ---
 title: "A First Look at Ethics in Computer and Data Sciences"
 author: "TODO"
-date: "2021-06-29"
+date: "2021-07-01"
+publishdate: "2021-07-02"
 output:
   blogdown::html_page:
     toc: true

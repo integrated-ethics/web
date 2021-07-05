@@ -1,7 +1,7 @@
 ---
 title: "Virtue Ethics"
 author: "TODO"
-date: "2021-06-29"
+date: "2021-07-01"
 output:
   blogdown::html_page:
     toc: true

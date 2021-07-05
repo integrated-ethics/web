@@ -1,7 +1,9 @@
 ---
 title: "Why Ethics?"
 author: "TODO"
-date: "2021-06-29"
+date: "2021-07-01"
+publishdate: "2021-07-01"
+draft: false
 output:
   blogdown::html_page:
     toc: true
