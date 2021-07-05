@@ -4,6 +4,4 @@ title: Publications and Presentations
 slug: pubs
 ---
 
-<p align = "center">
-Coming soon...
-</p>
+{{<center Coming soon... >}}

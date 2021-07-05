@@ -1,9 +1,7 @@
 ---
-pagetitle: ie:Resources
+pagetitle: ie:Recources
 title: Integrated Ethics Resources
 slug: resources
 ---
 
-<p align = "center">
-Coming soon...
-</p>
+{{<center Coming soon... >}}
