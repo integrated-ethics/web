@@ -5,11 +5,23 @@ body {
   line-height: 1.5em;
 }
 
+a:link{
+  text-decoration: none;
+  color: forestgreen;
+}
+
+a:visited{
+  text-decoration: none;
+  color: navy;
+}
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
+  color: black;
+  font-weight:500;
   background: #eee;
   padding: 5px;
   border-radius: 5px;
