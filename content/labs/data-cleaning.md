@@ -6,7 +6,8 @@ date: "2021-07-06"
 
 # Student Handout
 
-* [HTML](data-cleaning/data-cleaning-worksheet/)
+* [HTML](data-cleaning/data-cleaning-worksheet.html)
+* [Rmd](data-cleaning/data-cleaning-worksheet.Rmd)
 * [Word](data-cleaning/data-cleaning-worksheet.docx)
 * [PDF](data-cleaning/data-cleaning-worksheet.pdf)
  
