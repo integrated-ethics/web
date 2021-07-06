@@ -61,7 +61,7 @@ is saying something is like something else for the purpose of clarification.
 If a concept is better understood in an alogous situation than in dilemma in
 question, the analogy might help in understanding the less-familiar predicament.
 
-### Years 2 and 3: Applications
+### Years 2 - 4: Applications
 
 The labs in years two through four are more applied. They are designed to fit
 with the content of a particular course. For example, an ethics lab to be
