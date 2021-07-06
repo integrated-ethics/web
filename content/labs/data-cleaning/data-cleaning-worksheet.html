@@ -1,0 +1,155 @@
+---
+title: "Data Cleaning"
+author: ''
+date: '2021-07-06'
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+publishdate: '2021-07-06'
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="university-students-data" class="section level2">
+<h2>University Students Data</h2>
+<p>The field/variable names of a data set used to understand the reasons that
+students leave college before graduation are shown below.</p>
+<ul>
+<li><p><code>university</code>: Name of university</p></li>
+<li><p><code>gender</code>: Gender of the student</p></li>
+<li><p><code>age</code>: Age of the student</p></li>
+<li><p><code>mother_ed</code>: College experience of mother (2 year, 4 year, graduate)</p></li>
+<li><p><code>father_ed</code>: College experience of father (2 year, 4 year, graduate)</p></li>
+<li><p><code>how_funded</code>: How college is funded – loans, grants, scholarships, paid by family</p></li>
+<li><p><code>mental_illness</code>: Mental illnesses experienced during college years (yes, no)</p></li>
+<li><p><code>disability</code>: Physical disability (including pregnancy) (yes, no)</p></li>
+<li><p><code>current_gpa</code>: Semester GPA in the semester when student withdrew</p></li>
+<li><p><code>overall_gpa</code>: Overall GPA of the student</p></li>
+<li><p><code>withdrew</code>: Did the student withdraw after current semester? (yes, no)</p></li>
+<li><p><code>commuter</code>: Does the student commute? (yes, no)</p></li>
+<li><p><code>veteran</code>: Is the student a veteran? (yes, no)</p></li>
+<li><p><code>major</code>: Academic major(s)</p></li>
+</ul>
+</div>
+<div id="exercises" class="section level2">
+<h2>Exercises</h2>
+<p>It may be helpful to review the list of potential ethical
+issues in computing and data science below as you consider the exercises
+below.</p>
+<div id="anonymity" class="section level3">
+<h3>Anonymity</h3>
+<ol style="list-style-type: decimal">
+<li>Anonymity is a well-known ethical issue with data collection. If all
+of the data in this survey was made available to the researchers,
+would it be sufficiently anonymous? Why or why not? If a survey is
+not anonymous, which ethical issue(s) might be a problem?</li>
+</ol>
+</div>
+<div id="dealing-with-missing-data" class="section level3">
+<h3>Dealing with missing data</h3>
+<p>Very often some values of some variables are not recorded for some individuals.
+There are many reasons why data might be missing. Perhaps the data collection
+protocol changed over time. Perhaps some subjects declined to answer some questions
+on a survey. Perhaps some information is simply not available.</p>
+<p>Before proceeding to analyse a data set, researchers need to decide how to handle missing
+data.</p>
+<ol start="2" style="list-style-type: decimal">
+<li><p>For several records, <code>age</code> is missing.
+Consider the pros and cons of each of these possible
+options for addressing the problem. How likely is the option to
+create an ethical issue and what might that issue be if there is
+one?</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Fill with the median of the student population.</p></li>
+<li><p>Fill with the mean of the student population.</p></li>
+<li><p>Remove records where <code>age</code> is missing and make a note of this in the
+data cleaning documentation.</p></li>
+</ol></li>
+<li><p>For several records, the college experience of at least one of the
+parents is missing – is there a population with which this might
+be more likely to happen? Since one cannot guess at the experience
+of the parents, these records would likely be removed. What ethical
+issue(s) might arise with the action?</p></li>
+<li><p>For several records, <code>disability</code> is missing.
+Removing the related records could negatively affect the diversity
+of this study. Why?</p></li>
+<li><p>There are several other fields left blank on various records. You
+try to take each omission on a case by case basis, doing what you
+think is right. This might influence both reliability and
+hospitality. Why?</p></li>
+</ol>
+</div>
+<div id="dealing-with-possibly-incorrect-data" class="section level3">
+<h3>Dealing with (possibly) incorrect data</h3>
+<p>Just because values are included in a data set doesn’t mean that those
+values are correct. Unusual observations might catch our eye and lead
+us to investigate further.</p>
+<ol start="6" style="list-style-type: decimal">
+<li>One current GPA is listed as 1.35. Since this is an outlier,
+you look at the students’ overall gpa which is 3.0. You’re pretty sure that the 1
+and the 3 must have been swapped so you go ahead and change the GPA
+to a more reasonable 3.15. What ethical issues might you be
+violating?</li>
+</ol>
+</div>
+</div>
+<div id="ethical-issues-definitions" class="section level2">
+<h2>Ethical Issues Definitions</h2>
+<p><strong>Media Literacy</strong>: Determining if an online article, video, etc. is
+factual, reliable, and unbiased.</p>
+<p><strong>Accessibility</strong>: Ensuring to the best of one’s ability that what we
+produce is available to those with special needs,
+including economic, physical, mental, and emotional.</p>
+<p><strong>Visualization</strong>: Employing techniques that represent data and models
+in a clear, accessible way that accurately reflects the data and what
+we can learn from them.</p>
+<p><strong>Transparency</strong>: Representing data, algorithms, processes, or any information
+that affects stakeholders in an open, explicit, and easily comprehensible
+format.</p>
+<p><strong>Diversity</strong>: Having a variety of people (race and ethnicity, age,
+gender, skills and education level, sexual orientation, religion, etc.)
+contributing to the development of an idea or product in an effort to
+avoid bias, to increase the breadth of insight into the development
+process, and to ensure different groups don’t experience disproportionate
+benefits or costs.</p>
+<p><strong>Sustainability</strong>: Practices that serve to protect the environment
+including living creatures and other naturally occurring resources and
+features.</p>
+<p><strong>Intellectual Property</strong>: Crediting the creator or discoverer of work;
+affording control over the work to the creator of the work.</p>
+<p><strong>Decision Making</strong>: Taking responsibility for how a system or organization
+makes decisions, especially those involving life-altering actions.</p>
+<p><strong>Freedom of Speech</strong>: Granting the rights and enforcing the limitations
+of the public to express themselves and correspond, including through electronic
+communication.</p>
+<p><strong>Dignity</strong>: Valuing human and animal life, well-being, and connection
+above productivity or end results.</p>
+<p><strong>Physical and Mental Health</strong>: Proactively taking care to protect the
+health of colleagues, customers, clients, consumers, employees, and oneself.</p>
+<p><strong>Professional Citizenship</strong>: Contributing voice and opinion within
+one’s expertise regarding the ethicality of the work of those around
+them.</p>
+<!-- Should this be expanded beyond just ethics citizenship? -->
+<p><strong>Reliability</strong>:
+Ensuring that one’s work consistently does what claims to do.</p>
+<!-- Ensuring that one's work is consistently functional as -->
+<!-- specified through adequate testing/duplication with a variety of users. -->
+<p><strong>Hospitality</strong>: Creating work that is easily understandable and usable
+both by peers in a similar field and by other stakeholders and interested
+parties.</p>
+<p><strong>Privacy and Security</strong>: Balancing the need for protecting personal and
+group data with the use of that data for the welfare of the public.</p>
+<p><strong>Bias</strong>: Recognizing and reducing any potential biases
+present in an algorithm, model, or process that may have arisen as a result of
+ignorance, assumptions, or past discriminatory societal patterns.</p>
+<p><strong>Data Integrity</strong>: Collecting and handling data in a way that accurately
+reflects the phenomena being studied and is appropriate for the analysis
+techniques employed.
+<!-- minimizes bias or the potential for false results. --></p>
+<p><strong>Professional Ethics</strong>: Contributing one’s best effort in the workplace
+while respecting one’s peers and upholding the requirements of one’s
+employer and the discipline’s overarching guild.</p>
+</div>
