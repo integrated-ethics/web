@@ -128,7 +128,7 @@ If your university has a plan to use future labs, mention that students will hav
 To be included later on a quiz, paper, or exam to determine if learning outcomes were reached:
 1. Name 3 jobs that you as a computer or data scientist could hold in the future
 2. What is ethics?
-3.	Give an example of a product design or a data analysis task that could be have positive effects or negative effects on its users depending on how the data scientist, computer scientist, or engineer approached the implementation.
+3. Give an example of a product design or a data analysis task that could be have positive effects or negative effects on its users depending on how the data scientist, computer scientist, or engineer approached the implementation.
 
 ### Additional Notes:
 This lesson is easily adapted to an asynchronous online environment where a student would complete the assignment individually and then post some of their ideas while also responding to the ideas of others.
@@ -184,6 +184,3 @@ Example:
 A computer hardware designer could create a new phone that was feature rich but also designed to be obsolete within a year so that the user would need to replace it quickly. This would allow for a significant revenue stream for the company. However, the plethora of features could be too complex for an elderly person to manage, and the planned obsolescence could result in excessive e-waste. 
 
 On the flip-side, the designer could implement a version of the phone where the initial setup included a choice of “essentials only” resulting in a screen that was easy to navigate and included a large, clean, display. There could be a prominent “help” button that connected the user with a predetermined relative or caregiver. The phone could come with an offer of a discount if the buyer’s previous phone was turned in for recycling (materials reuse) or donation to a non-profit.
-
-
-
