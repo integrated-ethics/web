@@ -30,7 +30,7 @@ cleaning choices on a fictional data set description.
 
 **Ethics background** required: It is helpful if students have learned
 about the virtue ethics and utilitarian frameworks for making ethical
-decisions though not absolutely required. These frameworks are covered
+decisions, though not absolutely required. These frameworks are covered
 in the first year curriculum.
 
 **Subject matter** referred to in this module: data cleaning, simple
