@@ -1,18 +1,11 @@
 ---
-title: "A First Look at Ethics in Computer and Data Sciences"
-author: "TODO"
-date: "2021-07-01"
-publishdate: "2021-07-02"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
+title: "A First Look at Ethics in Computer and Data Sciences (Homework)"
+date: "2021-06-29"
 ---
 
-A First Look at Ethics in Computer and Data Sciences
+A First Look at Ethics in Computer and Data Sciences (Homework)
 
-Module Summary
+Lab Summary (Expected to be completed as homework)
 
  
 
@@ -23,16 +16,18 @@ tasks
 
 **Placement** in overall ethics curriculum:
 
-         Academic year: First year, first semester, probably
-introductory programming course
+-   If the first year groundwork sequence is incorporated into a
+    > program, this lab should be assigned as homework after the “Why
+    > Ethics?” lab and prior to completing the Virtue Ethics lab in
+    > class
 
-         Recommended previous modules: Why Ethics?
-
-         Recommended follow-up modules: Virtue Ethics* *
+-   If other labs are being used as stand-alone labs, this is a good
+    > homework assignment to use to introduce students to the ethics
+    > frameworks prior to completing any other lab.
 
 **Time required:**
 
-         In class: 25 minutes
+         As homework: 25 minutes
 
 **Learning objectives:**
 
@@ -44,58 +39,57 @@ introductory programming course
 -   Students understand that virtues are characteristics that can be the
     > basis for wise decisions
 
--   Students have the opportunity to see that the relative importance of
-    > virtues differs even within their own peer group
+-   Students try to apply one or more frameworks to make a decision
+    > about an ethical dilemma.
 
 -   Students have opportunities to practice thoughtfully articulating
     > their convictions
 
-**Module overview:**
+**Lab overview:**
 
-[Ethical issue to be considered]{.ul}: This module does not address a
-particular ethical issue, but rather introduces three ways of
-determining the ethical thing, or "the right thing to do." More time is
-spent considering how positive character traits, or virtues, can help us
-to make wise decisions.
+<u>Ethical issue to be considered</u>: data visualization, accessibility
 
-In a previous module, ethics was defined as "the study of what it means
-to 'do the right thing.'". The question then, is how do we know what is
-the right thing? This module introduces the 3 ethical frameworks used in
-future modules. It begins to consider the virtue ethics framework at a
-very high level.
+In a previous lab, ethics was defined as “the study of what it means to
+‘do the right thing’”. The question then, is how do we know what is the
+right thing? This lab introduces the 3 ethical frameworks used in future
+labs. It begins to consider the virtue ethics framework at a very high
+level along with introducing the use of the other frameworks.
 
-[Exercise flow:]{.ul}
+<u>Homework Exercise flow:</u>
 
--   Students are reminded of what "ethics" is
+-   Students are reminded of what “ethics” is
 
 -   Students are introduced to the three ethical frameworks to be
     > applied in future modules
 
--   Activity: Students are asked to reflect on someone who they believe
-    > is of high moral character
+-   Students are asked to reflect on someone who they believe is of high
+    > moral character
 
--   Reflection: Students hear about the heroes of others, and reflect on
-    > how the relative importance of certain virtues might vary among
-    > their peers.
+-   Students are asked how they believe their moral hero would respond
+    > to a situation based on their virtues.
 
-**Preparation required:** Read the entire module. Print a copy of the
-student handout for each student in the class or make it available
-online.
+-   Students consider the application of another ethical framework to
+    > the same situation.
 
- 
+**Preparation required:** Read the entire module several times to become
+familiar with the material. Print or post the student homework
+assignment. Consider questions that might be asked in class after the
+students have completed the assignment. Here are two possibilities:
 
-Instructors Guide
+-   Describe your moral hero and their most significant virtue
 
-[Introduction (5 minutes)]{.ul}
+-   To which scenario did you respond, and which framework was the most
+    > helpful? Summarize your conclusion to the ethical dilemma based on
+    > that framework.
 
-Read or summarize the following:
+Student Homework Assignment
 
-"Ethics is the study of what it means to 'do the right thing.'" Sara
+“Ethics is the study of what it means to ‘do the right thing.’” Sara
 Basse, *A Gift of Fire*
 
-But how do we know what is "the right thing"?
+But how do we know what is “the right thing”?
 
-There are 3 approaches to determining the "right thing" often found in
+There are 3 approaches to determining the “right thing” often found in
 ethics textbooks.
 
 One is the **deontological approach** or framework. This framework is
@@ -108,83 +102,28 @@ Another common approach uses the **utilitarian framework**. There are
 many varieties of this approach, but the basic idea is that the right
 thing to do is the thing that brings the most utility, or happiness, to
 the most people. While the action may help some and hurt others, if the
-benefits to some outweigh the costs to others, the action is "the right
-thing."
+benefits to some outweigh the costs to others, the action is “the right
+thing.”
 
 The third framework, **virtue ethics**, takes a completely different
-approach---it examines the background of our moral decisions and
-actions. For example, it asks how a person who is generous will see a
-situation and its moral demands differently than someone who is greedy.
-The "right thing to do" is the thing that would be chosen by the
-virtuous person.
+approach—it examines the background of our moral decisions and actions.
+For example, it asks how a person who is generous will see a situation
+and its moral demands differently than someone who is greedy. The “right
+thing to do” is the thing that would be chosen by the virtuous person.
 
-Utilitarianism and deontology are helpful and interesting concepts, but
-virtue ethics is often the easiest to grasp. Most of us have at least
-one person that we admire for making wise choices. Today we'll begin
-thinking about ethics by considering the virtues that that wise person
-might have to enable their wise decisions.
-
-[Activity (10 minutes)]{.ul}
-
-Hand out (or point students to an online version of) the Moral Heroes
-Activity
-
-Allow students 7-10 minutes to contemplate and fill out this paper
-
-[Reflection (10 minutes)]{.ul}
-
-In this module, students are asked to openly discuss virtues. To
-encourage authentic engagement with the material and each other, you may
-need to state some guidelines on expectations of peer-to-peer
-interaction. Here are two suggestions from "Guidelines For Classroom
-Interactions", the Center for Research on Learning & Teaching,
-University of Michigan,
-[[http://crlt.umich.edu/examples-discussion-guidelines]{.ul}](http://crlt.umich.edu/examples-discussion-guidelines).
-
-1.  **Understand that your words have effects on others.** Speak with
-    care. If you learn that something you have said was experienced as
-    disrespectful or marginalizing, listen carefully and try to
-    understand that perspective. Learn how you can do better in the
-    future.
-
-2.  **Understand that others will come to these discussions with
-    different experiences from yours.** Be careful about assumptions and
-    generalization you make based only on your experience. Be open to
-    hearing and learning from other perspectives.
-
-Ask several students to share about their moral hero -- with or without
-a name attached. As each student shares, do the following:
-
--   Have student describe their hero, sharing a specific story if they
-    > have one.
-
--   Have student list the virtues that they would attribute to this
-    > person
-
--   Have the student rank the 2 that they think are most important
-
--   Ask class if there was one in the list that was not mentioned as a
-    > top two that they would have chosen in their top 2 and why
-
-Reflect on the fact that relative importance of virtues could vary
-between people
-
-[Assessment]{.ul} (to be included later on a quiz, paper, or exam to
-determine if learning objectives were reached)
-
--   Ask students to define "virtue" and to list 5 virtues
-
--   Ask students to provide one method other than virtue ethics for
-    > deciding "the right thing."
+Virtue ethics is often the easiest framework to initially grasp. Most of
+us have at least one person that we admire for making wise choices. This
+assignment begins with thinking about ethics by considering the virtues
+that that wise person might have to enable their wise decisions.
 
 Moral Heroes Exercise
 
 In her book, *Glittering Vices*, Rebecca DeYoung defines virtues as
-"excellence of character, habits or dispositions of character that help
-us live well as excellent human beings." Using courage as an example of
-a virtue, she explains, "A courageous friend stands up for us when our
-reputation is unfairly maligned, despite risk to his own personal or
-professional reputation."
+“excellence of character, habits or dispositions of character that help
+us live well as excellent human beings.” Using courage as an example of
+a virtue, she explains, “A courageous friend stands up for us when our
+reputation is unfairly maligned, despite the risk to his own personal or
+professional reputation.”
 
 In addition to generosity and courage, here are some commonly-listed
 virtues:
@@ -253,6 +192,8 @@ Sustainability
 
 Tact
 
+In your own words, describe the meaning of “virtue”.
+
 Who is the wisest, most virtuous, morally admirable person you know?
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -266,9 +207,45 @@ virtue-term list above.)
 \_\_\_\_\_\_\_\_\_\_\_\_
 
 -   Now try to rank those virtues in order of their importance. Does
-    > your hero have a "signature" or "defining" virtue that captures
+    > your hero have a “signature” or “defining” virtue that captures
     > their overall character?
 
--   Can you tell a story that illustrates [why]{.ul} this person is
+-   Can you tell a story that illustrates <u>why</u> this person is
     > admirable or showcases what you mean by a particular
     > virtue-attribution?
+
+-   Respond to **one** of the following :
+
+    1.  It is often said that the same data can be used to support a
+        > variety of conclusions. <u>Suppose your moral hero was a data
+        > analyst</u> who was asked to present data (using statistics,
+        > graphs, etc) in a way that supported a policy change that her
+        > company (and the analyst herself) thought would have a very
+        > positive impact on society. However, to do so, she would not
+        > be choosing what she truly believed was the most accurate
+        > presentation method. What would she do and why? (which
+        > virtue(s) previously ascribed to this individual would
+        > influence her decision?)
+
+    2.  <u>Assume that your moral hero was a website designer</u>. He is
+        > asked to work on a website that allows people to get quick
+        > access to medical professionals for virtual appointments.
+        > Getting the site up and running in a timely fashion will make
+        > his company money more quickly, and give those who have
+        > trouble getting to a professional access more quickly.
+        > However, this would happen at the cost of not allowing time to
+        > determine how to make the site most accessible to people with
+        > visual impairments (differing levels of blindness including
+        > color blindness). Retrofitting the site later would be harder
+        > than doing it originally. Does the designer push for delaying
+        > the debut of the site or getting it out as quickly as possible
+        > and why? (which virtue(s) previously ascribed to this
+        > individual would influence his decision?)
+
+-   Consider the descriptions of the other two ethics frameworks
+    > described in the introduction to the assignment. Do you think that
+    > one of them would work better than virtue ethics for deciding the
+    > scenarios you chose above? If so, state that framework and give a
+    > brief description of how you would apply it to make the decision.
+    > If not, explain why neither of the other frameworks would be
+    > helpful.

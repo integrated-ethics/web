@@ -18,30 +18,23 @@ For now, this is by hand. Download the ZIP file and extract it to "Modules".
 # Convert to Markdown
 
 ```{r}
-dir.create("content/lab", showWarnings = FALSE)
 input_files <- Sys.glob("Modules/*.docx")
 output_files <- input_files |> 
-  stringr::str_replace("Modules/", "content/lab/") |>
+  stringr::str_replace("Modules/", "content/labs/") |>
   stringr::str_to_lower() |> 
-  stringr::str_replace(".docx", ".Rmd") |> 
+  stringr::str_replace(".docx", ".md") |> 
   stringr::str_replace_all("[()]", "") |> 
   stringr::str_replace_all(" ", "-")
 
 purrr::walk2(input_files, output_files, function(filename, output_filename) {
-  rmarkdown::pandoc_convert(filename, to = "markdown", output = output_filename, verbose = TRUE, wd = getwd())
+  rmarkdown::pandoc_convert(filename, to = "markdown_strict", output = output_filename, verbose = TRUE, wd = getwd())
   md <- readLines(output_filename)
   title <- md[[1]]
 
 header <- glue::glue("
 ---
 title: \"{title}\"
-author: \"TODO\"
 date: \"2021-06-29\"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: \"svg\"
 ---
 
 ")
