@@ -1,5 +1,15 @@
-# labs
-Lab materials (aka modules)
+# Integrated Ethics Labs Web Site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca3f1be6-b70b-4bd2-9413-00daa9bed208/deploy-status)](https://app.netlify.com/sites/wonderful-fermi-8c4db8/deploys)
+
+This repository supports the Integrated Ethics Labs website, hosted by netlify.  Until we register
+our domain name, you can access the site at
+
+<p align = center>
+<https://wonderful-fermi-8c4db8.netlify.app/>
+</p>
+
+---
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
