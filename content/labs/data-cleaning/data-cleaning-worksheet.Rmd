@@ -2,6 +2,7 @@
 title: "Data Cleaning"
 author: ''
 date: '2021-07-06'
+pagecat: worksheet
 output:
   word_document: default
   html_document:
