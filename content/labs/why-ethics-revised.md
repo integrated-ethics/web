@@ -1,9 +1,10 @@
 ---
 title: "Why Ethics?"
-author: "TODO"
+author: "Lori Carter"
 date: "2021-07-01"
 publishdate: "2021-07-01"
 draft: false
+pagecat: lab
 output:
   blogdown::html_page:
     toc: true

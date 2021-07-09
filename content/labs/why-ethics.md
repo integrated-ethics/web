@@ -1,6 +1,7 @@
 ---
 title: "Why Ethics?"
 publishdate: "2021-07-01"
+pagecat: lab
 output:
   blogdown::html_page:
     toc: true
