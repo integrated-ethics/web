@@ -2,14 +2,13 @@
 title: "Data Cleaning"
 author: "Lori Carter"
 date: "2021-07-06"
+pagecat: lab
 ---
 
 # Student Handout
 
 * [HTML](data-cleaning-worksheet/)
-* [Rmd](data-cleaning-worksheet.Rmd)
-* [Word](data-cleaning-worksheet.docx)
-* [PDF](data-cleaning-worksheet.pdf)
+* [Rmd](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.Rmd)
  
 # For Instructors
 
