@@ -2,9 +2,18 @@
 {{ if .File.Path }}
 
 {{ $Rmd := (print .File.BaseFileName ".Rmd") }}
+{{ $Rmarkdown := (print .File.BaseFileName ".Rmarkdown") }}
+{{ $md := (print .File.BaseFileName ".md") }}
+{{ $markdown := (print .File.BaseFileName ".markdown") }}
 
 {{ if (where (readDir (print "content/" .File.Dir)) "Name" $Rmd) }}
   {{ $.Scratch.Set "FilePath" (print .File.Dir $Rmd) }}
+{{ else if (where (readDir (print "content/" .File.Dir)) "Name" $Rmarkdown) }}
+  {{ $.Scratch.Set "FilePath" (print .File.Dir $Rmarkdown) }}
+{{ else if (where (readDir (print "content/" .File.Dir)) "Name" $md) }}
+  {{ $.Scratch.Set "FilePath" (print .File.Dir $md) }}
+{{ else if (where (readDir (print "content/" .File.Dir)) "Name" $markdown) }}
+  {{ $.Scratch.Set "FilePath" (print .File.Dir $markdown) }}
 {{ else }}
   {{ $.Scratch.Set "FilePath" .File.Path }}
 {{ end }}
