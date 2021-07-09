@@ -23,10 +23,10 @@ publishdate: "2021-07-09"
 statistics, data science, or programming course
 
 -   Recommended previous labs: 
-[*A First Look at Ethics in Computer and Data Science*](first-look/)`
+[*A First Look at Ethics in Computer and Data Science*](../first-look/)`
 (this lab is designed to be completed as homework)
 
--   Recommended follow-up labs: [*Analogies*](analogies/)
+-   Recommended follow-up labs: [*Analogies*](../analogies/)
 
 **Time** required:
   **Out of class**: None;  **In class**: 20-30 minutes
