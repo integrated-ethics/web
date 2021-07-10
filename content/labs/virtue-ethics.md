@@ -8,7 +8,7 @@ publishdate: "2021-07-09"
 
 # Student Handout
 
-* [HTML](virthu-ethics-worksheet/)
+* [HTML](virtue-ethics-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/virtue-ethics/virtue-ethics-worksheet.Rmd)
 
 # Overview
