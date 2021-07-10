@@ -3,7 +3,7 @@ title: About Integrated Ethics Labs
 slug: about
 ---
 
-Integrated Ethics Labs was started by Lori Carter and Catherine Crockett at
+Integrated Ethics Labs (ie:Labs) was started by Lori Carter and Catherine Crockett at
 Point Loma Nazarene University in 2017. Since then the team has expanded to
 include a number of authors and developers.
 
