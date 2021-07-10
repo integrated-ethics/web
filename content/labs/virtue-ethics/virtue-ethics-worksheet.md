@@ -98,7 +98,9 @@ Respect
 
 Self-discipline
 
-Self-sacrifice Service
+Self-sacrifice 
+
+Service
 
 Sustainability
 
