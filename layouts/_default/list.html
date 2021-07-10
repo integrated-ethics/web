@@ -6,22 +6,7 @@
 
 {{ .Content }}
 
-<ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "!=" "") }}
-  {{ if and (.PublishDate.After (time "2021-07-01")) (.PublishDate.Before now) }}
-  {{ $pagecat := .Params.pagecat }}
-  {{ if eq "lab" $pagecat }}
-
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    ({{.Date.Format "2006-01-02" }})
-  </li>
-  {{ end }}
-  {{ end }}
-  {{ end }}
-</ul>
+{{ partial "lab-list.html" . }}
 
 {{ template "_internal/disqus.html" . }}
 
