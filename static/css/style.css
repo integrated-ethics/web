@@ -17,9 +17,14 @@ a:visited{
 
 /* header and footer areas */
 .menu { 
-  padding: 0; 
+  padding: 0;
+  position: relative;
+  right: 0px;
+  bottom: -10px;
 }
+
 .menu li { display: inline-block; }
+
 .article-meta, .menu a {
   text-decoration: none;
   color: black;
