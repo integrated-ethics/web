@@ -16,7 +16,9 @@ a:visited{
 }
 
 /* header and footer areas */
-.menu { padding: 0; }
+.menu { 
+  padding: 0; 
+}
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
@@ -26,7 +28,9 @@ a:visited{
   padding: 5px;
   border-radius: 5px;
 }
-.menu, .article-meta, footer { text-align: center; }
+.article-meta, footer { text-align: center; }
+.menu{ text-align: right;}
+
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
