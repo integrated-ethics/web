@@ -15,15 +15,15 @@ include a number of authors and developers.
 * Catherine Crockett, Point Loma Nazarene University
 * Stacy DeRuiter, Calvin University
 * Rebecca DeYoung, Calvin University
-* Maria Hack, Point Loma Nazarene University
+* Maria Zack, Point Loma Nazarene University
 * Paul Schmelzenbach, Point Loma Nazarene University
 * Randall Pruim, Calvin University
 * Derek Schuurman, Calvin University
 
 ## Access and Availability
 
-Materials produced by Integrated Ethics are available at 
-[integratedethics.org](https://integratedethics.org) and made available
+Materials produced by Integrated Ethics Labs are available at 
+[integratedethicslabs.org](https://integratedethicslabs.org) and made available
 under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Citing Integrated Ethics
