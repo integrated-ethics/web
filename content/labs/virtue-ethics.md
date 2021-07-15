@@ -1,6 +1,6 @@
 ---
 title: "Virtue Ethics"
-author: "Lori Cater, Rebecca DeYoung"
+author: "Lori Carter, Rebecca DeYoung"
 pagecat: lab
 date: "2021-07-09"
 publishdate: "2021-07-09"
