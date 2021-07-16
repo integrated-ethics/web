@@ -2,6 +2,11 @@
 pagetitle: ie:Pubs
 title: Publications and Presentations
 slug: pubs
+bibliography: references.bib
+nocite: | 
+  @Carter:2019
 ---
 
-{{<center Coming soon... >}}
+&nbsp;
+
+
