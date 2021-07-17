@@ -2,49 +2,93 @@
 title: Home
 ---
 
-# Integrated Ethics Labs
+<div class = "banner-left">
 
-## Project Overview
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
+
+<div class = "banner-text">
+<h1>
+Bring Ethics<br> to the Classroom
+</h1>
+
+<div>
+Current ie:Labs focus on 
+<strong>computer science, data science, 
+statistics</strong>, and <strong>engineering</strong>.
+</div>
+
+<div class = "center">
+<a class = "button" href = "/labs/">
+View Labs
+</a>
 
 
+</div>
+</div>
+</div>
 
-## Citation and Licensing
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+<div class = "banner-right">
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+<div class = "banner-text">
+<h1>
+A Progressive Approach
+</h1>
+<div>
+Integrated Ethics Labs (ie:Labs) are designed to be used as part of a <strong>comprehensive, progressive plan</strong>
+that strengthens students' habits of mind and 
+behavior throughout a multi-year program.
+</div>
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-We want you to use these materials, which might mean modifying them to suit your purposes. 
-Our CC BY-NC-SA license should support you in this. You can read the details by following the links above,
-but here are the main points:
+<div class = "center">
+<a class = "button" href = "/progressive-approach/">
+Read More...
+</a>
+</div>
 
-You are free to:
 
-* **Share** — copy and redistribute the material in any medium or format
+</div>
+</div>
+</div>
 
-* **Adapt** — remix, transform, and build upon the material
+<div class = "banner-left">
 
-subject to these restrictions:
 
-* **NonCommercial** — You may not use the material for commercial purposes.
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
 
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+<div class = "banner-text">
+<h1>
+Use, Share, <br>Remix
+</h1>
+<div>
+ie:Labs are provided under 
+the <strong>CC-BY-NC-SA 4.0</strong> license.
+This means you can customize the labs
+to suit your courses and your students. 
 
-* **Attribution** — You must give appropriate credit, provide a link to the
-license, and indicate if changes were made. You may do so in any reasonable
-manner, but not in any way that suggests the licensor endorses you or your use.
+</div>
 
-    Please use the following attribution for this work:
+<div class = "center">
+<a class = "button" href = "/license/">
+View License Info
+</a>
 
-`r blogdown::shortcode('ie-cite')`    
-    
+
+</div>
+</div>
+</div>
+
 
 ## Available Labs
-

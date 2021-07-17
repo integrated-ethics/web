@@ -2,41 +2,93 @@
 title: Home
 ---
 
-# Integrated Ethics Labs
+<div class = "banner-left">
 
-## Project Overview
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
 
-## Citation and Licensing
+<div class = "banner-text">
+<h1>
+Bring Ethics<br> to the Classroom
+</h1>
 
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<div>
+Current ie:Labs focus on 
+<strong>computer science, data science, 
+statistics</strong>, and <strong>engineering</strong>.
+</div>
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+<div class = "center">
+<a class = "button" href = "/labs/">
+View Labs
+</a>
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-We want you to use these materials, which might mean modifying them to suit your purposes.
-Our CC BY-NC-SA license should support you in this. You can read the details by following the links above,
-but here are the main points:
+</div>
+</div>
+</div>
 
-You are free to:
 
--   **Share** — copy and redistribute the material in any medium or format
+<div class = "banner-right">
 
--   **Adapt** — remix, transform, and build upon the material
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
 
-subject to these restrictions:
+<div class = "banner-text">
+<h1>
+A Progressive Approach
+</h1>
+<div>
+Integrated Ethics Labs (ie:Labs) are designed to be used as part of a <strong>comprehensive, progressive plan</strong>
+that strengthens students' habits of mind and 
+behavior throughout a multi-year program.
+</div>
 
--   **NonCommercial** — You may not use the material for commercial purposes.
 
--   **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+<div class = "center">
+<a class = "button" href = "/progressive-approach/">
+Read More...
+</a>
+</div>
 
--   **Attribution** — You must give appropriate credit, provide a link to the
-    license, and indicate if changes were made. You may do so in any reasonable
-    manner, but not in any way that suggests the licensor endorses you or your use.
 
-    Please use the following attribution for this work:
+</div>
+</div>
+</div>
 
-{{% ie-cite %}}
+<div class = "banner-left">
+
+
+<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
+  <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
+</svg>
+
+<div class = "banner-text">
+<h1>
+Use, Share, <br>Remix
+</h1>
+<div>
+ie:Labs are provided under 
+the <strong>CC-BY-NC-SA 4.0</strong> license.
+This means you can customize the labs
+to suit your courses and your students. 
+
+</div>
+
+<div class = "center">
+<a class = "button" href = "/license/">
+View License Info
+</a>
+
+
+</div>
+</div>
+</div>
+
 
 ## Available Labs

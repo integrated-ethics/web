@@ -10,14 +10,13 @@
   </head>
 
   <body>
-    <div>
+    <div class = "top-nav">
+    <a class = "logo" href = "/"> </a>
     <nav>
-      <img src = "/images/integrated-ethics-logo.svg" height = 35px align = left>
     <ul class="menu">
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
-    </div>
-    <hr/>
     </nav>
+    </div>
