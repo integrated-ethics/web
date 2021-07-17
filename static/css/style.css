@@ -1,4 +1,15 @@
 
+a:link{
+  text-decoration: none;
+  color: #0F8A95; /* greenish */
+  
+}
+
+a:visited{
+  text-decoration: none;
+  background-color: #810505; /* redish */
+}
+
 div.center {
   text-align: center;
 }
@@ -116,7 +127,7 @@ a.button {
   padding-bottom: 2px;
   border-radius: 8px;
   font-weight: 600; 
-  color: white !important;
+  color: white;
   background-color: #810505;
   background-color: #3286D9; 
   background-color: #0F8A95; /* greenish */
@@ -142,17 +153,6 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
-}
-
-a:link{
-  text-decoration: none;
-  color: #0F8A95; /* greenish */
-  
-}
-
-a:visited{
-  text-decoration: none;
-  background-color: #810505; /* redish */
 }
 
 /* header and footer areas */
