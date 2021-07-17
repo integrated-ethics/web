@@ -1,3 +1,16 @@
+
+# generated HTML, etc.
+content/license.html
+content/pubs.html
+convert-gdrive.html
+index.html
+README.html
+
+static/rmarkdown-libs
+
+# Mac stuff
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
@@ -7,6 +20,7 @@
 
 # User-specific files
 .Ruserdata
+labs.Rproj
 
 # Example code in package build process
 *-Ex.R
