@@ -151,6 +151,10 @@ label.hamburger-menu, #hamburger {
     border: none;
   }
   
+  nav.hamburger-menu a:visited {
+    color: #810505; /* redish */
+  }
+  
   /* (B) SHOW HAMBURGER ICON */
   
   label.hamburger-menu {
