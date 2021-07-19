@@ -84,6 +84,10 @@ nav.hamburger-menu {
   border-radius: 5px;
 }
 
+nav.hamburger-menu a:visited {
+    color: #810505; /* redish */
+}
+  
 .hamburger-menu li:hover {
   color: #810505; /* redish */
   background-color:#eeeeee;
@@ -149,10 +153,6 @@ label.hamburger-menu, #hamburger {
   
   nav.hamburger-menu li:first-of-type {
     border: none;
-  }
-  
-  nav.hamburger-menu a:visited {
-    color: #810505; /* redish */
   }
   
   /* (B) SHOW HAMBURGER ICON */
