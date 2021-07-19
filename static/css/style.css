@@ -1,4 +1,36 @@
 
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+}
+
+/* header and footer areas */
+.menu { 
+  padding: 0;
+  position: relative;
+  right: 0px;
+  bottom: -10px;
+}
+
+.menu li { 
+  display: inline-block; 
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+  font-weight:500;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.menu a:hover {
+  color: #810505; /* redish */
+  background-color:#eeeeee;
+}
+
 
 /* * {
   box-sizing: border-box;
@@ -28,7 +60,124 @@ div.top-nav {
 nav {
   vertical-align: bottom;
   text-align: bottom;
+  float: right;
 }
+
+/* ********* hamburger menu ********* */
+/* default = large screen first; small screen to follow */
+nav.hamburger-menu { 
+  padding: 0;
+  position: relative;
+  right: 0px;
+  bottom: -5px;
+}
+
+.hamburger-menu li { 
+  display: inline-block; 
+}
+
+.hamburger-menu a {
+  text-decoration: none;
+  color: black;
+  font-weight:500;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.hamburger-menu li:hover {
+  color: #810505; /* redish */
+  background-color:#eeeeee;
+}
+
+/* (B) HORIZONTAL MENU ITEMS */
+.hamburger-menu ul { 
+  display: flex; 
+  color: #810505; /* redish */
+}
+
+.hamburger-menu li:hover { 
+  background-color:#eeeeee;
+}
+
+.hamburger-menu ul a {
+  flex-grow: 1;
+  flex-basis: 0;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.hamburger-menu ul a:link { 
+  color: #810505; /* redish */
+  border-radius: 0px;
+}
+
+/* (C) HIDE HAMBURGER */
+label.hamburger-menu, #hamburger { 
+  display: none; 
+}
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px){
+  
+  /* (A) BREAK INTO VERTICAL MENU */
+  
+  nav.hamburger-menu {
+    position: absolute;
+    z-index: 99;
+    right: 20px;
+    top: 45px;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  nav.hamburger-menu ul {
+    display: block;
+    background-color: white;
+    padding: 5px;
+    border: solid 1px #333;
+    border-radius: 5px;
+  }
+  
+  nav.hamburger-menu li {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border-top: 1px solid #333;
+    text-align: center;
+  }
+  
+  nav.hamburger-menu li:first-of-type {
+    border: none;
+  }
+  
+  /* (B) SHOW HAMBURGER ICON */
+  
+  label.hamburger-menu {
+    float:right;
+  }
+  
+  label.hamburger-menu { 
+    display: inline-block; 
+    color: #810505; /* redish */
+    font-style: normal;
+    font-size: 2em;
+    padding: 10px;
+    text-align: right;
+    float: right;
+  }
+  
+  /* (C) TOGGLE SHOW/HIDE MENU */
+  nav.hamburger-menu { 
+    display: none; 
+  }
+  
+  input#hamburger:checked ~ nav { 
+    display: block; 
+  }
+}
+
+/* ******* end hamburger menu *********** */
 
 .img-overlay-wrap {
   position: relative;
@@ -169,38 +318,6 @@ a.button {
   background-color: #810505; /* redish */
 }
 
-
-body {
-  max-width: 800px;
-  margin: auto;
-  padding: 1em;
-  line-height: 1.5em;
-}
-
-/* header and footer areas */
-.menu { 
-  padding: 0;
-  position: relative;
-  right: 0px;
-  bottom: -10px;
-}
-
-.menu li { 
-  display: inline-block; 
-}
-
-.menu a {
-  text-decoration: none;
-  color: black;
-  font-weight:500;
-  padding: 5px;
-  border-radius: 5px;
-}
-
-.menu a:hover {
-  color: #810505; /* redish */
-  background-color:#eeeeee;
-}
 
 .article-meta {
   text-decoration: none;

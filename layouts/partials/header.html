@@ -14,8 +14,10 @@
   <body>
     <div class = "top-nav">
     <a class = "logo" href = "/"> </a>
-    <nav>
-    <ul class="menu">
+    <label for="hamburger" class = "hamburger-menu">&#9776;</label>
+    <input type="checkbox" id="hamburger"/>
+    <nav class = "hamburger-menu">
+    <ul class = "hamburger-menu">
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
