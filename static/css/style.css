@@ -1,4 +1,9 @@
 
+
+/* * {
+  box-sizing: border-box;
+} */
+
 a:link{
   text-decoration: none;
   color: #0F8A95; /* greenish */
@@ -43,14 +48,30 @@ nav {
   left: 0;
 }
 
+div.classroom {
+  background-image: url(https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+}
+
+div.progressive-approach {
+  background-image: url(https://images.unsplash.com/photo-1448387473223-5c37445527e7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+}
+
+
+div.use-share-remix {
+  background-image: url(https://images.unsplash.com/photo-1516383607781-913a19294fd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+}
+
+
 div.banner-left, div.banner-right {
   margin-top: 5px;
   margin-bottom: 5px;
   position: relative;
-  background-image: url(https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80); /*  no-repeat center / contain; */
-  width: 810px; 
+  background-image-size: cover; 
+  background-image-repeat: no-repeat;
+  max-width: 100%;
   height: 315px;
   color: white;
+  clip-path: inset(0px);
 }
 
 div.banner-left svg {
@@ -61,21 +82,22 @@ div.banner-left svg {
 }
 
 div.banner-right svg {
-  transform: scale(-1, 1); /* rotate(180deg); */
+  transform: scale(-1, 1); 
   position: absolute;
   height: 100%;
+  
   top: 0;
   right: 0;
 }
 
 div.banner-left svg path {
   opacity: 50%; 
-  fill: #810505;
+  fill: #3286D9; 
 }
 
 div.banner-right svg path {
   opacity: 50%; 
-  fill: #3286D9; 
+  fill: #810505;
 }
 
 div.banner-left img,
@@ -233,3 +255,30 @@ div.hanging-indent{
   padding-bottom: 5px;
 }
 
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+/*  body, .menu, h1 {
+    background-color: red !important;
+  } */
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  
+}
