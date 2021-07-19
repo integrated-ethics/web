@@ -2,9 +2,9 @@
 title: Home
 ---
 
-<div class = "banner-left">
 
-<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
+<div class = "banner-left classroom">
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
   <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
 </svg>
@@ -31,9 +31,8 @@ View Labs
 </div>
 
 
-<div class = "banner-right">
+<div class = "banner-right progressive-approach">
 
-<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
   <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
 </svg>
@@ -60,10 +59,9 @@ Read More...
 </div>
 </div>
 
-<div class = "banner-left">
 
+<div class = "banner-left use-share-remix" >
 
-<!-- <img src = "https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80"> -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 831 630">
   <path opacity = 0.5 class="cls-1" d="M820.57,555.66c8.76-63.87-4.61-128.8-41.62-181.6L688.71,245.3C640.2,176.08,570.15,126.22,490.87,96.91A137.81,137.81,0,0,1,421.1,39.35,137.53,137.53,0,0,1,404.83,0H0V630H831A137.45,137.45,0,0,1,820.57,555.66Z"/>
 </svg>
