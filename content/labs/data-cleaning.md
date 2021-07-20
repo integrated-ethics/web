@@ -7,7 +7,7 @@ pagecat: lab
 
 # Student Handout
 
-* [HTML](data-cleaning-worksheet/)
+* [web page](data-cleaning-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.Rmd)
  
 # For Instructors
