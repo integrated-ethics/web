@@ -104,7 +104,7 @@ lab could be completed in about 30 minutes, be prepared to be flexible regarding
 both the time devoted to the labs and the directions that student conversations 
 may go.
 
-### Preparing to lead a lab
+## Preparing to lead a lab
 
 Each lab provides to the professor the following:
 
