@@ -1,5 +1,6 @@
 ---
 title: What grade should a student receive?
+date: 2021-07-21
 ---
 
 ## Scenario 
