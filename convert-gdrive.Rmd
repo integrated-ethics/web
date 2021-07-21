@@ -1,7 +1,7 @@
 ---
 title: "Convert GDrive"
-author: "K Arnold"
-date: "6/29/2021"
+author: "K Arnold; R Pruim"
+date: "2021-06-29; 2021-07-21"
 output: html_document
 ---
 
@@ -18,9 +18,9 @@ For now, this is by hand. Download the ZIP file and extract it to "Modules".
 # Convert to Markdown
 
 ```{r}
-input_files <- Sys.glob("Modules/*.docx")
+input_files <- Sys.glob("Google/Labs Ready for Prime Time/*.docx")
 output_files <- input_files |> 
-  stringr::str_replace("Modules/", "content/labs/") |>
+  stringr::str_replace("Google/Labs Ready for Prime Time/", "content/labs/") |>
   stringr::str_to_lower() |> 
   stringr::str_replace(".docx", ".md") |> 
   stringr::str_replace_all("[()]", "") |> 
@@ -34,10 +34,11 @@ purrr::walk2(input_files, output_files, function(filename, output_filename) {
 header <- glue::glue("
 ---
 title: \"{title}\"
-date: \"2021-06-29\"
+date: \"{date}\"
 ---
 
-")
+",
+date = lubridate::today())
 
 writeLines(
   paste0(c(header, md), collapse = "\n"),
