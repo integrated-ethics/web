@@ -202,7 +202,7 @@ label.hamburger-menu, #hamburger {
 }
 
 div.banner-spacer{
-  height: 115px; 
+  height: 115px !important; 
   width: 100%; 
 }
 
