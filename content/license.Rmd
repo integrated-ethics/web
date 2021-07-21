@@ -5,11 +5,7 @@ pagecat: license
 ---
 
 
-
-<div class = "use-share-remix banner-spacer">
-&nbsp;
-&nbsp;
-</div>
+<div class = "use-share-remix banner-spacer"> </div>
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
