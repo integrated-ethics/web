@@ -3,9 +3,7 @@ title: ie:Labs Overview
 pagecat: page
 ---
 
-<div class = "classroom">
-<div class = "banner-spacer">
-</div>
+<div class = "classroom banner-spacer">
 </div>
 
 # Introductory Labs 
