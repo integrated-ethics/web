@@ -1,6 +1,7 @@
 ---
 title: Why Ethics?
-date: 2021-07-20
+pagecat: lab
+date: 2021-07-21
 ---
 
 # Student Handout

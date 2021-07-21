@@ -1,14 +1,10 @@
 ---
-title: "Introduction to<br>the Deontology Framework<br> Using AI"
+title: "Introduction to the Deontology Framework Using AI"
 author: ""
+pagecat: "lab"
 date: "2021-06-29"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
+publishdate: "2021-07-21"
 ---
-
 
 # Student Handout
 

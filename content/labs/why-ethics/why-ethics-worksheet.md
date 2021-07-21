@@ -1,7 +1,7 @@
 ---
 title: Why Ethics?
 pagecat: worksheet
-date: 2021-07-20
+date: 2021-07-21
 ---
 
 ## Potential Jobs for Computer and Data Scientists
