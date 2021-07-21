@@ -21,7 +21,7 @@ statistics</strong>, and <strong>engineering</strong>.
 </div>
 
 <div class = "center">
-<a class = "button" href = "/labs/">
+<a class = "button" href = "/labs-overview/">
 View Labs
 </a>
 
