@@ -3,6 +3,11 @@ title: Introduction to<br>the Integrated Ethics Curriculum
 date: 07/20/2021
 ---
 
+<div class = "progressive-approach">
+<div class = "banner-spacer">
+</div>
+</div>
+
 Integrated Ethics Labs is an
 on-going project with the goal of providing professor- and student-friendly
 ethics labs to be integrated into computer sciene, data science, and statistics 
