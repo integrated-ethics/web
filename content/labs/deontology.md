@@ -1,6 +1,6 @@
 ---
-title: "Introduction to the Deontology Framework Using AI"
-author: "TODO"
+title: "Introduction to<br>the Deontology Framework<br> Using AI"
+author: ""
 date: "2021-06-29"
 output:
   blogdown::html_page:
@@ -9,11 +9,13 @@ output:
     dev: "svg"
 ---
 
-Introduction to the Deontology Framework Using AI
 
-Module Summary
+# Student Handout
 
- 
+* [web version](deontology-worksheet/)
+* [Markdown]()
+
+# Overview
 
 **Ethics background** required: Familiarity with Virtue Ethics and the
 need for the study of ethics in computer and data sciences is helpful
@@ -23,18 +25,14 @@ intelligence, computer programming
 
 **Placement** in overall ethics curriculum:
 
-         Academic year: First year, second semester, probably second
+* Academic year: First year, second semester, probably second
 semester programming course
 
-         Recommended previous modules: Why Ethics? and Virtue Ethics
+* Recommended previous modules: Why Ethics? and Virtue Ethics
 
-         Recommended follow-up modules: Analogies* *
+* Recommended follow-up modules: Analogies* *
 
-**Time** required:
-
-> Out of class: None
-
-         In class: 25-30 minutes
+**Time** required:  **Out of class**: None;  **In class**: 25-30 minutes
 
 **Learning objectives**:
 
@@ -42,9 +40,9 @@ semester programming course
 
 **Module overview**:
 
-[Ethical issue to be considered]{.ul}: AI decision making
+**Ethical issue to be considered**:  AI decision making
 
-[Exercise flow:]{.ul}
+**Flow**
 
 -   Students are reminded of what the virtue ethics framework is and
     discuss some of its challenges
@@ -61,17 +59,16 @@ semester programming course
 -   Students are introduced to the ACM code of ethics
 
  
-
 **Preparation required:** Read the entire module. Print a copy of the
 student handout for each student in the class or provide access to a
 document posted online. Have a copy of the professor "answers" available
 in case you need them.
 
-Instructors Guide
+# Guide for Instructors 
 
-**Lesson plan**
+## Lesson plan
 
-[Introduction]{.ul} (to be read or summarized to class) (5 minutes)
+### Introduction (to be read or summarized to class) (5 minutes)
 
 Recall that ethics is the study of determining the right thing to do (in
 a moral sense). In designing computer programs and performing data
@@ -127,7 +124,7 @@ given a numerical grade. Commonly, 93 and above is an A, 90 up to less
 than 93 is an A- etc. But how many times have you been close to a grade
 and felt that just going by the rubric was not "fair"?
 
-[Activity (7-10 minutes)]{.ul}
+### Activity (7-10 minutes)
 
 Best to put the students into groups of 3-4. Can be completed
 individually, however.
@@ -139,8 +136,7 @@ rules-based deontological decision making process, you may just want to
 stick to the rubric (which already is a rule!), or you may want to take
 other things into consideration.
 
-[Reflection (to be completed in class after the activity is finished)
-(10-15 minutes)]{.ul}
+### Reflection (to be completed in class after the activity is finished) (10-15 minutes)
 
 Have class come back together. Each group should explain their virtue
 ethics decision (along with the virtues that influenced the choice).
@@ -188,16 +184,16 @@ professionals) has a code of ethics. Part of this code of ethics is
 found on the second page (or backside) of the student handout. Let the
 students read and comment if there is time.
 
-[Assessment]{.ul} (to be included later on a quiz, paper, or exam to
-determine if learning objectives were reached)
+### Assessment
+<!-- (to be included later on a quiz, paper, or exam to determine if learning objectives were reached) -->
 
--   Briefly describe the deontological approach to determining if
+1. Briefly describe the deontological approach to determining if
     something is the right course of action.
 
     -   Following a set of rules or guidelines. If a course of action
         adheres to the rules, it is the right thing to do.
 
--   What are the benefits of the deontological approach and what are the
+2. What are the benefits of the deontological approach and what are the
     drawbacks
 
     -   Benefit is that the result is more uniform and easier for the
@@ -206,10 +202,10 @@ determine if learning objectives were reached)
     -   Drawback is that it is hard to come up with a set of rules that
         covers every possibility
 
--   Provide a scenario and ask student to come up with a set of rules to
+3. Provide a scenario and ask student to come up with a set of rules to
     ethically decide the outcome.
 
--   Ask student to identify a set of rules that society follows:
+4. Ask student to identify a set of rules that society follows:
 
     -   Traffic rules
 
@@ -228,58 +224,4 @@ determine if learning objectives were reached)
 
     -   There are many!
 
-**\
-**
 
-**AI Algorithm Handout**
-
-Scenario: After taking the final exam, the student's course grade is
-59.5% (on a scale where passing is 60%).
-
-**Address the grade issue using virtue ethics:**
-
-What grade would the virtuous professor assign? Would it make a
-difference if the grade was between an A- and an A? What virtues would
-be involved in the decision?
-
-**Address the grade issue using deontology:**
-
-You have been asked to write a program that will determine grades so
-that the grade assignment is less subjective. Come up with an algorithm
-(for that program) for assigning grades when a student is on the
-borderline between two grades.
-
-**Partial ACM Code of Ethics**
-
--   Contribute to society and to human well-being, acknowledging that
-    all people are stakeholders in computing.
-
--   Avoid harm
-
--   Be honest and trustworthy
-
--   Be fair and take action not to discriminate.
-
--   Respect the work required to produce new ideas, inventions, creative
-    works, and computing artifacts.
-
--   Respect privacy
-
--   Honor confidentiality
-
--   Strive to achieve high quality in both the processes and products of
-    professional work.
-
--   Maintain high standards of professional competence, conduct, and
-    ethical practice.
-
--   Know and respect existing rules pertaining to professional work.
-
--   Accept and provide appropriate professional review..
-
--   Give comprehensive and thorough evaluations of computer systems and
-    their impacts, including analysis of possible risks.
-
--   Perform work only in areas of competence
-
--   Design and implement systems that are robustly and usably secure.
