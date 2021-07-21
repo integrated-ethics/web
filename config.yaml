@@ -20,7 +20,7 @@ menu:
       url: "about/"
       weight: 30
     - name: Labs
-      url: "labs-overview/"
+      url: "labs/"
       weight: 2
     - name: Resources
       url: "resources/"
