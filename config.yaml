@@ -18,10 +18,10 @@ menu:
       weight: 1
     - name: About
       url: "about/"
-      weight: 2
+      weight: 30
     - name: Labs
       url: "labs-overview/"
-      weight: 3
+      weight: 2
     - name: Resources
       url: "resources/"
       weight: 4
