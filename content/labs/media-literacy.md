@@ -1,29 +1,23 @@
 ---
-title: "Media Literacy"
-author: "TODO"
-date: "2021-06-29"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
+title: "Media Literacy Lab"
+date: "2021-07-21"
 ---
 
-Media Literacy Module
+Media Literacy Lab
 
-Module Summary
+Lab Summary
 
  
 
 **Ethics background** required: Basic understanding of the analogy
 ethical framework is helpful, but it will be briefly reviewed in the
-module.
+lab.
 
-**Subject matter** referred to in this module:
+**Subject matter** referred to in this lab:
 
-This module can be used as a precursor to any assignment where students
-are required to perform research on the web and are expected to choose
-their own articles. References are made to technology, but no specific
+This lab can be used as a precursor to any assignment where students are
+required to perform research on the web and are expected to choose their
+own articles. References are made to technology, but no specific
 knowledge is needed.
 
 **Placement** in overall ethics curriculum:
@@ -31,11 +25,10 @@ knowledge is needed.
 > Academic year: Years 2-4 where students are preparing to go deeper
 > into subjects in their disciplines
 
-            Recommended previous modules: Year one curriculum covering
-ethical frameworks is helpful.
+            Recommended previous labs: Foundational Labs are helpful
 
-> Recommended follow-up modules: We use this as a precursor to the open
-> source accessibility module
+> Recommended follow-up labs: We use this as a precursor to the open
+> source accessibility lab
 
 **Time** required:
 
@@ -49,7 +42,7 @@ In class: 20-30 minutes * *
 **Learning objectives**:
 
 -   Learn about media literacy and apply it to finding articles for
-    research
+    > research
 
 -   Practice critical thinking, and articulating observations
 
@@ -57,9 +50,9 @@ In class: 20-30 minutes * *
 
 * *
 
-**Module overview**:
+**Lab overview**:
 
-[Ethical issues to be considered]{.ul}: Media Literacy, Transparency,
+<u>Ethical issues to be considered</u>: Media Literacy, Transparency,
 Data Integrity, Diversity
 
 Many students get all of their information from social media. It is
@@ -72,39 +65,39 @@ when doing background research.
 
 **Preparation required:**
 
--   **Read entire module**
+-   **Read entire lab**
 
 -   Make pre-discussion material available either online or on paper.
 
 -   Review the answers that students have made about which of the
-    articles is most helpful
+    > articles is most helpful
 
 -   Prepare a slide (or paper handouts) with the analogous scenario for
-    the in-class activity
+    > the in-class activity
 
-[Exercise flow:]{.ul}
+<u>Exercise flow:</u>
 
 This part should be completed prior to class
 
 -   Students read an included article (a review) that touts the good
-    points of a product
+    > points of a product
 
 -   Students answer questions about whether the product would be good to
-    purchase, and what, if any drawbacks they see
+    > purchase, and what, if any drawbacks they see
 
 -   Students read a second included article which gives both sides of
-    the product, and is written by a credible organization
+    > the product, and is written by a credible organization
 
 -   Students answer questions about the credibility and helpfulness of
-    each of the articles
+    > each of the articles
 
 > In class part
 
--   An analogy is considered to help shed light on students' varied
-    opinions
+-   An analogy is considered to help shed light on students’ varied
+    > opinions
 
 -   As a class, students come up with guidelines as to what is a
-    credible article and what is not
+    > credible article and what is not
 
 -   Professor augments those guidelines as necessary
 
@@ -112,12 +105,12 @@ Instructors Guide
 
 **Lesson plan**
 
-[Pre-discussion assignment: Homework or activity completed in previous
-class (professor's choice)]{.ul}
+<u>Pre-discussion assignment: Homework or activity completed in previous
+class (professor’s choice)</u>
 
 -   Professor has students complete the handout as homework or in some
-    other way before the class discussion so that the professor can read
-    student answers.
+    > other way before the class discussion so that the professor can
+    > read student answers.
 
 ***Notes to professor on the pre-discussion assignment**: The first
 article is a review for a lithium battery power backup system. The
@@ -137,8 +130,8 @@ both of the options. Some students felt that because the article gave
 both sides, it would have been enough to read. Both articles were
 current at the time of this writing.*
 
-[Introduction to class discussion portion (To be read or summarized and
-**tailored to your results**) (1 min)]{.ul}
+<u>Introduction to class discussion portion (To be read or summarized
+and **tailored to your results**) (1 min)</u>
 
 You have had the opportunity to read two articles presenting on similar
 topics, but with different purposes and levels of credibility. While
@@ -149,7 +142,7 @@ and whether it was helpful to read just the more credible article or
 both.
 
 One of the tools for helping to clarify a situation is an analogy.
-Recall that an analogy allows for the comparison two completely
+Recall that an analogy allows for the comparison of two completely
 different things that might have similarities in concepts. Generally,
 the concept in the analogy is better understood, and might help in
 comprehending the concept in the other. I would like to present an
@@ -163,7 +156,7 @@ a heads-up that the analogy used might be a sensitive topic for some.
 Giving that quick warning might prepare students who have found
 themselves in a hospital frequently either as a patient or a visitor.
 
-[Activity 1 (10 min)]{.ul}
+<u>Activity 1 (10 min)</u>
 
 Consider the following courtroom witness scenarios for a case where a
 jury is attempting to reach a verdict in a wrongful death case. The
@@ -172,26 +165,26 @@ The injury itself was not life-threatening. You will be asked to give
 your opinion on which is the best set of **courtroom** witnesses and
 why.
 
-Set 1: The witnesses are many: the patient's hospital roommate, the
-patient's rabbi, the patient's cousin, the hospital's HR director, the
-hospital's nighttime security guard, the hospital's PR director.
+Set 1: The witnesses are many: the patient’s hospital roommate, the
+patient’s rabbi, the patient’s cousin, the hospital’s HR director, the
+hospital’s nighttime security guard, the hospital’s PR director.
 
-Set 2: There are three witnesses: the attending physician, the patient's
+Set 2: There are three witnesses: the attending physician, the patient’s
 sister (a nurse) who was a frequent visitor and kept detailed notes, and
-an outside expert agreed upon by both the hospital's lawyer and the
-patient's family lawyer.
+an outside expert agreed upon by both the hospital’s lawyer and the
+patient’s family lawyer.
 
 Set 3: There are two witnesses: the attending physician and an expert on
-the patient's injury hired by the family's law team
+the patient’s injury hired by the family’s law team
 
-Set 4: There are four witnesses: the attending physician, the patient's
-sister (nurse, frequent visitor, note-taker), the hospital's PR
-director, the patient's rabbi.
+Set 4: There are four witnesses: the attending physician, the patient’s
+sister (nurse, frequent visitor, note-taker), the hospital’s PR
+director, the patient’s rabbi.
 
 Set 5: There is one witness, an outside expert agreed upon by both the
-hospital's lawyer and the patient's family lawyer.
+hospital’s lawyer and the patient’s family lawyer.
 
-Set 6: The patient's sister (nurse, frequent visitor, note taker)
+Set 6: The patient’s sister (nurse, frequent visitor, note taker)
 
 Rank the sets 1-6, using #1 for your top choice of witnesses. Be
 prepared to explain your choice.
@@ -199,11 +192,11 @@ prepared to explain your choice.
 **When students have completed their rankings:**
 
 -   Ask a student which set of witnesses was their top choice. Ask them
-    to explain why. Get a top choice from one or more additional
-    students.
+    > to explain why. Get a top choice from one or more additional
+    > students.
 
 -   Also ask for the sets of witnesses that students ranked as the worst
-    choice and why.
+    > choice and why.
 
 **Notes to the professor**
 
@@ -213,7 +206,7 @@ perhaps to hear another opinion.
 
 Sets 2 and 4 are likely top choices. There are multiple witnesses and
 they represent both sides in each case. Also, these may be appealing
-because there are records (Physician records and sister's notes)
+because there are records (Physician records and sister’s notes)
 involved. Set 2 might be preferable since one witness appears to be more
 impartial.
 
@@ -236,28 +229,27 @@ similar to choosing witnesses, and how it might be different.**
 **Notes to the professor:**
 
 -   We had students who thought that only reading the second article
-    > (which tried to give both sides) was acceptable, corresponding to
-    > set 5. Talk about how any one person can be biased and not have
-    > all of the information. Multiple sources are always valuable
+    (which tried to give both sides) was acceptable, corresponding to
+    set 5. Talk about how any one person can be biased and not have all
+    of the information. Multiple sources are always valuable
 
 -   We had students who liked the first article because it appeared to
-    > present the most statistics possibly corresponding to our
-    > sister-notetaker in set 6. Talk about how stats can be skewed.
+    present the most statistics possibly corresponding to our
+    sister-notetaker in set 6. Talk about how stats can be skewed.
 
 -   Set 2 is probably the closest to our set of articles although it
-    > does have voices on each side along with the one that should give
-    > both sides.
+    does have voices on each side along with the one that should give
+    both sides.
 
 -   Students may also see set 3 as corresponding to our generator
-    > article example because there are 2 witnesses and 2 articles.
-    > Point out that this is different because there is no one person
-    > looking at both sides. It might still be better than having just
-    > one witness or
+    article example because there are 2 witnesses and 2 articles. Point
+    out that this is different because there is no one person looking at
+    both sides. It might still be better than having just one witness or
 
-[Activity 2 (5 mins)]{.ul}
+<u>Activity 2 (5 mins)</u>
 
 -   As a class, students and professor define a set of guidelines for
-    credible articles/authors based on the analogy and the reading.
+    > credible articles/authors based on the analogy and the reading.
 
 ***Notes to the professor**: Experts on media literacy ask researchers
 to consider the following when choosing articles for their background
@@ -265,28 +257,28 @@ research:*
 
 1.  *Consider the credibility of the author*
 
-    a.  *Was this article peer-reviewed? OR*
+    1.  *Was this article peer-reviewed? OR*
 
-    b.  *Does the author have credentials that suggest credibility
-        (represents a credible company, has degrees or significant
-        experience in the area being written about). Sometimes the
-        company behind the author must be researched as well.*
+    2.  *Does the author have credentials that suggest credibility
+        > (represents a credible company, has degrees or significant
+        > experience in the area being written about). Sometimes the
+        > company behind the author must be researched as well.*
 
 2.  *What is the purpose and intended audience of the article or post*
 
-    a.  *Is the author trying to convince the reader of one position?*
+    1.  *Is the author trying to convince the reader of one position?*
 
-    b.  *Is the author writing to what he believes is a group of
-        like-minded people? (such as often happens on social media)*
+    2.  *Is the author writing to what he believes is a group of
+        > like-minded people? (such as often happens on social media)*
 
-    c.  *It is suspicious if an idea or product is presented with
-        absolutely no down-side*
+    3.  *It is suspicious if an idea or product is presented with
+        > absolutely no down-side*
 
 3.  *Is the article current?*
 
-    a.  *Could new ideas/products have appeared since it was written?*
+    1.  *Could new ideas/products have appeared since it was written?*
 
-    b.  *Could theories have been disproven more recently?*
+    2.  *Could theories have been disproven more recently?*
 
 4.  *Does the article/post itself reference credible authors using the
     same criteria?*
@@ -294,30 +286,30 @@ research:*
 5.  *It is helpful to search for articles on the same subject that
     present differing views.*
 
-[Reflection (4 min)]{.ul}:
+<u>Reflection (4 min)</u>:
 
 -   Ask the students if using the analogy was a helpful way to think
-    about article selection and to explain their answer (why or why not
-    helpful)
+    > about article selection and to explain their answer (why or why
+    > not helpful)
 
-[Assessment: (to be used on quiz or exam)]{.ul}
+<u>Assessment: (to be used on quiz or exam)</u>
 
 -   Ask students if they can provide two things to look for when
-    assessing the credibility of a post or an article.
+    > assessing the credibility of a post or an article.
 
 -   Provide students with an article (along with available information
-    such as URL) and have them assess the credibility of that article.
+    > such as URL) and have them assess the credibility of that article.
 
 -   Ask students what analogy was used to help clarify the attributes of
-    articles that should be used in selecting background material. Ask
-    them to analyze the effectiveness of the analogy: what insights did
-    it provide, in what way was it lacking?
+    > articles that should be used in selecting background material. Ask
+    > them to analyze the effectiveness of the analogy: what insights
+    > did it provide, in what way was it lacking?
 
-Pre-Discussion Assignment for Media Literacy Module
+Pre-Discussion Assignment for Media Literacy Lab
 
 As a resident of a backcountry area of Southern California, the author
-of this module has experienced planned power outages lasting multiple
-days. These outages are implemented by the power companies to reduce the
+of this lab has experienced planned power outages lasting multiple days.
+These outages are implemented by the power companies to reduce the
 chance of wildfires caused by downed power lines during strong wind
 events. In an effort to be more prepared in the future, the author
 started researching backup power systems. The two most common systems
@@ -326,15 +318,15 @@ below is one read during the process of determining which to buy. Read
 the article and answer the questions that follow.
 
 Found at:
-<https://gearjunkie.com/ecoflow-delta-electric-generator-review>
+[<u>https://gearjunkie.com/ecoflow-delta-electric-generator-review</u>](https://gearjunkie.com/ecoflow-delta-electric-generator-review)
 
 **Review: The Fast-Charging Power Station That Blew Up Kickstarter**
 
-September 20, 2019 \| By Berne Broudy
+September 20, 2019 | By Berne Broudy
 
-EcoFlow's Delta 1300 battery powers your work and play tools
+EcoFlow’s Delta 1300 battery powers your work and play tools
 emissions-free. And it claims to recharge faster than any other
-battery-based generator. No wonder it's nearing \$2 million on
+battery-based generator. No wonder it’s nearing $2 million on
 Kickstarter.
 
 Brands like Goal Zero and Enerplex brought the lithium-ion battery pack
@@ -373,14 +365,14 @@ it has left.
 Unlike gas generators, which require annual maintenance, EcoFlow claims
 the Delta requires nothing and will hold its charge for a year. And
 while gas generators emit carbon monoxide and can be dangerous to use in
-a closed space, the Delta's only emissions are a quiet hum and a little
+a closed space, the Delta’s only emissions are a quiet hum and a little
 bit of heat. So you can plunk the Delta onto your kitchen counter to run
 a microwave or coffee machine without worry.
 
 Delta takes 2 hours to recharge plugged into a wall and has
 solar-charging capability. EcoFlow estimates the lifecycle to 800
-charges. By contrast, Goal Zero's Yeti 1400 takes 25 hours to charge.
-It's also twice the weight, twice the price, and claims a lifecycle of
+charges. By contrast, Goal Zero’s Yeti 1400 takes 25 hours to charge.
+It’s also twice the weight, twice the price, and claims a lifecycle of
 500 charges.
 
 In my test at home, we ran every tool we had and charged every device:
@@ -389,32 +381,31 @@ refrigerator.
 
 We were able to fully drain the battery during normal use only when we
 plugged in a full freezer trying to cool its contents from 14 degrees
-Fahrenheit down to zero. The battery lasted at least 20 hours --- we
-woke up the next morning to it needing a recharge.
+Fahrenheit down to zero. The battery lasted at least 20 hours — we woke
+up the next morning to it needing a recharge.
 
 **EcoFlow Electric Generator: How It Works**
 
-Delta's surprising power comes from a proprietary battery management
+Delta’s surprising power comes from a proprietary battery management
 system that, according to EcoFlow CEO Eli Harris, maximizes the power
-storage efficiency. It collects each cell's temperature and power status
+storage efficiency. It collects each cell’s temperature and power status
 and tweaks the charging current and voltage for the safest, fastest
 charging.
 
 EcoFlow also developed a charging platform that allows alternating
-current (AC) from a wall outlet to direct input into Delta's inverter,
-increasing its charging power at the same time. "By passing through the
+current (AC) from a wall outlet to direct input into Delta’s inverter,
+increasing its charging power at the same time. “By passing through the
 inverter directly, we can increase charging speed to more than 10 times
-the traditional AC-to-DC adapter cable," Harris said.
+the traditional AC-to-DC adapter cable,” Harris said.
 
 Recharge the Delta from a wall socket, carport, or solar panel. It plugs
-into the wall with the same cord you'd use to plug in a computer --- no
-specialized, device-specific power brick required. So you don't have to
+into the wall with the same cord you’d use to plug in a computer — no
+specialized, device-specific power brick required. So you don’t have to
 worry about misplacing your charger.
 
-And there's no fiddling with the unit when you want to recharge from a
-solar panel. All direct current (DC) power supplies below DC 60V --- via
-an adapter, solar panel, or DC car output --- go into a single input
-port.
+And there’s no fiddling with the unit when you want to recharge from a
+solar panel. All direct current (DC) power supplies below DC 60V — via
+an adapter, solar panel, or DC car output — go into a single input port.
 
 **EcoFlow Delta Battery**
 
@@ -427,10 +418,10 @@ aluminum pillar reinforcements complete the packaging and ready Delta to
 withstand the hazards of a job site, garage project, or overland
 adventure.
 
-Delta raised \$1.5 million in its first week on Kickstarter, and it's
-well on its way to surpassing \$2 million. We are impressed with its
+Delta raised $1.5 million in its first week on Kickstarter, and it’s
+well on its way to surpassing $2 million. We are impressed with its
 power, versatility, quick charge time, and compact size. If you support
-Delta before the campaign closes on October 19, you'll receive a
+Delta before the campaign closes on October 19, you’ll receive a
 lifetime battery warranty.
 
 EcoFlow Delta 1300 Electric Generator
@@ -447,7 +438,7 @@ Charge time: 1.7 hours
 
 Battery type: Lithium-ion
 
-Price: \$1,400 (\$899 early bird buy-in)
+Price: $1,400 ($899 early bird buy-in)
 
 Questions on the EcoFlow article:
 
@@ -463,7 +454,7 @@ Now read the second article included and answer the questions that
 follow it
 
 Retrieved from:
-<https://www.consumerreports.org/portable-power-stations/portable-power-stations-things-to-know-battery-inverter-generators/>
+[<u>https://www.consumerreports.org/portable-power-stations/portable-power-stations-things-to-know-battery-inverter-generators/</u>](https://www.consumerreports.org/portable-power-stations/portable-power-stations-things-to-know-battery-inverter-generators/)
 1/17/2020
 
 5 Things to Know About Portable Power Stations
@@ -476,43 +467,43 @@ By Haniya Rae
 April 12, 2019
 
 Since generators emit carbon monoxide, they require that you
-take [[critical safety
-measures]{.ul}](https://www.consumerreports.org/generators/generator-safety-tips-to-get-you-through-a-storm/),
+take [<u>critical safety
+measures</u>](https://www.consumerreports.org/generators/generator-safety-tips-to-get-you-through-a-storm/),
 including running the device outside, at least 20 feet away from any
 structure.
 
 But in an age when we can charge our smartphones with a battery pack
-that fits inside a pants pocket, shouldn\'t there be a simpler way to
+that fits inside a pants pocket, shouldn't there be a simpler way to
 restore power in the wake of a storm? Or, say, power a campsite without
 the constant hum of a gas-fueled generator?
 
 Such is the promise of portable power stations, also known as
-battery-powered inverter generators. Essentially, they\'re oversized
-rechargeable batteries---about the size of a countertop microwave
-oven---that you plug into a typical 110-volt outlet to top off. 
+battery-powered inverter generators. Essentially, they're oversized
+rechargeable batteries—about the size of a countertop microwave
+oven—that you plug into a typical 110-volt outlet to top off. 
 
 When duty calls, you can safely run a portable power station inside,
-since it doesn\'t generate any emissions. They have enough capacity to
+since it doesn't generate any emissions. They have enough capacity to
 power a few small appliances for a short time. With a host of different
 outlets (standard 120v outlets, USB ports, and DC chargers), you can use
 the station to charge electronics, too. And the units often come with
 portable solar panels, to add more charging capabilities and extend
 runtime.
 
-"These generators have no fumes and all of the models we tested made
-virtually no noise," says test engineer Dave Trezza, who oversees
-generator testing at Consumer Reports. "But, if these power stations go
-dead and you're unable to use your solar panels, you can't recharge
-them. You can't just use another gallon of gas."
+“These generators have no fumes and all of the models we tested made
+virtually no noise,” says test engineer Dave Trezza, who oversees
+generator testing at Consumer Reports. “But, if these power stations go
+dead and you’re unable to use your solar panels, you can’t recharge
+them. You can’t just use another gallon of gas.”
 
 We see models from brands, including Goal Zero, Humless, K2, and Kohler
-in our [[portable power station
-ratings]{.ul}](https://www.consumerreports.org/products/portable-power-stations/ratings-overview/).
+in our [<u>portable power station
+ratings</u>](https://www.consumerreports.org/products/portable-power-stations/ratings-overview/).
 Some companies, like Goal Zero, market these portable power stations as
 perfect for apartment preparedness during storms (as opposed to
 single-family homes with a yard that can accommodate a generator).
 
-**How We Test Portable Power Stations**\
+**How We Test Portable Power Stations**  
 In our labs, CR test engineers evaluate five key measures to rate
 portable power stations: runtime, power delivery, power quality, ease of
 use, and noise.
@@ -532,23 +523,23 @@ score for noise.
 
 Below, our experts share some pros and cons on using portable power
 stations. See how the most popular models fared in our ratings, and
-check our [[generator buying
-guide]{.ul}](https://www.consumerreports.org/cro/generators/buying-guide/index.htm) to
+check our [<u>generator buying
+guide</u>](https://www.consumerreports.org/cro/generators/buying-guide/index.htm) to
 compare portable power stations to other types of generators.
 
-1\. They Can't Deliver Nearly as Much Power as Gas Generators
+1\. They Can’t Deliver Nearly as Much Power as Gas Generators
 
 As with their gasoline-fueled counterparts, portable power stations
-require a [transfer switch]{.ul} should you wish to power things such as
-your furnace, overhead lights, or any thing else in your home that's
+require a <u>transfer switch</u> should you wish to power things such as
+your furnace, overhead lights, or any thing else in your home that’s
 hardwired.
 
 But while a recreational inverter generator would probably keep the TV
-and a few lights on for 8 to 13 hours on one tank of gas, you\'d see
+and a few lights on for 8 to 13 hours on one tank of gas, you'd see
 anywhere from 3 to 9 hours of power, under the same circumstances, with
 a portable power station. 
 
-And you won\'t be able to run, for instance, your power-guzzling well
+And you won't be able to run, for instance, your power-guzzling well
 pump.
 
 2\. They Take Awhile to Charge
@@ -556,45 +547,46 @@ pump.
 In our tests, most of these models require hours of charging (typically
 overnight) to provide you with a full battery and max runtime.
 
-So---assuming you fully charged the battery before a predicted weather
-event---a portable power station could give you hours of electricity to
+So—assuming you fully charged the battery before a predicted weather
+event—a portable power station could give you hours of electricity to
 run a refrigerator or another essential appliance.
 
-But Trezza notes that once the battery is dead, if you're without power
-and minimal sun, there's no way to recharge.
+But Trezza notes that once the battery is dead, if you’re without power
+and minimal sun, there’s no way to recharge.
 
 3\. Charging With Solar Panels Can Be Iffy and Lengthy
 
-If you\'re dealing with an outage or you\'re otherwise off the grid,
-charging the power station via solar panels is your only option---and
-that\'s provided you have good sun and no obstructions.
+If you're dealing with an outage or you're otherwise off the grid,
+charging the power station via solar panels is your only option—and
+that's provided you have good sun and no obstructions.
 
 In our tests, we found that the solar panels can add to the runtime, but
 that might only amount to an extra hour or two of power with  larger
 appliances.
 
-4\. They're Not All That Portable
+4\. They’re Not All That Portable
 
 Portable power stations are about the size of an average microwave oven,
-but they\'re fairly heavy---most in our tests weigh more than 80 pounds.
+but they're fairly heavy—most in our tests weigh more than 80 pounds.
 
-That means you\'ll likely need an extra pair of hands to lift one into
+That means you'll likely need an extra pair of hands to lift one into
 the trunk of your car. Some of the models come with wheels, but not all
 wheels are large in size, which makes rolling them across a lawn
 difficult.
 
-5\. They Don't Come Cheap
+5\. They Don’t Come Cheap
 
-The portable power stations we tested cost between \$1,500 and \$3,500.
-And our [[best portable gas
-generator]{.ul}](https://www.consumerreports.org/products/portable-generators/generac-xt8000-395274/overview/) costs
+The portable power stations we tested cost between $1,500 and $3,500.
+And our [<u>best portable gas
+generator</u>](https://www.consumerreports.org/products/portable-generators/generac-xt8000-395274/overview/) costs
 less than the worst portable power station.
 
 Before buying one of these power stations, consider if you might be
 better served by a portable generator. In the event of a outage, you can
 continue to add fuel, and portable generators typically provide enough
-power to keep larger appliances running. Check out [[our buying guide on
-generators]{.ul}](https://www.consumerreports.org/cro/generators/buying-guide/index.htm) to
+power to keep larger appliances running. Check out [<u>our buying guide
+on
+generators</u>](https://www.consumerreports.org/cro/generators/buying-guide/index.htm) to
 learn which type might best suit your needs.
 
 Answer the following questions:
@@ -637,6 +629,6 @@ Consider the 2 articles:
 
 8.  Answer this question just for yourself: When was the last time that
     you read something that came from a differing opinion or perspective
-    from your current belief -- this could be political, socio-economic,
+    from your current belief – this could be political, socio-economic,
     religious, ethnic, gender, physical ability etc. just as a reality
     check for the validity of your view?
