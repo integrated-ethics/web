@@ -4,6 +4,11 @@ output: html_document
 pagecat: license
 ---
 
+
+
+<div class = "use-share-remix banner-spacer">
+</div>
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
