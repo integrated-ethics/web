@@ -3,7 +3,10 @@ title: ie:Labs Overview
 pagecat: page
 ---
 
-<img src = "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=810&h=125">
+<div class = "classroom">
+<div class = "banner-spacer">
+</div>
+</div>
 
 # Introductory Labs 
 
