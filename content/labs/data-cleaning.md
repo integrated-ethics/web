@@ -5,7 +5,7 @@ date: "2021-07-06"
 pagecat: lab
 ---
 
-# Student Handout
+# Student Materials
 
 * [web page](data-cleaning-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.Rmd)

@@ -4,7 +4,7 @@ pagecat: lab
 date: 2021-07-21
 ---
 
-# Student Handout
+# Student Materials
 
 * [web version](why-ethics-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/virtue-ethics/why-ethics-worksheet.md)

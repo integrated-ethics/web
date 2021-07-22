@@ -6,7 +6,7 @@ publishdate: "2021-07-21"
 pagecat: lab
 ---
 
-# Student Handout
+# Student Materials
 
 * [web version](deontology-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/deontology/deontology-worksheet.md)
