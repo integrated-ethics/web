@@ -202,7 +202,7 @@ The next ethical framework that we will
 consider, utilitarianism, is useful for considering ethical dilemmas
 that affect a large group of people.
 
-## Activity (To be completed in class)
+### Activity (To be completed in class)
 
 1. **Introduce the concepts of utilitarianism and stakeholders**:
     (read/summarized by instructor)
@@ -307,7 +307,7 @@ in a way that brings about the most happiness for the most people.
     Discuss the value of using multiple ethical frameworks to evaluate
     a solution to an ethical dilemma.
 
-## Reflection (to be completed as homework if desired)
+### Reflection (to be completed as homework if desired)
 
 Possible reflection questions
 
@@ -327,7 +327,7 @@ with an ethical dilemma?
         more helpful than another. Multiple frameworks help us think
         more robustly about the issue at hand.
 
-## Assessment 
+### Assessment 
 
 To test students’ understanding of utilitarianism, present a scenario
 and have them analyze it through utilitarian ethics. You can make your 
