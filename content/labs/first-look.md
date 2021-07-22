@@ -1,6 +1,7 @@
 ---
 title: "A First Look at Ethics in Computer and Data Sciences (Homework)"
-date: "2021-06-29"
+date: "2021-07-21"
+slug: first-look
 ---
 
 A First Look at Ethics in Computer and Data Sciences (Homework)
@@ -11,7 +12,7 @@ Lab Summary (Expected to be completed as homework)
 
 **Ethics background** required: None
 
-**Subject matter** referred to in this module: computer and data science
+**Subject matter** referred to in this lab: computer and data science
 tasks
 
 **Placement** in overall ethics curriculum:
@@ -32,7 +33,7 @@ tasks
 **Learning objectives:**
 
 -   Students are introduced to the 3 ethical frameworks that are
-    > considered in future modules
+    > considered in future labs
 
 -   Students become familiar with virtue-terms
 
@@ -60,7 +61,7 @@ level along with introducing the use of the other frameworks.
 -   Students are reminded of what “ethics” is
 
 -   Students are introduced to the three ethical frameworks to be
-    > applied in future modules
+    > applied in future labs
 
 -   Students are asked to reflect on someone who they believe is of high
     > moral character
@@ -71,7 +72,7 @@ level along with introducing the use of the other frameworks.
 -   Students consider the application of another ethical framework to
     > the same situation.
 
-**Preparation required:** Read the entire module several times to become
+**Preparation required:** Read the entire lab several times to become
 familiar with the material. Print or post the student homework
 assignment. Consider questions that might be asked in class after the
 students have completed the assignment. Here are two possibilities:
