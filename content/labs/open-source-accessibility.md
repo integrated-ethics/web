@@ -1,13 +1,20 @@
 ---
 title: "Open Source Accessibility"
 author: Lori Carter
+pagecat: lab
 date: "2021-07-21"
 ---
 
+
 # Student Materials
 
--   [web version](open-source-accessibility/)
+Worksheet:
+-   [web version](open-source-accessibility-worksheet/)
 -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/open-source-accessibility/open-source-accessibility.md)
+
+Group Discussion:
+-   [web version](open-source-accessibility-discussion/)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/open-source-accessibility/open-source-accessibility-discussion.md)
 
 # Overview
 
@@ -71,7 +78,7 @@ online (or print on papers if you would like to have the assignment
 completed off-line. Print the group discussion questions either one per
 group or one per student.
 
-**Flow**
+# Flow
 
 -   For homework, students find and read three articles from
     *credible* sources describing the pros and cons of open
@@ -132,7 +139,7 @@ to come up with reasonable accommodations that software engineers might
 be able to include to help with these issues. The chart below provides
 the instructor with some ideas. There are many more.
 
-<table>
+<table class="left-bullets">
 <colgroup>
 <col style="width: 26%" />
 <col style="width: 73%" />
@@ -265,25 +272,25 @@ Ask students what the problem is with an ethical analysis using virtue
 ethics (both approaches – proprietary and open source violate various
 virtues). Ask students to suggest some of the virtues violated.
 
-    * Virtue ethics analysis (students may arrive at either answer using
+* Virtue ethics analysis (students may arrive at either answer using
 virtue ethics – the idea is to get them to think! ) Some of the virtues
 that might be violated with proprietary are generosity and transparency.
 With open source, quality and hospitality (bad documentation) could be
 issues.
 
-    * In trying to come up with a Utilitarian solution (helpful to the most
+* In trying to come up with a Utilitarian solution (helpful to the most
 people) students may come up with hybrid solutions such as the
 following:
 
-        * Basic software is open source, but customers can pay for customized
+    * Basic software is open source, but customers can pay for customized
     accessibility features.
 
-        * Large companies support programmers in open source projects as
+    * Large companies support programmers in open source projects as
     add-ons to proprietary projects.
 
-        *Software is free, but training and documentation cost.
+    * Software is free, but training and documentation cost.
 
-        * Open source project display advertisements.
+    * Open source project display advertisements.
 
 ## Assessment 
 
@@ -299,4 +306,5 @@ Ask students to provide 2 accessibility issues with proprietary software
 
 Ask if virtue ethics or utilitarianism was a better framework for
 considering this ethical dilemma and why
+
 
