@@ -52,71 +52,7 @@ professional reputation."
 In addition to generosity and courage, here are some commonly-listed
 virtues:
 
-{{% multicolumn %}}
-Adaptability
-
-Attentiveness
-
-Authenticity
-
-Commitment
-
-Compassion
-
-Contentment
-
-Cooperation
-
-Excellence
-
-Faithfulness
-
-Gratitude
-
-Honesty
-
-Hospitality
-
-Humility
-
-Inclusive
-
-Integrity
-
-Justice
-
-Kindness
-
-Loyalty
-
-Mercy
-
-Moderation
-
-Open-mindedness
-
-Patience
-
-Perseverance
-
-Professionalism
-
-Provide for others
-
-Quality
-
-Reliability
-
-Respect
-
-Self-discipline
-
-Service
-
-Sustainability
-
-Tact
-{{% /multicolumn %}}
+{{% virtues-list %}}
 
 ## Questions
 
