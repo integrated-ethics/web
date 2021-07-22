@@ -107,13 +107,19 @@ In class part
 
 * Key elements of review:
 
-    -   Ethics is the study of determining the right thing to do (in a moral
+    -   **Ethics** is the study of determining the **right thing to do** (in a moral
     sense).
+    
+    - There are multiple frameworks from which to determine what it means
+    to "do the right thing". We focus primarily on **virtue ethics**,
+    the **deontological framework**, and **utilitarianism**.
 
-    -   Virtue ethics is an ethical framework that helps us evaluate a
+#### Virtue Ethics
+
+-   **Virtue ethics** is an ethical framework that helps us evaluate a
     solution to an ethical dilemma by seeing if it conflicts with any
     of our moral values. The virtue ethics framework asks the question
-    “what would a virtuous person do” to determine what is right. A
+    "what would a virtuous person do" to determine what is right. A
     virtuous person, according to Aristotle, would have good
     underlying character traits that would cause them to make good
     choices. The main benefit of this framework is that it is very
@@ -129,7 +135,7 @@ What are some of the challenges of using the virtue ethics framework?
     to answer someone who asks what you think of the book that they
     wrote – when you don’t like it)
 
-Could use the follow questions as ethical tests based on the framework:
+Could use the follow questions as ethical tests based on the virtue ethics framework:
 
 -   Does this decision agree or disagree with my moral values? \[5\]
 
@@ -144,14 +150,16 @@ Could use the follow questions as ethical tests based on the framework:
 
 -   Is this decision in line with my company’s core values? \[1\]
 
-Deontological framework is built on a set of rules or principles. The
+#### Deontological Framework
+
+Deontological framework is built on a set of **rules or principles**. The
 deontological ethics framework asks the question “does this decision
 break any of the rules or laws” to determine what is right. The main
 benefit of this framework is that it is more rigid and avoids some of
 the subjectivity of other frameworks.
 
-What are some of the challenges of using the deontological framework? (
-Let students answer, but here are three possible answers)
+What are some of the challenges of using the deontological framework? 
+(Let students answer, but here are three possible answers)
 
 -   Can create a paradox. For example- the rule should not harm another
     person, however what if harming another person saves others lives?
@@ -160,7 +168,7 @@ Let students answer, but here are three possible answers)
     limits, seat belt laws, smoking laws, etc.)
 
 -   No focus on consequences of an action, just if it follows the
-    “rule”.
+    "rule".
 
 Could use the follow questions as ethical tests based on the framework:
 
@@ -175,13 +183,22 @@ Could use the follow questions as ethical tests based on the framework:
 -   If I am setting a standard, would I want it to be followed by other
     people (including my competitors)?
 
-Furthermore, when we used each of these frameworks, the evaluation was
+#### Groups
+
+When we used each of these frameworks, the evaluation was
 completed by an individual or a small group. Often, a dilemma must be
-decided for a larger population. **Ethics are actually a set of rules or
-beliefs that govern a larger group such as a company or culture**. You,
-as an individual, may disagree with a certain societal belief (or
-value), but you follow the related rule so that the society will
-function as well as possible. The next ethical framework that we will
+decided for a larger population or the decision may impact a larger
+group -- including some not involved in the decision process. 
+An individual, may disagree with a certain societal belief (or
+value), but still follow the related rule or decision so that the society will
+function as well as possible. 
+
+<!-- **Ethics are actually a set of rules or beliefs that govern a larger group such as a company or culture**. -->
+
+
+#### Utilitarianism
+
+The next ethical framework that we will
 consider, utilitarianism, is useful for considering ethical dilemmas
 that affect a large group of people.
 
