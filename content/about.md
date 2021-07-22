@@ -3,22 +3,34 @@ title: About Integrated Ethics Labs
 slug: about
 ---
 
-Integrated Ethics Labs (ie:Labs) was started by Lori Carter and Catherine Crockett at
-Point Loma Nazarene University in 2017. Since then the team has expanded to
-include a number of authors and developers.
+Integrated Ethics Labs (ie:Labs) was started by Lori Carter at
+Point Loma Nazarene University in 2017 for use in computer science classes. 
+Since then the team has expanded to include a number of authors and developers
+from different institutions and disciplines.  
+
+Find out more about the general aproach [here](/progressive-approach/) or see our
+[list of available labs](/labs-overview/).
+
+## Contact Information
+
+* General inquiries/comments:
+<a href="mailto:info@integratedethicslabs.org">info@integratedethicslabs.org</a>
+
+* Website related: 
+<a hrf="mailto:webmaster@integratedethicslabs.org">webmaster@integratedethicslabs.org</a>
 
 ## The Integrated Ethics Team
 
-* Ken Arnold, Calvin University
-* Nick Breems, Dordt University
-* Lori Carter, Point Loma Nazarene University
-* Catherine Crockett, Point Loma Nazarene University
-* Stacy DeRuiter, Calvin University
-* Rebecca DeYoung, Calvin University
-* Maria Zack, Point Loma Nazarene University
-* Paul Schmelzenbach, Point Loma Nazarene University
-* Randall Pruim, Calvin University
-* Derek Schuurman, Calvin University
+* Ken Arnold, Calvin University (Data Science)
+* Nick Breems, Dordt University (Computer Science)
+* Lori Carter, Point Loma Nazarene University (Computer Science)
+* Catherine Crockett, Point Loma Nazarene University (Mathematics)
+* Stacy DeRuiter, Calvin University (Biostatistics)
+* Rebecca DeYoung, Calvin University (Philosophy)
+* Randall Pruim, Calvin University (Mathematics & Statistics)
+* Paul Schmelzenbach, Point Loma Nazarene University (Engineering)
+* Derek Schuurman, Calvin University (Computer Science)
+* Maria Zack, Point Loma Nazarene University (Mathematics)
 
 ## Access and Availability
 
