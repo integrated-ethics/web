@@ -1,15 +1,15 @@
 ---
 title: "Introduction to the Deontology Framework Using AI"
 author: ""
-pagecat: "lab"
-date: "2021-06-29"
+date: "2021-07-21"
 publishdate: "2021-07-21"
+pagecat: lab
 ---
 
 # Student Handout
 
 * [web version](deontology-worksheet/)
-* [Markdown]()
+* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/deontology/deontology-worksheet.md)
 
 # Overview
 
