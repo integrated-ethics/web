@@ -331,6 +331,32 @@ table.left-bullets li p {
   text-align: left;
 }
 
+/*tabset */
+input.tabset { display: none; }                /* hide radio buttons */
+input.tabset + label { 
+  display: inline-block;
+  border: solid 2px black;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #eee;
+}
+input.tabset:checked + label { 
+  background-color: #3286D9; /* blueish */
+  color: white;
+  font-weight: bold;
+}
+
+input.tabset ~ .tab { display: none }          /* hide contents */
+/* show contents only for selected tab */
+#tab1:checked ~ .tab.content1,
+#tab2:checked ~ .tab.content2,
+#tab3:checked ~ .tab.content3,
+#tab4:checked ~ .tab.content4,
+#tab5:checked ~ .tab.content5 { display: block; }
+
+/* *************************** */
+
 .article-meta {
   text-decoration: none;
   color: black;
