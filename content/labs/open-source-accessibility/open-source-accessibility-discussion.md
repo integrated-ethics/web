@@ -72,7 +72,7 @@ The list is started for you as an example, but there are other stakeholders and
 other needs.
 
 
-<table class = "stakeholders">
+<table class = "left-bullets">
 <colgroup>
 <col style="width: 26%" />
 <col style="width: 73%" />
