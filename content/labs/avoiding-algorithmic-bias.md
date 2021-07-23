@@ -1,33 +1,27 @@
 ---
-title: "Avoiding Algorithmic Bias"
-author: "TODO"
-date: "2021-06-29"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
+title: "Avoiding Algorithmic Bias Lab"
+date: "2021-07-21"
 ---
 
-Avoiding Algorithmic Bias Module
+Avoiding Algorithmic Bias Lab
 
-Module Summary
+Lab Summary
 
 **Ethics background** required: Ideally, students should be familiar
 with the 4 ethical frameworks presented in the first year curriculum
 (virtue ethics, deontology, utilitarianism, analogies). If they (or the
 professor) are not, a brief summary is provided in the reflection.
 
-**Subject matter** referred to in this module: Algorithms
+**Subject matter** referred to in this lab: Algorithms
 
 **Placement** in overall ethics curriculum:
 
             Academic year: Year 2-4 core course that talks about
 algorithms or machine learning.
 
-> Recommended previous modules: First year ethics curriculum
+> Recommended previous labs: First year ethics curriculum
 
-            Recommended follow-up modules: No direct follow-up modules
+            Recommended follow-up labs: No direct follow-up labs
 
 **Time** required:
 
@@ -36,56 +30,56 @@ algorithms or machine learning.
 **Learning objectives**:
 
 -   Students are introduced to or reminded of the dangers of algorithmic
-    bias in predictive algorithms
+    > bias in predictive algorithms
 
 -   Students are introduced to a deontological set of guidelines to
-    evaluate an algorithm for bias
+    > evaluate an algorithm for bias
 
 -   Students apply the guidelines to actual algorithms and practice this
-    evaluation
+    > evaluation
 
 -   Students review the four ethical frameworks and evaluate the benefit
-    of using each in regard to evaluating predictive algorithms
+    > of using each in regard to evaluating predictive algorithms
 
 * *
 
-**Module overview**:
+**Lab overview**:
 
-[Ethical issues to be considered]{.ul}: Algorithmic bias, diversity,
+<u>Ethical issues to be considered</u>: Algorithmic bias, diversity,
 transparency
 
  
 
-[Exercise flow:]{.ul}
+<u>Exercise flow:</u>
 
 -   Students read and talk about algorithms with issues
 
 -   Students are introduced to the EU Ethics Guidelines for Trustworthy
-    AI
+    > AI
 
 -   Students evaluate the algorithms previously presented based on these
-    guidelines
+    > guidelines
 
 **Preparation**
 
-Read through the entire module. Print enough of each of the 3 scenarios
-to distribute one each to groups of 2-4 students. For example, if you
-have a class of 20 students, you might want to print 2 copies of each.
+Read through the entire lab. Print enough of each of the 3 scenarios to
+distribute one each to groups of 2-4 students. For example, if you have
+a class of 20 students, you might want to print 2 copies of each.
 Prepare a PowerPoint (or similar) slide to project with the 7 EU
 Guidelines on it.
 
-**If this module is to be presented online**
+**If this lab is to be presented online**
 
-See online addendum. Students go through assignment and then peer-review
-the assignment of another student.
+See online addendum. Students work through the assignment and then
+peer-review the assignment of another student.
 
 Instructors Guide
 
 **Lesson plan**
 
-[Introduction]{.ul} (5 minutes)
+<u>Introduction</u> (5 minutes)
 
-Ask students for the definition of "algorithm." (Something like a
+Ask students for the definition of “algorithm.” (Something like a
 step-by-step approach to use as a guideline for producing a program that
 the computer can use to solve a problem)
 
@@ -113,23 +107,23 @@ responses: not everything can be boiled down to numbers, how to decide
 how many points something is worth, is it easier for some students to
 meet the requirements (parents can pay for tutoring, for example))
 
-[Activity 1 (5 min)]{.ul}
+<u>Activity 1 (5 min)</u>
 
 Facilitate the division of students into groups of 2-4 members. Each
 group should be given one of the scenarios in the student handout
 section. Direct the students to read the scenario as a group and discuss
 what went right and what went wrong.
 
-[Preparation for activity 2 (5 min)]{.ul}
+<u>Preparation for activity 2 (5 min)</u>
 
 **Professor should read or summarize after the previous group activity
 is finished**
 
 Point-based algorithms for making decisions are a rudimentary form of
-Artificial Intelligence. Kaplan and Haenlein recently defined AI as "a
-system\'s ability to correctly interpret external data, to learn from
+Artificial Intelligence. Kaplan and Haenlein recently defined AI as “a
+system's ability to correctly interpret external data, to learn from
 such data, and to use those learnings to achieve specific goals and
-tasks through flexible adaptation" Our example of a point-based
+tasks through flexible adaptation” Our example of a point-based
 algorithm for college admission is used to predict who will most likely
 succeed at a particular college or university. Similarly, each of the
 scenarios that you read involved simple predictive algorithms.
@@ -177,8 +171,8 @@ to data. Data must be ethically cleaned before it is used.
 The data sets on which the decision making is based must be
 well-documented with regard to origin and alteration (such as in
 cleaning). Decisions made by AI must be understandable and able to be
-traced. Users should have access to decision-making process and be aware
-that the decision was made, at least in part, but a computer.
+traced. Users should have access to the decision-making process and be
+aware that the decision was made, at least in part, but a computer.
 
 **5 Diversity, non-discrimination and fairness**
 
@@ -194,9 +188,9 @@ throughout the design of the system.
 **6 Societal and environmental wellbeing**
 
 Including sustainability and environmental friendliness, social impact,
-society and democracy. Supply chain for system should be sustainable.
-Its use should impact social relationships in a negative way. It should
-enhance, rather than detract from, a democratic society.
+society and democracy. Supply chain for the system should be
+sustainable. Its use should impact social relationships in a negative
+way. It should enhance, rather than detract from, a democratic society.
 
 **7 Accountability**
 
@@ -209,13 +203,13 @@ party. The system should be adjusted to eliminate the possibility of
 this happening in the future. When a conflict of interest arises, the
 tradeoffs made should be acknowledged.
 
-[Activity 2 (5 min)]{.ul}
+<u>Activity 2 (5 min)</u>
 
 Students discuss with their group observations that they made regarding
 the potential benefits of applying 1 or more of the guidelines to the
 college admissions scenario or to the scenario read as a group.
 
-[Reflection (10 min)]{.ul}
+<u>Reflection (10 min)</u>
 
 Have each group report on one or more of the guidelines that would have
 helped in the design of either the college admission scenario or the
@@ -229,37 +223,37 @@ used by applying a set of guidelines to vet a predictive algorithm?
 a refresher:
 
 -   Virtue ethics: making a decision based on whether the outcome
-    upholds a set of virtues (honesty, compassion, patience, hard-work
-    are some examples)
+    > upholds a set of virtues (honesty, compassion, patience, hard-work
+    > are some examples)
 
 -   Deontological ethics: making decisions based on a set of rules
-    (**this is the expected choice**)
+    > (**this is the expected choice**)
 
 -   Analogies: making a decision based on a similar situation where the
-    ethicality of the similar situation was widely accepted
+    > ethicality of the similar situation was widely accepted
 
 -   Utilitarianism: making a decision based on what is best for the
-    majority
+    > majority
 
 **Ask the students** if they believe that this was an appropriate
 framework to use in this case. Why or why not?
 
 Possible answers:
 
--   Probably good if used only as guidelines. It's a good starting place
+-   Probably good if used only as guidelines. It’s a good starting place
 
 -   Virtue ethics might be a good secondary approach, and some of the
-    virtues (respect for diversity, for example) are included in the
-    guidelines
+    > virtues (respect for diversity, for example) are included in the
+    > guidelines
 
 -   Analogies probably would not be a good approach as it is not a
-    single decision that must be made and it would be very difficult to
-    arrive at an appropriate analogy
+    > single decision that must be made and it would be very difficult
+    > to arrive at an appropriate analogy
 
 -   Utilitarianism is probably what caused the problem in the first
-    place -- designers would figure that it would work for most people.
+    > place – designers would figure that it would work for most people.
 
-[Assessment]{.ul} (to be included at a later date on a quiz, paper, or
+<u>Assessment</u> (to be included at a later date on a quiz, paper, or
 exam to determine if LOs were reached)
 
 -   Assess the deontological approach to evaluating an algorithm for
@@ -275,8 +269,8 @@ exam to determine if LOs were reached)
 
 **References**
 
-All of the scenarios were excerpted from "How Algorithms Rule Our
-Working Lives" by Cathy O'Neil (author of Weapons of Math Destruction)
+All of the scenarios were excerpted from “How Algorithms Rule Our
+Working Lives” by Cathy O’Neil (author of Weapons of Math Destruction)
 https://www.theguardian.com/science/2016/sep/01/how-algorithms-rule-our-working-lives
 
 Principles are directly from the text of the ETHICS GUIDELINES FOR
@@ -284,21 +278,21 @@ TRUSTWORTHY AI compiled by the High-Level Expert Group on Artificial
 Intelligence set up by the European Commission. Original was available
 here
 
-[https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf
+[<u>https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG\_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf
 on
-2/3/2020](https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf%20on%202/3/2020).
+2/3/2020</u>](https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf%20on%202/3/2020).
 
 AI definition from:
 
-Kaplan, Andreas; Haenlein, Michael (1 January 2019). \"Siri, Siri, in my
-hand: Who\'s the fairest in the land? On the interpretations,
-illustrations, and implications of artificial intelligence\". Business
-Horizons. 62 (1): 15--25.
+Kaplan, Andreas; Haenlein, Michael (1 January 2019). "Siri, Siri, in my
+hand: Who's the fairest in the land? On the interpretations,
+illustrations, and implications of artificial intelligence". Business
+Horizons. 62 (1): 15–25.
 
 Additional reading: **Algorithmic bias detection and mitigation: Best
 practices and policies to reduce consumer harms**
 
-[[https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/]{.ul}](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
+[<u>https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</u>](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
 Accessed 2/3/2020
 
  
@@ -335,12 +329,12 @@ This was the big data economy, and it promised spectacular gains. A
 computer program could speed through thousands of résumés or loan
 applications in a second or two and sort them into neat lists, with the
 most promising candidates on top. This not only saved time but also was
-marketed as fair and objective. After all, it didn't involve prejudiced
+marketed as fair and objective. After all, it didn’t involve prejudiced
 humans digging through reams of paper, just machines processing cold
 numbers.
 
 Few of the algorithms and scoring systems have been vetted with
-scientific rigor, and there are good reasons to suspect they wouldn't
+scientific rigor, and there are good reasons to suspect they wouldn’t
 pass such tests. For instance, automated teacher assessments can vary
 widely from year to year, putting their accuracy in question. Tim
 Clifford, a New York City middle school English teacher of 26 years, got
@@ -350,13 +344,13 @@ one thing, but sometimes the consequences are dire, leading to teachers
 being fired.
 
 There are also reasons to worry about scoring criminal defendants rather
-than relying on a judge's discretion. Consider the data pouring into the
+than relying on a judge’s discretion. Consider the data pouring into the
 algorithms. In part, it comes from police interactions with the
 populace, which is known to be uneven, often race-based. The other kind
 of input, usually a questionnaire, is also troublesome. Some of them
 even ask defendants if their families have a history of being in trouble
 with the law, which would be unconstitutional if asked in open court but
-gets embedded in the defendant's score and labelled "objective".
+gets embedded in the defendant’s score and labelled “objective”.
 
 \[The popularity of these predictive algorithms\] relies on the notion
 they are objective, but the algorithms that power the data economy are
@@ -378,8 +372,8 @@ tests now are used on 60 to 70% of prospective workers in the US.
 Defenders of the tests note that they feature lots of questions and that
 no single answer can disqualify an applicant. Certain patterns of
 answers, however, can and do disqualify them. And we do not know what
-those patterns are. We're not told what the tests are looking for. The
-process is entirely opaque. What's worse, after the model is calibrated
+those patterns are. We’re not told what the tests are looking for. The
+process is entirely opaque. What’s worse, after the model is calibrated
 by technical experts, it receives precious little feedback.
 
 Sports provide a good contrast here. Most professional basketball teams
@@ -387,7 +381,7 @@ employ data geeks, who run models that analyse players by a series of
 metrics, including foot speed, vertical leap, free-throw percentage, and
 a host of other variables. Teams rely on these models when deciding
 whether or not to recruit players. But if, say, the Los Angeles Lakers
-decide to pass on a player because his stats suggest that he won't
+decide to pass on a player because his stats suggest that he won’t
 succeed, and then that player subsequently becomes a star, the Lakers
 can return to their model to see what they got wrong. Whatever the case,
 they can work to improve their model.
@@ -402,8 +396,8 @@ prospects for its call centres, which employ more than 40,000 people.
 The churn model took into account some of the metrics you might expect,
 including the average time people stuck around on previous jobs. But
 they also found some intriguing correlations. People the system
-classified as "creative types" tended to stay longer at the job, while
-those who scored high on "inquisitiveness" were more likely to set their
+classified as “creative types” tended to stay longer at the job, while
+those who scored high on “inquisitiveness” were more likely to set their
 questioning minds towards other opportunities.
 
 But the most problematic correlation had to do with geography. Job
@@ -420,13 +414,13 @@ a bit of efficiency for fairness.
     in granting you admission to your college or university.
 
 2.  It is likely that there was a point-based rubric used to predict
-    your probably success at this institution based on some of the
+    your probable success at this institution based on some of the
     criteria you mentioned in question 1. For example, you might get a
     certain number of points for a high GPA, a certain number for each
     extra-curricular activity etc. Why do you think this method was used
     (if indeed it was)? What are the benefits of this method?
 
-3.  What are the drawbacks of a point-based method (such as describe in
+3.  What are the drawbacks of a point-based method (such as described in
     question 2)?
 
 4.  Read at least one of the two following scenarios. After reading, you
@@ -444,8 +438,8 @@ a bit of efficiency for fairness.
 > Defenders of the tests note that they feature lots of questions and
 > that no single answer can disqualify an applicant. Certain patterns of
 > answers, however, can and do disqualify them. And we do not know what
-> those patterns are. We're not told what the tests are looking for. The
-> process is entirely opaque. What's worse, after the model is
+> those patterns are. We’re not told what the tests are looking for. The
+> process is entirely opaque. What’s worse, after the model is
 > calibrated by technical experts, it receives precious little feedback.
 >
 > Sports provide a good contrast here. Most professional basketball
@@ -454,7 +448,7 @@ a bit of efficiency for fairness.
 > percentage, and a host of other variables. Teams rely on these models
 > when deciding whether or not to recruit players. But if, say, the Los
 > Angeles Lakers decide to pass on a player because his stats suggest
-> that he won't succeed, and then that player subsequently becomes a
+> that he won’t succeed, and then that player subsequently becomes a
 > star, the Lakers can return to their model to see what they got wrong.
 > Whatever the case, they can work to improve their model.
 >
@@ -468,8 +462,8 @@ a bit of efficiency for fairness.
 > The churn model took into account some of the metrics you might
 > expect, including the average time people stuck around on previous
 > jobs. But they also found some intriguing correlations. People the
-> system classified as "creative types" tended to stay longer at the
-> job, while those who scored high on "inquisitiveness" were more likely
+> system classified as “creative types” tended to stay longer at the
+> job, while those who scored high on “inquisitiveness” were more likely
 > to set their questioning minds towards other opportunities.
 >
 > But the most problematic correlation had to do with geography. Job
@@ -482,11 +476,11 @@ a bit of efficiency for fairness.
 >
 > Comment here on the additional drawback discovered:
 
-5.  Point-based algorithms for making decisions are a rudimentary form
+1.  Point-based algorithms for making decisions are a rudimentary form
     of Artificial Intelligence. Kaplan and Haenlein recently defined AI
-    as "a system\'s ability to correctly interpret external data, to
+    as “a system's ability to correctly interpret external data, to
     learn from such data, and to use those learnings to achieve specific
-    goals and tasks through flexible adaptation" Our example of a
+    goals and tasks through flexible adaptation” Our example of a
     point-based algorithm for college admission is used to predict who
     will most likely succeed at a particular college or university.
     Similarly, each of the other scenarios that you read involved simple
@@ -526,7 +520,7 @@ a bit of efficiency for fairness.
 > The data sets on which the decision making is based must be
 > well-documented with regard to origin and alteration (such as in
 > cleaning). Decisions made by AI must be understandable and able to be
-> traced. Users should have access to decision-making process and be
+> traced. Users should have access to the decision-making process and be
 > aware that the decision was made, at least in part, but a computer.
 >
 > **5 Diversity, non-discrimination and fairness**
@@ -543,7 +537,7 @@ a bit of efficiency for fairness.
 > **6 Societal and environmental wellbeing**
 >
 > Including sustainability and environmental friendliness, social
-> impact, society and democracy. Supply chain for system should be
+> impact, society and democracy. Supply chain for the system should be
 > sustainable. Its use should impact social relationships in a negative
 > way. It should enhance, rather than detract from, a democratic
 > society.
@@ -559,19 +553,19 @@ a bit of efficiency for fairness.
 > possibility of this happening in the future. When a conflict of
 > interest arises, the tradeoffs made should be acknowledged.
 
-6.  Below explain how following at least 2 of the guidelines would have
+1.  Below explain how following at least 2 of the guidelines would have
     benefitted the developers of the previous algorithms that you
     considered to help them avoid bias or other pitfalls. Name the
     guideline and explain how it would have helped.
 
-7.  Do you think that a set of guidelines is a good way to approach
+2.  Do you think that a set of guidelines is a good way to approach
     preventing bias or lack of transparency in algorithms? Why or why
     not?
 
-8.  Comment on one thing that you learned to look out for when creating
+3.  Comment on one thing that you learned to look out for when creating
     a predictive algorithm
 
-Peer Review for Algorithmic Bias Assignment
+> Peer Review for Algorithmic Bias Assignment
 
 1.  List one important point that the author of the assignment that you
     are reviewing made. Explain why it made an impact on you.
