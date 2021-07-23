@@ -9,30 +9,31 @@ pagecat: page
 
 The following list of labs are the introductory labs for this
 curriculum. These labs are designed to highlight the need for ethics
-education in computer and data science.
+education in computer and data science. For existing labs, a link is provided 
+(<i class = "fa fa-external-link"></i>).
 
-## Why Ethics?
+## {{% lab-link title = "Why ethics?" link =  "/labs/why-ethics/" %}}
 
 Motivates the need for ethics education in the context of what
 computer and data scientists do. Great for early courses as students
 learn about potential careers in computer/ data science and that with
 great power comes great responsibility.
 
-## Core Values
+## {{% lab-link title="Core Values" link="/labs/core-values/" %}}
 
 This is an introductory lab. The discussion centers on how a future
 workplace is chosen (not really an ethical dilemma). The lab is
 designed to help students reflect on the connection between choice and
 personal value and articulate what might influence a person’s choice.
 
-## A first Look at Ethics in Computer and Data Sciences
+## {{% lab-link title = "A First Look at Ethics for Computer and Data Sciences" link =  "/labs/first-look/" %}}
 
 This lab briefly covers the first three ethical frameworks (virtue,
 deontology and utilitarianism), gives the opportunity to practice
 applying the different ethical frameworks to arrive at potential
 solutions and recognize the connection between actions and values. The
-placement of this lab can be used after the [*Why Ethics*](why-ethics/) 
-lab, before the [*Virtue Ethics*](virtue-ethics/) lab or can be used to 
+placement of this lab can be used after the [*Why Ethics*](/labs/why-ethics/) 
+lab, before the [*Virtue Ethics*](/labs/virtue-ethics/) lab or can be used to 
 build an ethical foundation for later labs, if the other foundation labs are not used.
 The lab is written to be an out of class assignment, however can be
 adapted to be used in class.
@@ -51,10 +52,10 @@ impulsive opinion.
 program; 
 they build the foundation for the rest of the ie:Labs curriculum.** 
 However, if it is not possible to do these four labs, then we recommend using
-[*A first Look at Ethics in Computer and Data Sciences*](first-look/). This lab
+[*A first Look at Ethics in Computer and Data Sciences*](/labs/first-look/). This lab
 will briefly survey the first three ethical frameworks.
 
-## Virtue Ethics
+## {{% lab-link title="Virtue Ethics" link="/labs/virtue-ethics/" %}}
 
 Students start intentionally thinking about the ethical choices made
 by students, teaching assistants, professors as they complete, assist
@@ -66,16 +67,16 @@ it would be unfair to the other students? While the scenarios in this
 lab are written for an introductory programming course, they can be
 easily adapted to other courses.
 
-## Introduction to the Deontology Framework Using AI
+## {{% lab-link title="Introduction to the Deontology Framework Using AI" link="/labs/deontology/" %}}
 
 In this lab students will encounter the ethical framework of
 deontology, review and contrast with the virtue ethics and practice
 finding an ethical solution in a group setting. It is recommended that
-either [*Virtue Ethics*](virtue-ethics/) and/or 
-[*A First Look at Ethics in Computer and Data Science*](first-look/) 
+either [*Virtue Ethics*](/labs/virtue-ethics/) and/or 
+[*A First Look at Ethics in Computer and Data Science*](/labs/first-look/) 
 be used prior to this lab.
 
-## Utilitarianism: Plagiarism Issues
+## {{% lab-link title="Utilitarianism: Plagiarism Issues" link="/labs/utilitarianism-plagiarism/" %}}
 
 To evaluate a dilemma employing utilitarian ethics, one would look at
 which solution produces the most amount of utility, which can be
@@ -86,7 +87,7 @@ reviewed and contrasted with echo other and utilitarianism. While the
 scenarios in this lab are written for a Calculus course, they can be
 easily adapted to other courses.
 
-## Analogies: Coding-Writing Plagiarism Example
+## {{% lab-link title="Analogies: Coding-Writing Plagiarism Example" link="/labs/analogies-code-plagiarism/" %}}
 
 This lab gives an introduction to analogies as a way to evaluate
 ethical dilemmas. While analogies are not a common ethical framework,
@@ -107,7 +108,7 @@ potential for unethical choices in data cleaning, while a lab to be
 integrated into a Software Engineering course might deal with addictive
 aspects of certain software products.
 
-## Hospitality in Computer Programming
+## {{% lab-link title="Hospitality in Computer Programming" link="/labs/hospitable-code/" %}}
 
 Hospitality is defined by Dictionary.com as “the friendly reception
 and treatment of guests or strangers”. The guests and strangers for
@@ -117,7 +118,7 @@ messages using an engaging exercise where students must guess how to
 play a game from its very cryptic prompts. Hospitable code helps to
 keep it easy to update and bug free.
 
-## Avoiding Algorithmic Bias
+## {{% lab-link title="Avoiding Algorithmic Bias" link="/labs/avoiding-algorithmic-bias/" %}}
 
 Students are introduced to predictive algorithms that were created
 with the good intent of providing objective results but instead
@@ -127,7 +128,7 @@ They are then given the opportunity to consider how the algorithms
 could have been improved if they had been vetted with the set of
 guidelines recently released by the EU.
 
-## Media Literacy (Choosing resources for background research)
+## {{% lab-link title="Media Literacy" link="/labs/media-literacy/) (Choosing resources for background research" %}}
 
 Many students get all of their information from social media. It is
 often one-sided and not fact-checked. Through the analogy of the best
@@ -138,7 +139,7 @@ and in-class assignments. Also, this lab is easily adaptable for a
 variety of courses since references to technology are made, however no
 specific knowledge is needed.
 
-## Open Source Accessibility
+## {{% lab-link title="Open Source Accessibility" link="/labs/open-source-accessibility" %}}
 
 Students have a limited view of what accessibility means. This lab
 helps students to understand the accessibility features that can be
@@ -150,7 +151,7 @@ lab contains both pre-class and in-class assignments.
 
 <!-- stopped here- everything above checked -->
 
-## Data Cleaning (data integrity)
+## {{% lab-link title="Data Cleaning" link="/labs/data-cleaning) (data integrity" %}}
 
 The goal of this lab is to show that data cleaning, while necessary,
 can be conducted with differing degrees of ethicality. The process of
@@ -160,7 +161,7 @@ as it can affect the results of the analysis. Consequently, methods
 must be scrutinized. Students will evaluate the ethical ramifications
 of data cleaning choices on a fictional data set description.
 
-## Ethics in E-Commerce: Digital Nudging
+## {{% lab-link title="Ethics in E-Commerce: Digital Nudging" %}}
 
 This lab considers ethics in E-Commerce. It explores how pre-set
 choices on webpages can “nudge” a person to choose options that are
@@ -170,7 +171,7 @@ their product or to upgrade and the resulting positive or negative
 experience for the consumer. Ethical issues include transparency and
 dignity.
 
-## Professional Ethics
+## {{% lab-link title="Professional Ethics" %}}
 
 While this lab reviews issues in professional ethics (sexual
 harassment, using company resources properly, padding expense reports,
@@ -179,7 +180,7 @@ speak up when they see something that is wrong. It explores reasons we
 may want to remain quiet or why we might be tempted to do something
 outside of our normal character.
 
-## Transparency 
+## {{% lab-link title="Transparency" %}} 
 
 Transparency has become an issue in computing lately, including
 transparency in how an AI makes decisions or how a predictive
@@ -189,7 +190,7 @@ but are often unread. Using online tools, students explore the actual
 complexity of such agreements, consider solutions, and contemplate how
 to discuss the solutions with their superiors.
 
-## Reliability
+## {{% lab-link title="Reliability" %}}
 
 Poorly tested software has led to life-ending disasters, child support
 payments being misdirected, and patients being overdosed. This lab
