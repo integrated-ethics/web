@@ -19,7 +19,6 @@ date: 2021-07-21
 <input class = "tabset" type="radio" name="tabs" id="tab4" />
 <label for="tab4">R</label>
 <div class="tab content5">
-Select one of the languages.
 </div>
 
 <div class="tab content1">
@@ -194,6 +193,7 @@ R code coming soon.
 </div>
 
 <hr>
+
 ## Looking at some code
 
 1.  Choose one of the languaes listed above. 
