@@ -183,7 +183,8 @@ That could cause irritation on the part of the punctual team member.
 
 #### Some additional questions
 
-These questions can be added to the ones on the worksheet.
+These questions can be added to the ones on the worksheet. (Question 4 is a 
+replacement for question 4 on the worksheet.)
 Use of an electonic discussion board can facilitate students 
 seeing and responding to other students' responses.
 
