@@ -9,7 +9,7 @@ pagecat: lab
 
 * Worksheet
 
-    * [web version](analogies-code-plagiarism/)
+    * [web version](analogies-code-plagiarism-worksheet/)
     * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/analogies-code-plagiarism/analogies-code-plagiarism-worksheet.Rmd)
 
  
