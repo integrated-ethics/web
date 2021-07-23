@@ -44,9 +44,9 @@ top values.
 next to the circled values that might inform where you would choose to
 work when you graduate.
 
-When everyone in your group has finished, each person should choose two
+4. When everyone in your group has finished, each person should choose two
 of the values that they have put W’s next to and describe to the group
-how that value would influence a job choice for you.
+how that value would influence a job choice.
 
 
 ## A list of values
