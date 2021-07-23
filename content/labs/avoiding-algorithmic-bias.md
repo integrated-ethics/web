@@ -8,10 +8,13 @@ author: Lori Carter
 
 # Student Materials
 
-* Worksheet
-
-    * [web version](avoiding-algorithmic-bias-worksheet/)
+* Long version of worksheet with questions and EU Guidelines
+    * [web version](avoiding-algorithmic-bias-worksheet/) 
     * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-worksheet.Rmd)
+    
+* Scenarios only version of worksheet
+    * [scenarios only](avoiding-algorithmic-bias-scenarios/)
+    * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-scenarios.Rmd)
 
 * EU AI Guidelines slide deck
     * [web version](/slides/eu-ai-guidelines.html)
