@@ -77,7 +77,7 @@ is important for the students to see the labs as a significant and integral part
 of the course. A faculty member who presents the material under duress can
 influence students negatively.
 
-Recognize that you, as a professor, are presenting material that is
+Recognize that you are presenting material that is
 interdisciplinary in nature. While you are the content (computer, statistics,
 data science) expert, you are not an expert in ethics. You will feel awkward at
 times in presenting the ethics side of the lab. However, this makes you an

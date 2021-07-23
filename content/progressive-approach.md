@@ -81,7 +81,7 @@ products.
 of the course. A faculty member who presents the material under duress can
 influence students negatively.
 
-2. Recognize that you, as a professor, are presenting material that is
+2. Recognize that you are presenting material that is
 interdisciplinary in nature. 
 
     While you are the content (computer, statistics,
