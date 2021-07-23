@@ -5,6 +5,8 @@ content/pubs.html
 convert-gdrive.html
 index.html
 README.html
+content/labs/*.html
+content/labs/*/*.html
 
 static/rmarkdown-libs
 
