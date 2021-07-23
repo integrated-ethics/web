@@ -26,7 +26,8 @@ borderline between two grades.
 ## Partial ACM Code of Ethics
 
 The following items come from the 
-[ACM Code of Ethics](https://www.acm.org/code-of-ethics)
+[ACM Code of Ethics](https://www.acm.org/code-of-ethics).
+Once you have finished the exercises on the grade scenario, look over these items. Choose one of them and consider how it might influence a choice that you might have to make as a future software engineer or project manager. Be prepared to share it with the rest of the class.
 
 -   Contribute to society and to human well-being, acknowledging that
     all people are stakeholders in computing.

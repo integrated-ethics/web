@@ -1,5 +1,6 @@
 ---
 title: "Utilitarianism: Plagiarism Issues"
+author: "Catherine Crockett, Whitney Featherston, Morgan Wheeler"
 date: "2021-07-21"
 pagecat: lab
 ---

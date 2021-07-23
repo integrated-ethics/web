@@ -1,6 +1,6 @@
 ---
 title: "A First Look at Ethics in Computer and Data Sciences"
-author: "Lori Carter"
+author: "Lori Carter and Rebecca DeYoung"
 date: "2021-07-21"
 pagecat: lab
 slug: first-look

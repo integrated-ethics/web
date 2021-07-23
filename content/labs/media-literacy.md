@@ -1,6 +1,6 @@
 ---
 title: "Media Literacy"
-author: ""
+author: "Lori Carter"
 date: "2021-07-21"
 pagecat: lab
 ---

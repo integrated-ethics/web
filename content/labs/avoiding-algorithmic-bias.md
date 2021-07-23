@@ -175,7 +175,7 @@ college admissions scenario or to the scenario read as a group.
 
 Have each group report on one or more of the guidelines that would have
 helped in the design of either the college admission scenario or the
-scenario that they read. If it was the scenario read, have the group
+scenario that they read. If they choose to use their group scenario, have the group
 first summarize the scenario. It is probably best to ask if other groups
 have comments on that same scenario before moving on.
 
