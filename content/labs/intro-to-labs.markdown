@@ -4,12 +4,6 @@ title: "Introduction to Integrated Ethics Labs"
 date: "2021-07-02"
 publicationdate: "2021-07-02"
 author: Integrated Ethics Team
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
-
 ---
 
 
