@@ -36,7 +36,9 @@ tasks
     homework assignment to use to introduce students to the ethics
     frameworks prior to completing any other lab.
 
-**Time required:**  As homework: 25 minutes
+**Time required:**  
+
+* As homework: 25 minutes
 
 **Learning objectives:**
 

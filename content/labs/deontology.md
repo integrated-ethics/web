@@ -28,7 +28,10 @@ semester programming course
 
 * Recommended follow-up modules: Analogies* *
 
-**Time** required:  **Out of class**: None;  **In class**: 25-30 minutes
+**Time** required:  
+
+* Out of class: None
+* In class: 25-30 minutes
 
 **Learning objectives**:
 

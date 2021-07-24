@@ -45,7 +45,10 @@ management or data analysis
 
 * Recommended follow-up modules: No direct follow-up modules
 
-**Time** required: **In class**: 20 minutes; **Out of class**: none
+**Time** required: 
+
+* In class: 20 minutes 
+* Out of class: none
 
 **Learning objectives**:
 

@@ -27,7 +27,10 @@ scientists/data scientists do?
 
 -   Recommended follow-up labs: *Virtue Ethics*, but any lab can follow
 
-**Time** required: **Out of class:** none; **In class:** 25 minutes
+**Time** required: 
+
+* Out of class: none 
+* In class: 25 minutes
 
 **Learning objectives**:
 

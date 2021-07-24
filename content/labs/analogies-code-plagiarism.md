@@ -30,10 +30,9 @@ is helpful, but is briefly presented
 
 **Time** required:
 
-
 * Out of class: None
 
-In class: 30 minutes
+* In class: 30 minutes
 
 **Learning objectives**:
 

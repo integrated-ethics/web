@@ -5,7 +5,7 @@ date: "2021-07-21"
 pagecat: lab
 ---
 
-# Student Matrials
+# Student Materials
 
 * [web page](utilitarianism-plagiarism-worksheet/)
 * [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/utilitarianism-plagiarism/utilitarianism-worksheet.md)
