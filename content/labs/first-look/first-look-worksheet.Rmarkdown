@@ -2,6 +2,9 @@
 title: A first look at ethics
 date: 2021-07-21
 pagecat: worksheet
+bibliography: ../../ie-references.bib
+nocite: '@DeYoung:2020'
+link-citations: true
 ---
 
 # Doing the Right Thing
@@ -42,7 +45,7 @@ that that wise person might have to enable their wise decisions.
 
 # Moral Heroes Exercise
 
-In her book, *Glittering Vices*, Rebecca DeYoung defines virtues as
+In her book *Glittering Vices* [-@DeYoung:2020], Rebecca DeYoung defines virtues as
 "excellence of character, habits or dispositions of character that help
 us live well as excellent human beings." Using courage as an example of
 a virtue, she explains, "A courageous friend stands up for us when our
@@ -107,3 +110,5 @@ virtue list above.)
     brief description of how you would apply it to make the decision.
     If not, explain why neither of the other frameworks would be
     helpful.
+    
+## References

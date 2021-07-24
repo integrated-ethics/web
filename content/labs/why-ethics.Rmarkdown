@@ -2,6 +2,8 @@
 title: Why Ethics?
 pagecat: lab
 date: 2021-07-21
+bibliography: ../ie-references.bib
+link-citations: true
 ---
 
 # Student Materials
@@ -228,7 +230,7 @@ Things that can make a positive difference:
 
 ### Wrap up (Read or give to students)
 
-According to author Sara Baase, in her book *A Gift of Fire*, **"Ethics
+According to author Sara Baase, in her book *A Gift of Fire* [@Baase:2012], **"Ethics
 is the study of what it means to do the right thing."** While this is a
 simple definition, it turns out that the study of ethics can be a
 complex topic. However, it is certainly one that computer and data
@@ -260,4 +262,5 @@ This lesson is easily adapted to an asynchronous online environment
 where a student would complete the assignment individually and then post
 some of their ideas while also responding to the ideas of others.
 
+## References
 
