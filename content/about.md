@@ -9,7 +9,10 @@ Since then the team has expanded to include a number of authors and developers
 from different institutions and disciplines.  
 
 Find out more about the general aproach [here](/progressive-approach/) or see our
-[list of available labs](/labs-overview/).
+[list of available labs](/labs-overview/).  
+
+We welcome comments, questions, suggestions, and feedback in the
+[comment sections](#diqus_thread) at the bottom of most pages.
 
 ## Contact Information
 
