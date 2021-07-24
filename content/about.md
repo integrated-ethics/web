@@ -25,7 +25,7 @@ Find out more about the general aproach [here](/progressive-approach/) or see ou
 * Nick Breems, Dordt University (Computer Science)
 * Lori Carter, Point Loma Nazarene University (Computer Science)
 * Catherine Crockett, Point Loma Nazarene University (Mathematics)
-* Stacy DeRuiter, Calvin University (Biostatistics)
+* Stacy DeRuiter, Calvin University (Statistics)
 * Rebecca DeYoung, Calvin University (Philosophy)
 * Randall Pruim, Calvin University (Mathematics & Statistics)
 * Paul Schmelzenbach, Point Loma Nazarene University (Engineering)
