@@ -2,7 +2,7 @@
 pagetitle: ie:Pubs
 title: Publications and Presentations
 slug: pubs
-bibliography: references.bib
+bibliography: ie-references.bib
 nocite: | 
   @Carter:2019
 ---

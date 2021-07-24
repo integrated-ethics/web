@@ -3,6 +3,8 @@ title: "Utilitarianism: Plagiarism Issues"
 author: "Catherine Crockett, Whitney Featherston, Morgan Wheeler"
 date: "2021-07-21"
 pagecat: lab
+bibliography: ../ie-references.bib
+link-citations: true
 ---
 
 # Student Materials
@@ -138,18 +140,20 @@ What are some of the challenges of using the virtue ethics framework?
 
 Could use the follow questions as ethical tests based on the virtue ethics framework:
 
--   Does this decision agree or disagree with my moral values? \[5\]
+-   Does this decision agree or disagree with my moral values? 
+    @MakingEthicalDecisions:online
 
 -   Are any of my virtues in conflict with each other because of this
     dilemma?
 
 -   Think of someone whose moral judgement you respect, would this
-    decision line up with his or her values? \[5\]
+    decision line up with his or her values? 
+    @MakingEthicalDecisions:online
 
 -   Would a child or your parental figure be proud of your decision?
-    \[5\]
+    @MakingEthicalDecisions:online
 
--   Is this decision in line with my company’s core values? \[1\]
+-   Is this decision in line with my company’s core values? @Brox:2014
 
 #### Deontological Framework
 
@@ -173,7 +177,7 @@ What are some of the challenges of using the deontological framework?
 
 Could use the follow questions as ethical tests based on the framework:
 
--   Does this decision break any laws? \[1\]
+-   Does this decision break any laws? @Brox:2014
 
 -   Would I be going against any codes of ethics?
 
@@ -246,9 +250,11 @@ utilitarianism also needs to be used cautiously!
 
     -   Do the benefits outweigh the harms?
 
-    -   What are all the long-term and short-term consequences? \[1\]
+    -   What are all the long-term and short-term consequences? 
+    @Brox:2014
 
-    -   Does this option do less harm than the alternatives? \[2\]
+    -   Does this option do less harm than the alternatives? 
+    @Penn-State-Ethics-Statistics
 
 3.  **Ask students about another scenario to ensure they understand utilitarianism**
    before moving forward. 
@@ -265,7 +271,8 @@ bomber, and the city members. From a utilitarian perspective, students
 should conclude that yes, this is permissible, because it would result
 in maximum good (the safety of everyone) despite causing instrumental
 harm to one person. You should mention that there could be other
-solutions that bring more happiness.  \[3\]
+solutions that bring more happiness.  @Calculating-Consequences:2014
+
 
     A less violent example would be a family of 10 where most members
 really want a dog. One member of the family is allergic to dogs. One
@@ -350,30 +357,29 @@ negative effects on utility for each party.
     lose utility. Because this group far outweighs the group of people
     who gain utility, the aggregate utility is decreased and thus it
     is unethical, from a utilitarian perspective, to send spam emails.
-    \[4\]
+    @Quinn:2014
 
 ## References
 
-\[1\] Brox J., “6 Questions to Ask Yourself When Confronted With Ethical
-Issues.” Refresh Leadership Blog.
-[<u>http://www.refreshleadership.com/index.php/2014/01/6-questions-confronted-ethical-issues/</u>](http://www.refreshleadership.com/index.php/2014/01/6-questions-confronted-ethical-issues/)
-accessed on June 28, 2019.
+<!-- \[1\] Brox J., “6 Questions to Ask Yourself When Confronted With Ethical -->
+<!-- Issues.” Refresh Leadership Blog. -->
+<!-- [<u>http://www.refreshleadership.com/index.php/2014/01/6-questions-confronted-ethical-issues/</u>](http://www.refreshleadership.com/index.php/2014/01/6-questions-confronted-ethical-issues/) -->
+<!-- accessed on June 28, 2019. -->
 
-\[2\] Penn State. *Ethics and Statistics.*
-[<u>https://onlinecourses.science.psu.edu/statprogram/book/export/html/580</u>](https://onlinecourses.science.psu.edu/statprogram/book/export/html/580)
-accessed June 20, 2019.
+<!-- \[2\] Penn State. *Ethics and Statistics.* -->
+<!-- [<u>https://onlinecourses.science.psu.edu/statprogram/book/export/html/580</u>](https://onlinecourses.science.psu.edu/statprogram/book/export/html/580) -->
+<!-- accessed June 20, 2019. -->
 
-\[3\] Markkula Center for Applied Ethics at Santa Clara University. Aug.
-1, 2014. “Calculating Consequences: The Utilitarian Approach to Ethics.”
-Issues in Ethics V2 N1.
-[<u>https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/</u>](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/)
-accessed 6/2019
+<!-- \[3\] Markkula Center for Applied Ethics at Santa Clara University. Aug. -->
+<!-- 1, 2014. “Calculating Consequences: The Utilitarian Approach to Ethics.” -->
+<!-- Issues in Ethics V2 N1. -->
+<!-- [<u>https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/</u>](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/) -->
+<!-- accessed 6/2019 -->
 
-\[4\] Quinn M., *Ethics for the Information Age*
+<!-- \[4\] Quinn M., *Ethics for the Information Age* -->
 
-\[5\] Blink, an online source of information, training and tools for UC
-San Diego Faculty and staff. April 16, 2014. “Making Ethical Decisions:
-Things to Ask Yourself”,
-[<u>https://blink.ucsd.edu/finance/accountability/ethics/ask.html</u>](https://blink.ucsd.edu/finance/accountability/ethics/ask.html)
-accessed on 6/2019
-
+<!-- \[5\] Blink, an online source of information, training and tools for UC -->
+<!-- San Diego Faculty and staff. April 16, 2014. “Making Ethical Decisions: -->
+<!-- Things to Ask Yourself”, -->
+<!-- [<u>https://blink.ucsd.edu/finance/accountability/ethics/ask.html</u>](https://blink.ucsd.edu/finance/accountability/ethics/ask.html) -->
+<!-- accessed on 6/2019 -->
