@@ -89,7 +89,6 @@ View License Info
 </div>
 
 
-
 <div style = "text-align:center; margin: 20px">
 Web design consulting by 
 <a href="vistencreative.com">

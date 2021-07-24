@@ -27,6 +27,12 @@
 
 {{ end }}
 
+{{ $pagecat := .Params.pagecat }}
+{{ if ne "worksheet" $pagecat }}
+<hr>
+{{ template "_internal/disqus.html" . }}
+{{ end }}
+
 <script src="//yihui.org/js/math-code.js"></script>
 <script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
