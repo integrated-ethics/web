@@ -228,7 +228,7 @@ Possible answers:
 
 ### Sources
 
-All of the scenarios were excerpted from [O’Neil](#ref-ONeil:Algorithms-rule) ([n.d.](#ref-ONeil:Algorithms-rule)).
+All of the scenarios were excerpted from [O’Neil](#ref-ONeil:2016) ([2016](#ref-ONeil:2016)).
 Cathy O’Neil is also the author of *Weapons of Math Destruction*.
 
 Principles are directly from the text of [Floridi](#ref-Floridi:2019) ([2019](#ref-Floridi:2019)),
@@ -263,9 +263,9 @@ Lee, Nicol Turner, Paul Resnick, and Genie Barton. 2019. “Algorithmic Bias Det
 
 </div>
 
-<div id="ref-ONeil:Algorithms-rule" class="csl-entry">
+<div id="ref-ONeil:2016" class="csl-entry">
 
-O’Neil, Cathy. n.d. “How Algorithms Rule Our Working Lives.” <https://www.theguardian.com/science/2016/sep/01/how-algorithms-rule-our-working-lives>.
+O’Neil, Cathy. 2016. “How Algorithms Rule Our Working Lives.” <https://www.theguardian.com/science/2016/sep/01/how-algorithms-rule-our-working-lives>.
 
 </div>
 
