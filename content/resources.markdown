@@ -7,6 +7,10 @@ link-citations: true
   
 ---
 
+<div class="resources banner-spacer">
+
+</div>
+
 ## Reading list
 
 ## Other websites

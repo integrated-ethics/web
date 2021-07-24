@@ -201,6 +201,16 @@ label.hamburger-menu, #hamburger {
   left: 0;
 }
 
+div.pubs {
+  background-image: url(https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+  background-image: url(https://images.unsplash.com/photo-1550399105-c4db5fb85c18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+}
+
+div.resources {
+  background-image: url(
+  https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
+}
+
 div.classroom {
   background-image: url(https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&h=315&q=80);
   background-image: url(https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=810&h=315);
