@@ -1,5 +1,5 @@
 ---
-title: "Computer Addiction"
+title: "Reliability"
 author: "TODO"
 date: "2021-06-29"
 output:
@@ -9,7 +9,7 @@ output:
     dev: "svg"
 ---
 
-Computer Addiction Module
+Reliability Module
 
 Module Summary
 
@@ -19,151 +19,252 @@ Module Summary
 deontological, and utilitarian ethical frameworks would be helpful. They
 are briefly reviewed for those who need the information
 
-**Subject matter** referred to in this module:
+**Subject matter** referred to in this module: computer programming,
+testing, documentation, code structure, user training
 
 **Placement** in overall ethics curriculum:
 
 > Academic year: Junior or Senior courses. Good candidate for course
-> that covers software engineering.
+> that covers professionalism,
+>
+> software engineering. Students should have had experience with larger
+> projects.
 
-            Recommended previous modules: First year curriculum
+            Recommended previous modules: First year curriculum plus
+additional modules
 
             Recommended follow-up modules: Nothing specific
 
 **Time** required:
 
-Before class: 1 day technology fast, 10 minute reflection writeup
-
-In class: 30 minutes
+* In class: 30 minutes
 
 **Learning objectives**:
 
--   Have an experience of how their own compulsive device-use habits
-    > affect their life.
+-   Students understand that code reliability is an ethical issue
 
--   Understand the techniques used in making software products
-    > addictive.
+-   Students review and learn new practices that influence reliability
 
--   Understand and critique the motivations for making a product
-    > addictive.
+-   Students practice recognizing reliability issues in coding scenarios
 
--   Explore the importance of supporting full human agency in the users
-    > of their software. (Manipulation, human dignity)
-
--   Identify alternative business models that don't rely on compulsively
-    > habit-forming use.
+-   Students think about how to incorporate good techniques for coding
+    that encourage the creation of reliable code even if it is not
+    specifically asked for
 
 **Module overview**:
 
-[Ethical issues to be considered]{.ul}: User behavior modification,
-human dignity
+[Ethical issues to be considered]{.ul}: Code reliability
 
 [Exercise flow:]{.ul}
 
--   Targeted technology fast
+-   In groups, read scenarios where unreliable software caused a
+    problem.
 
--   Reflection on targeted technology fast
+-   From each scenario, identify the point of unreliability
 
--   View a video on building intentionally habit-forming software
-    > services.
+-   Establish that code reliability is an ethical issue by looking at
+    these scenarios and the virtues violated, harm done, or rules broken
+    by these mishaps.
 
--   Discuss these techniques and the ethics of intentional psychological
-    > manipulation (both positive and negative).
+-   Brainstorm techniques that students have learned during their
+    coursework that improves the chance that code will be reliable and
+    suggest which of the techniques might have improved the outcome of
+    the scenarios
 
--   Discuss how can virtue ethics, deontological ethics, or utilitarian
-    > ethics bring insight to the ethicality of this approach.
+-   Brainstorm professional practices that should routinely be
+    incorporated even if not included in the project requirements
 
--   Consider a product that was found to be addictive in the first
-    > activity: What alternatives can be imagined that would keep the
-    > product useful, but less addictive?
+-   For each of the best practices revealed above discuss reasons why
+    people in a real-life pressure-filled situation might be tempted to
+    skirt some the practices.
 
 **Preparation:** Read the entire module and print/post copies of
-reliability scenarios to be distributed to groups. The technology fast
-activity should be assigned prior to the lesson.
+reliability scenarios to be distributed to groups.
 
 Instructors Guide
 
 **Lesson plan**
 
-[Technology Fast Homework]{.ul}
+[Activity (20 min)]{.ul}
 
-1 week before the discussion, hand out the following activity prompt
+Distribute the short summaries of software mishaps, each (or more than
+1) to a small group of students. On the scenario handouts, groups are
+asked to:
 
-> "Please choose one day this week where you will \"give up\" (entirely
-> refrain from using) some tech device, app, or activity for just one
-> day (eg. social media, gaming, texting etc.). The activity should be
-> one that you use regularly in your daily life, but not one that would
-> imperil your academic success in other courses. In your reading
-> response, use your \"personal reflection\" section to comment on the
-> experience of this small \"technology fast\". Was it difficult to do?
-> How did it make you feel? What did you find your thoughts turning to?
-> Would you consider making a \"technology fast\" part of your regular
-> life rhythms? What is it about the design of this product that causes
-> it to feel so compelling?"
+-   Read their scenario as a group
 
--   Student should submit their choice of particular technological
-    > activity and a particular day *before* the fast.
+-   Determine together what the reliability issue was for their
+    scenario.
 
--   Student should complete the technology fast and submit their
-    > reflection write-up at least one day prior to the class
-    > discussion.
+-   Determine if there is a moral (ethical) issue related to that
+    reliability issue
 
-[In-class Activity (30 min)]{.ul}
+*To determine ethicality, students are referred to three different
+ethical frameworks by answering a question that framework would pose.
+Here we provide the question and the framework that would use the
+question:*
 
-(5 minutes) Invite student comments on the results of the technology
-fast.
+-   *Does the unreliability of the software you are considering cause
+    moral values (virtues) of you or your society to be violated?
+    (virtue ethics -- examples of virtues are honesty, integrity,
+    perseverance, generosity, frugality, helpfulness, concern for
+    others, etc.)*
 
-(2 minutes) Watch the following video, promoting a book on how to make
-software habit-forming:
+-   *Does the unreliability of the software you are considering cause
+    harm to people without producing great value to many more? (a
+    tradeoff) (utilitarianism asks if the outcome violates the greater
+    good)*
 
-[[https://youtu.be/qWEldj_jJ9E]{.ul}](https://youtu.be/qWEldj_jJ9E)
+-   *Is there a rule that would be violated by allowing this software to
+    continue to be used knowing its faults? (deontology -- ethical
+    framework based on an ethical code, corporate guidelines, city laws
+    etc. )*
 
-> (For a longer treatment of this topic, you may want to consider the
-> documentary The Social Dilemma.)
+After group work is complete:
 
-(10 minutes) Discuss both the techniques described in the promotion, and
-the ethics of using those techniques. Draw out from the students the
-situations in which these techniques may be appropriate, and those in
-which they would be inappropriate.
+-   As a class, discuss why reliability is (or is not) an ethical issue
+    by referring to the scenarios. Each group should report on their
+    scenario. Make sure that students can support their conclusions
+    using one or more of the questions posed in the handout.
 
-Have the students identify which ethical frameworks they are using to
-make these judgements. (Virtue, deontological, utilitarian)
+    -   Students may conclude, for example, that the issue with the Mars
+        Orbiter was not an ethical issue since no lives were at stake,
+        but if frugality is a virtue, it could be (so much money was
+        lost). They may reach different conclusions on other scenarios
+        as well, but several should be seen as clearly ethical/moral
+        issues.
 
-(10 minutes) Broadening the discussion
+-   Make a visible list of techniques related to writing good code that
+    students have learned in courses and that could improve the
+    reliability of code. When possible, refer to a particular scenario
+    (read in class or otherwise) that could have been improved by that
+    technique.
 
-Virtue Ethics:
+**Examples:**
 
-What virtues are applicable when confronted with this issue?
+-   Thoroughly retest software after making hardware changes -- this
+    > would have helped with the Ariane 5 issue. If the hardware is
+    > impossible to test on, build a software simulator of the hardware.
 
-How are habits and virtue linked?
+-   Good documentation and code structure could have helped the
+    > maintenance programmers of the financial software find the bug
+    > more quickly
 
-Deontological Ethics:
+-   With the Y2K problem, careful pre-planning with original software
+    > could have avoided this widespread issue.
 
-Are there rules in the ACM code of ethics that would address this topic?
+Other best practices that could avoid reliability issues in these or
+other scenarios
 
-Utilitarian Ethics:
+-   Train users on software
 
-Who are the stakeholders? Who benefits? Who is negatively affected?
+-   Have outsiders and inexperienced users review the user manual
 
-What are the societal impacts if this technology becomes ubiquitous?
+-   Test the software with inexperienced users (not just the software
+    team) to see if they induce errors and find the software easy to
+    use/learn.
 
-If your boss asked you to design software using addictive techniques,
-how would you respond? (What other design choices or even business
-models could be suggested that don't have these concerns? How could a
-different design give the user of the product more control over their
-own behavior?)
+-   Consider all possible cases, or have error messages for those not
+    addressed
+
+-   Write code that forces users to give correct input (data type,
+    range, etc.)
+
+-   Re-test after fixing bugs
+
+-   Think beyond just meeting the user specifications. If, in the course
+    of creating the software, you think other reliability features are
+    important, speak up!
+
+-   Anticipate uses of software that are different from the current use.
+    Example: you are writing a program that will be processing whole
+    dollar amounts. What if the user decided later that prices could
+    include dollars and cents?
+
+-   Provide adequate training or mentoring for the programmer assigned
+    to the job
+
+[Reflection as a class (10 min)]{.ul}
+
+While students might have learned about reliability techniques, it is
+helpful to warn them that, in practice, there might be barriers to
+implementing them. Have students discuss these two questions. (Some
+answers are provided)
+
+-   **What might keep you as a software engineer from adhering to these
+    best practices?**
+
+    -   *The number one issue is probably time*
+
+        -   *Not enough time to plan (development phase)*
+
+        -   *Not enough time to test*
+
+        -   *Not enough time to code!*
+
+    -   *Might not want to bring up other reliability features if you
+        feel that you are over-stepping your bounds with your supervisor
+        or the customer*
+
+-   **What coding strategies should you employ, whether you are told to
+    or not, to increase the reliability of software?**
+
+    -   *Plan before coding and make sure that you understand the
+        specifications*
+
+    -   *Test as you go along -- don't wait until the end where there is
+        a time-crunch*
+
+    -   *Good documentation and code structure*
+
+    -   *Use encapsulation to keep the user from introducing input that
+        is out of range.*
+
+    -   *Make notes of potential future issues (assumptions you are
+        making about hardware etc.)*
+
+    -   *If you don't have enough training for a particular job, speak
+        up!*
 
 [Assessment]{.ul} (to be included at a later date on a quiz, paper, or
 exam to determine if LOs were reached)
 
--   What ideas did the class come up with for responses to the boss's
-    > request to develop an addictive product?
+-   What does it mean for code to be "reliable"?
 
--   What changes are you considering in your life after your technology
-    > fast and/or hearing comments from your classmates?
+*It operates failure-free in a specified environment for a specified
+amount of time*
 
--   Using one or more of the Ethical Frameworks, describe why designing
-    > products to be intentionally addictive is ethically problematic?
+-   Name four causes of unreliable code
+
+*Some are: poor planning, poor/incomplete testing, poor code structure,
+poor documentation, poor user interface, testing only with people who
+created the code*
+
+-   Provide an example of unreliable code that shows that code
+    reliability is an ethical issue. Explain your rationale for calling
+    reliability an ethical issue in this case.
+
+    -   *All scenarios violated the virtues of quality and excellence.*
+
+    -   *The financial software scenario would violate the virtue of
+        compassion -- not writing the code/documentation well forced the
+        maintenance programmer to work harder than necessary*
+
+    -   *In the case of the patriot missile detection system and many
+        others (UK Child support system, Heathrow baggage claim), it
+        certainly caused great harm to many without producing benefit to
+        many more (did not serve the greater good)*
+
+    -   *Many scenarios violate the ACM code of ethics principle 1.2
+        "Avoid harm"*
+
+    -   *ACM code of ethics also provides principle 2.5 Give
+        comprehensive and thorough evaluations of computer systems and
+        their impacts, including analysis of possible risks.*
+
+    -   *Article 2.6 of the ACM code of ethics says "Perform work only
+        in areas of competence" In the junior programmer scenario, Kim
+        was not adequately trained for the job she was given*
 
  
 
@@ -176,7 +277,7 @@ Arabia, failed to detect an attack on an Army barracks. A government
 report found that a software problem led to an inaccurate tracking
 calculation that became worse the longer the system operated.
 
-[[https://raygun.com/blog/costly-software-errors-history/]{.ul}](https://raygun.com/blog/costly-software-errors-history/)
+<https://raygun.com/blog/costly-software-errors-history/>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -188,27 +289,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -224,7 +325,7 @@ uncollected child support payments, a backlog of 239,000 cases, 36,000
 new cases "stuck" in the system, and has cost the UK taxpayers over
 US\$1 billion.
 
-[[https://raygun.com/blog/costly-software-errors-history/]{.ul}](https://raygun.com/blog/costly-software-errors-history/)
+<https://raygun.com/blog/costly-software-errors-history/>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -236,27 +337,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -272,7 +373,7 @@ twentieth-century date in such programs could cause various errors, such
 as the incorrect display of dates and the inaccurate ordering of
 automated dated records or real-time events.
 
-[[https://en.wikipedia.org/wiki/Year_2000_problem]{.ul}](https://en.wikipedia.org/wiki/Year_2000_problem)
+<https://en.wikipedia.org/wiki/Year_2000_problem>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -284,27 +385,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -320,7 +421,7 @@ controllers believe the spacecraft plowed into Mars' atmosphere where
 the associated stresses crippled its communications, leaving it hurtling
 on through space in an orbit around the sun.
 
-[[https://raygun.com/blog/costly-software-errors-history/]{.ul}](https://raygun.com/blog/costly-software-errors-history/)
+<https://raygun.com/blog/costly-software-errors-history/>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -332,27 +433,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -369,7 +470,7 @@ backup computers (which were both running the exact same software). The
 Ariane 5 had cost nearly \$8 billion to develop, and was carrying a
 \$500 million satellite payload when it exploded.
 
-[[https://raygun.com/blog/costly-software-errors-history/]{.ul}](https://raygun.com/blog/costly-software-errors-history/)
+<https://raygun.com/blog/costly-software-errors-history/>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -381,27 +482,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -419,7 +520,7 @@ had caused the entire system to become confused and shut down. Over the
 following 10 days some 42,000 bags failed to travel with their owners,
 and over 500 flights were cancelled.
 
-[[https://www.computerworld.com/article/3412197/top-software-failures-in-recent-history.html]{.ul}](https://www.computerworld.com/article/3412197/top-software-failures-in-recent-history.html)
+<https://www.computerworld.com/article/3412197/top-software-failures-in-recent-history.html>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -431,27 +532,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -480,27 +581,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -518,7 +619,7 @@ level management will not invest any more money in the development of
 the new accounting system and they go back to their original more
 expensive system.
 
-[[https://csciwww.etsu.edu/gotterbarn/artge2.htm]{.ul}](https://csciwww.etsu.edu/gotterbarn/artge2.htm)
+<https://csciwww.etsu.edu/gotterbarn/artge2.htm>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -530,27 +631,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -566,7 +667,7 @@ was not displayed in a way that was adequate for them to distinguish a
 military attack plane from a commercial airliner. This contributed to
 the loss of many lives.
 
-[[https://csciwww.etsu.edu/gotterbarn/artge2.htm]{.ul}](https://csciwww.etsu.edu/gotterbarn/artge2.htm)
+<https://csciwww.etsu.edu/gotterbarn/artge2.htm>
 
 The general definition of the word "reliable" according to Webster's
 Dictionary is "giving the same result on successive trials."
@@ -578,27 +679,27 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group
 
@@ -627,26 +728,26 @@ time in a specified environment.
 Answer the following questions with your group
 
 -   According to the definitions, in what way was the software in your
-    > scenario unreliable?
+    scenario unreliable?
 
 -   The next question relates to the ethicality of unreliable software.
-    > Determining the ethicality of something is sometimes hard to do.
-    > If you have studied ethics previously, you may have a method. If
-    > not, here are some things to consider about your scenario:
+    Determining the ethicality of something is sometimes hard to do. If
+    you have studied ethics previously, you may have a method. If not,
+    here are some things to consider about your scenario:
 
     -   Does the unreliability of the software you are considering cause
-        > moral values (virtues) of you or your society to be violated?
-        > Virtues include:
+        moral values (virtues) of you or your society to be violated?
+        Virtues include:
 
         -   Honesty, integrity, compassion, courage, excellence,
-            > dignity, justice, kindness, patience, quality,
-            > perseverance, respect, service, transparency, etc.
+            dignity, justice, kindness, patience, quality, perseverance,
+            respect, service, transparency, etc.
 
     -   Does the unreliability of the software you are considering cause
-        > harm to people without producing great value to many more? (a
-        > tradeoff)
+        harm to people without producing great value to many more? (a
+        tradeoff)
 
     -   Is there a rule that would be violated by allowing this software
-        > to continue to be used knowing its faults?
+        to continue to be used knowing its faults?
 
 Be prepared to discuss your answers with the whole group

@@ -38,7 +38,7 @@ module can follow
 
 **Time** required:
 
-            In class: 25 minutes * *
+* In class: 25 minutes 
 
 **Learning objectives**:
 

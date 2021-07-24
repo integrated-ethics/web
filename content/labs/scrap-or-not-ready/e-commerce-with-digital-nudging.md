@@ -1,59 +1,53 @@
 ---
 title: "Ethics in E-Commerce: Digital Nudging"
-author: "TODO"
-date: "2021-06-29"
-output:
-  blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
+author: "Lori Carter"
+date: "2021-07-21"
 ---
 
-Ethics in E-Commerce: Digital Nudging
+# Overview
 
-Module Summary
-
-**Ethics background** required: This module refers to the following
+**Ethics background** required: This module refers to the following
 ethics frameworks: Virtue Ethics, Deontology, and Utilitarianism. Brief
 descriptions of each are included in the take-home assignments so
 professors and students who are not familiar with these approaches can
 still complete the module. Using these frameworks reinforces what
 students learned in the first year curriculum (if that was used).
 
-**Subject matter** referred to in this module: E-Commerce, Databases,
+**Subject matter** referred to in this module: E-Commerce, Databases,
 Dark Patterns
 
 **Placement** in overall ethics curriculum:
 
-Academic year: Years 2-4 in a Database or Software Engineering course
+* Academic year: Years 2-4 in a Database or Software Engineering course
 
-> Recommended previous modules: Ideally, students have completed the
-> first year curriculum
+* Recommended previous modules: Ideally, students have completed the
+  first year curriculum
 
-Recommended follow-up modules: No direct follow-up modules
+* Recommended follow-up modules: No direct follow-up modules
 
 **Time** required:
 
-Out of class: (30 minutes for students)
+* Out of class: 30 minutes for students
 
--   If students are not familiar with E-Commerce, students should
+    -   If students are not familiar with E-Commerce, students should
     complete the Introduction to E-Commerce exercise. To encourage
     preparation, questions are included in this exercise. 10 minutes
 
--   Students explore the idea of dark patterns and digital nudging
+    -   Students explore the idea of dark patterns and digital nudging
     through a second assignment. Students are asked to find their own
     example of digital nudging to be shared with the class. 20 minutes
 
-In class: (15-20 minutes)
+* In class: 15-20 minutes
 
--   Professor shares some or all of student examples. Class discusses
+    -   Professor shares some or all of student examples. Class discusses
     ways that a webpage content designer can present buying options to
     the consumer in an ethical manner, but that still provide the
     potential of increased revenue for the business represented.
 
 **Timing suggestion:** Since this exercise has a more significant time
-requirement outside of class, it could be used **when a professor needs
-to miss a class**. Alternatively, it could be used after an exam when
+requirement outside of class, it could be used 
+**when a professor needs to miss a class**. 
+Alternatively, it could be used after an exam when
 students do not have other homework.
 
 **Learning objectives**:
@@ -69,9 +63,8 @@ students do not have other homework.
 -   Students gain practice considering ethical ways to achieve the same
     goals and the often unethical digital nudging approach.
 
-**Module overview**:
 
-[Ethical dilemma or issue to be considered]{.ul}: 
+**Ethical dilemma or issue to be considered:**
 
 This module looks at ethical considerations in E-Commerce. It explores,
 using three different ethical frameworks, how pre-set choices on
@@ -81,12 +74,15 @@ company making money by encouraging customers to buy their product or to
 upgrade and the resulting positive or negative experience for the
 consumer. **Ethical issues include transparency and dignity.**
 
-**Preparation required:** Read entire module**.** Post 2 assignments
-online. Print a class-based student handout for each student. Collect
-examples of nudging provided by students in a way that can be presented
+**Preparation:** 
+
+* Read entire module. 
+* Post 2 assignments online. 
+* Print a class-based student handout for each student. 
+* Collect examples of nudging provided by students in a way that can be presented
 to the class.
 
-[Exercise flow:]{.ul}
+**Flow**
 
 -   Students complete E-Commerce (optional) and Digital Nudging
     exercises at home

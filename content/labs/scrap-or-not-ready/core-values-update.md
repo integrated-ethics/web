@@ -30,10 +30,10 @@ Module
 
 **Time** required:
 
-Out of class: None (but potential online version available if unable to
+* Out of class: None (but potential online version available if unable to
 do in class)
 
-In class: 20 minutes
+* In class: 20 minutes
 
 **Learning objectives**:
 

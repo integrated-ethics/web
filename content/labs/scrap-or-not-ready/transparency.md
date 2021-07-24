@@ -36,7 +36,7 @@ ethical frameworks is helpful.
 
 **Time** required:
 
-In class: 30 minutes
+* In class: 30 minutes
 
 An online version is also included* *along with a peer review assignment
 
