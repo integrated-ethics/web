@@ -89,4 +89,12 @@ View License Info
 </div>
 
 
-## Available Labs
+
+<div style = "text-align:center; margin: 20px">
+Web design consulting by 
+<a href="vistencreative.com">
+<img height = "30px" alt = "Visten Creative" src = "/images/Visten-Creative_Logo.svg" 
+style = "position:relative; bottom: -11px"
+/>
+</a> 
+</div>
