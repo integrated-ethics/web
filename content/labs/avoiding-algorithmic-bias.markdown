@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Algorithmic Bias Lab"
+title: "Avoiding Algorithmic Bias"
 date: "2021-07-21"
 pagecat: lab
 author: Lori Carter
