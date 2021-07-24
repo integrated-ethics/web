@@ -108,6 +108,10 @@ potential for unethical choices in data cleaning, while a lab to be
 integrated into a Software Engineering course might deal with addictive
 aspects of certain software products.
 
+Additional application labs are planned for the future. 
+Have a great suggestion for a lab?
+Post in the [comment section below](#disqus_thread).
+
 ## {{% lab-link title="Hospitality in Computer Programming" link="/labs/hospitable-code/" %}}
 
 Hospitality is defined by Dictionary.com as “the friendly reception
@@ -208,5 +212,3 @@ students will be asked to identify a potential ethical dilemma and
 evaluate possible approaches to the dilemma using the framework tools
 taught in this curriculum. 
 
-
-___
