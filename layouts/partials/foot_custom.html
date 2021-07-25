@@ -2,6 +2,13 @@
 <hr>
 <p><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-NC-SA 4.0"></a></p>
 
+
+{{ $pagecat := .Params.pagecat }}
+{{ if ne "worksheet" $pagecat }}
+<hr>
+{{ template "_internal/disqus.html" . }}
+{{ end }}
+
 {{ if .File }}
 
 {{ $Rmd := (print .File.BaseFileName ".Rmd") }}
@@ -22,17 +29,12 @@
 {{ end }}
 
 {{ with .Site.Params.GithubEdit}}
+<div id = "edit-on-github">
 <a href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>Edit this page on GitHub</a>
+</div>
 {{ end }}
 
 {{ end }}
-
-{{ $pagecat := .Params.pagecat }}
-{{ if ne "worksheet" $pagecat }}
-<hr>
-{{ template "_internal/disqus.html" . }}
-{{ end }}
-
 <script src="//yihui.org/js/math-code.js"></script>
 <script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
