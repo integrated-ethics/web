@@ -155,7 +155,7 @@ lab contains both pre-class and in-class assignments.
 
 <!-- stopped here- everything above checked -->
 
-## {{% lab-link title="Data Cleaning" link="/labs/data-cleaning) (data integrity" %}}
+## {{% lab-link title="Data Cleaning (data integrity)" link="/labs/data-cleaning" %}}
 
 The goal of this lab is to show that data cleaning, while necessary,
 can be conducted with differing degrees of ethicality. The process of
