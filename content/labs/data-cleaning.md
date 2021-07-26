@@ -19,7 +19,7 @@ pagecat: lab
 **Contents**: instructor guide, student handout, suggested assessment
 questions
 
-**Summary**: The goal of this module is to show that data cleaning, while necessary,
+**Summary**: The goal of this lab is to show that data cleaning, while necessary,
 can be conducted with differing degrees of ethicality. The process of
 correcting data (changing location, imputing a new value, removing typos
 etc.), removing incomplete records, or leaving questionable data as is
@@ -32,7 +32,7 @@ about the virtue ethics and utilitarian frameworks for making ethical
 decisions, though not absolutely required. These frameworks are covered
 in the first year curriculum.
 
-**Subject matter** referred to in this module: data cleaning, simple
+**Subject matter** referred to in this lab: data cleaning, simple
 statistics
 
 **Placement** in overall ethics curriculum:
@@ -40,10 +40,10 @@ statistics
 * Academic year: Years two through four -- a class in data
 management or data analysis
 
-* Recommended previous modules: First year ethics curriculum
-  (specifically virtue ethics and utilitarian modules)
+* Recommended previous lab: First year ethics curriculum
+  (specifically virtue ethics and utilitarian lab)
 
-* Recommended follow-up modules: No direct follow-up modules
+* Recommended follow-up lab: No direct follow-up lab
 
 **Time** required: 
 
@@ -67,7 +67,7 @@ Dignity, Privacy, Data Integrity, Reliability
 
 **Preparation required**
 
-Read through the entire module. Print a student handout for each
+Read through the entire lab. Print a student handout for each
 student. The handout includes a dataset description, questions for the
 students to consider, and definitions of potential ethical issues.
 

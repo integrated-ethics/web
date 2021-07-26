@@ -306,7 +306,7 @@ learn which type might best suit your needs.
 Answer the following questions about article 2.
 
 1.  Do you believe that the product described in the first article is
-    the best solution to the need of the author of this module for
+    the best solution to the need of the author of this lab for
     backup power?
 
 2.  What are the positives to the battery backup solution in comparison

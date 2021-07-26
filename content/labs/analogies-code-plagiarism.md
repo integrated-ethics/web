@@ -48,7 +48,7 @@ is helpful, but can be breifly presented in this lab.
 *Ethical issue to be considered:* professional ethics, intellectual
 property, plagiarism
 
-This module introduces a new tool for grasping the ethicality of a new
+This lab introduces a new tool for grasping the ethicality of a new
 area that is similar to more well-understood predicaments. Since
 computer science and data science are still new areas of work and study,
 analogies to older disciplines can be helpful. It is not a commonly

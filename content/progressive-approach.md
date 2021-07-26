@@ -120,10 +120,10 @@ Each lab provides to the professor the following:
 While the labs are designed to be somewhat "off-the-shelf", the best results
 occur when the professor prepares in the following ways: 
 
-* Read the entire module several times to familiarize yourself with the 
+* Read the entire lab several times to familiarize yourself with the 
 material 
 * Print or post online any student handouts 
-* Adapt the module for the size and personality of the course. 
+* Adapt the lab for the size and personality of the course. 
 * If a lab is used without any previous introduction to ethics, 
 we recommend that you have the students complete the 
 *A First Look at Ethics in Computer and Data Sciences* 

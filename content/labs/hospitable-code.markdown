@@ -14,7 +14,7 @@ Worksheet
 
 # Acknowledgement
 
-This module was motivated, in part, by a paper written by Victor Norman
+This lab was motivated, in part, by a paper written by Victor Norman
 of Calvin University.
 [<u>https://cs.calvin.edu/static/documents/christian/TeachingHospitableCode.pdf</u>](https://cs.calvin.edu/static/documents/christian/TeachingHospitableCode.pdf)
 

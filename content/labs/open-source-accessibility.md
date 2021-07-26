@@ -23,7 +23,7 @@ with the utilitarian and virtue ethics methods of considering ethical
 dilemmas. They should understand what stakeholders are. For any who
 need it, there are brief reviews of these concepts in the assignment. It
 is suggested that the Media Literacy Lab be completed prior to this
-module, but principles of finding credible articles are reviewed in the
+lab, but principles of finding credible articles are reviewed in the
 student homework handout.
 
 **Subject matter** referred to in this Lab: Linux or other open source
