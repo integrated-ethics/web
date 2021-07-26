@@ -81,9 +81,9 @@ be used prior to this lab.
 To evaluate a dilemma employing utilitarian ethics, one would look at
 which solution produces the most amount of utility, which can be
 measured by happiness, good, benefits, etc. to the stakeholders. This
-lab introduces utilitarianism frameworks and applies this framework to
+lab introduces utilitarianism and applies this framework to
 two scenarios of plagiarism. Virtue and deontological ethics are
-reviewed and contrasted with echo other and utilitarianism. While the
+reviewed and contrasted with each other and utilitarianism. While the
 scenarios in this lab are written for a Calculus course, they can be
 easily adapted to other courses.
 
