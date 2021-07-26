@@ -16,7 +16,7 @@ pagecat: lab
 **Ethics background** required: Familiarity with Virtue Ethics and the
 need for the study of ethics in computer and data sciences is helpful
 
-**Subject matter** referred to in this module: algorithms, artificial
+**Subject matter** referred to in this lab: algorithms, artificial
 intelligence, computer programming
 
 **Placement** in overall ethics curriculum:
@@ -24,9 +24,9 @@ intelligence, computer programming
 * Academic year: First year, second semester, probably second
 semester programming course
 
-* Recommended previous modules: Why Ethics? and Virtue Ethics
+* Recommended previous labs: Virtue Ethics and/ or A First Look at Ethics in Computer and Data Science
 
-* Recommended follow-up modules: Analogies* *
+* Recommended follow-up labs: Utilitarianism-Plagiarism Issues
 
 **Time** required:  
 
@@ -37,7 +37,7 @@ semester programming course
 
 -   Students understand the utility of the deontological framework
 
-**Module overview**:
+**Lab overview**:
 
 **Ethical issue to be considered**:  AI decision making
 
@@ -58,7 +58,7 @@ semester programming course
 -   Students are introduced to the ACM code of ethics
 
  
-**Preparation required:** Read the entire module. Print a copy of the
+**Preparation required:** Read the entire lab. Print a copy of the
 student handout for each student in the class or provide access to a
 document posted online. Have a copy of the professor "answers" available
 in case you need them.
@@ -72,7 +72,7 @@ in case you need them.
 Recall that ethics is the study of determining the right thing to do (in
 a moral sense). In designing computer programs and performing data
 analysis, there are lots of these types of decisions to be made. You may
-have been introduced in previous modules of the virtue ethics framework
+have been introduced in previous labs of the virtue ethics framework
 to assist in making a decision that is morally "best." (If students have
 seen the virtue ethics material, ask what they remember about it)
 
