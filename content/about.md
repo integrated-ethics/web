@@ -12,7 +12,7 @@ Find out more about the general aproach [here](/progressive-approach/) or see ou
 [list of available labs](/labs-overview/).  
 
 We welcome comments, questions, suggestions, and feedback in the
-[comment sections](#diqus_thread) at the bottom of most pages.
+[comment sections](#disqus_thread) at the bottom of most pages.
 
 ## Contact Information
 
