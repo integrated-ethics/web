@@ -40,7 +40,7 @@ adapted to be used in class.
 
 # Foundational Labs
 
-These labs that build a foundation in ethics. 
+These labs are needed to build a foundation in ethics. 
 The first four labs discuss four ethical frameworks that are used in the
 rest of the curriculum. 
 The use of these framework tools is encouraged
