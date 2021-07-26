@@ -181,7 +181,7 @@ This can be an interesting discussion about copying snippets from a
 book.
 
     * **Accidental**: Someone did not understand that what they were doing
-was plagiarism (e.g.they thought they were making their code unique by
+was plagiarism (e.g., they thought they were making their code unique by
 re-ordering or changing variable names).
 
 -   Have students discuss how helpful this analogy was in increasing
