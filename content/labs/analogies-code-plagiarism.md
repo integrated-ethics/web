@@ -16,17 +16,17 @@ pagecat: lab
 # Overview
 
 **Ethics background** required: Knowledge of three primary frameworks
-is helpful, but is briefly presented
+is helpful, but can be breifly presented in this lab.
 
-**Subject matter** referred to in this module: Computer programming
+**Subject matter** referred to in this lab: Computer programming
 
 **Placement** in overall ethics curriculum:
 
 * Academic year: First year, second semester, programming course
 
-* Recommended previous modules: Why ethics? Any of the first year modules
+* Recommended previous labs: Virtue Ethics, Introduction to the Deontology Framework Using AI, Utilitarianism- Plagiarism Issues
 
-* Recommended follow-up modules: Utilitarianism module (if not already seen) or any content modules.
+* Recommended follow-up labs: Any of the Application Labs
 
 **Time** required:
 
@@ -176,18 +176,18 @@ own
 though it was new, or, you gave a program that you had written to
 someone (both people culpable)
 
-    * **Mosaic:** Parts of the program are yours, and parts someone elses.
+    * **Mosaic:** Parts of the program are yours, and parts someone else's.
 This can be an interesting discussion about copying snippets from a
 book.
 
     * **Accidental**: Someone did not understand that what they were doing
-was plagiarism. (they thought they were making their code unique by
-re-ordering or changing variable names)
+was plagiarism (e.g.they thought they were making their code unique by
+re-ordering or changing variable names).
 
 -   Have students discuss how helpful this analogy was in increasing
     understanding of what is ethical to do in the process of writing a
     computer program as a student. Note that things might be slightly
-    different in industry as code re-used might the property of the
+    different in industry as code re-used might be the property of the
     company. Re-use of your or other's code in that context might not be
     plagiarism.
 
@@ -196,7 +196,7 @@ re-ordering or changing variable names)
 
 -   What is an analogy?
 
--   For what are analogies useful?
+-   How can analogies be useful?
 
 -   Provide students with a scenario and ask them to identify the
     ethical dilemma along with a non-technical analogy that helps to
