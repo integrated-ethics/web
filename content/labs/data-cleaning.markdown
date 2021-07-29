@@ -3,13 +3,14 @@ title: "Data Cleaning"
 author: "Lori Carter"
 date: "2021-07-06"
 pagecat: lab
+bibliography: ../ie-references.bib
 ---
 
 # Student Materials
 
-* [web page](data-cleaning-worksheet/)
-* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.md)
- 
+-   [web page](data-cleaning-worksheet/)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.md)
+
 # For Instructors
 
 ## Overview
@@ -37,18 +38,18 @@ statistics
 
 **Placement** in overall ethics curriculum:
 
-* Academic year: Years two through four -- a class in data
-management or data analysis
+-   Academic year: Years two through four – a class in data
+    management or data analysis
 
-* Recommended previous lab: First year ethics curriculum
-  (specifically virtue ethics and utilitarian lab)
+-   Recommended previous lab: First year ethics curriculum
+    (specifically virtue ethics and utilitarian lab)
 
-* Recommended follow-up lab: No direct follow-up lab
+-   Recommended follow-up lab: No direct follow-up lab
 
-**Time** required: 
+**Time** required:
 
-* In class: 20 minutes 
-* Out of class: none
+-   In class: 20 minutes
+-   Out of class: none
 
 **Learning objectives**:
 
@@ -89,37 +90,83 @@ students to consider, and definitions of potential ethical issues.
 
 *Depending on your class, you may wish to read/summarise this introductory information.*
 
-Bad data leads to bad decisions. Data can be "bad", (also called dirty
-or messy) for a variety of reasons. Information can be missing from a
-record because someone forgot or did not want to make an entry. The
-person entering the data could have introduced a typo. A tool used for
-measuring data was not calibrated correctly, or the data was entered
-with non-uniform metrics. One example of potentially bad data is called
-an outlier. For example, a GPA of 5.0 would be unusual for a college
-student where students are generally graded on a 4 point scale. If this
-value was found in a record, what should the data analyst working on
-checking the validity of the data do?
+Bad/incorrect data leads to bad/incorrect decisions.
+Data can be “bad” (also called dirty) for a variety of reasons.
 
-The process of trying to deal with dirty data in a way that has as
-little impact on the results of a study as possible is called data cleaning[^1]. 
+-   Information can be missing from a record because someone forgot record information,
+    or did not want to make an entry or because the information isn’t available.
+-   The person entering the data could have introduced a typo.
+-   A tool used for measuring data may not have been calibrated correctly, or
+-   The data may have been entered with non-uniform units.
+
+**One way to detect dirty data is to look for outliers** – values that stick out because
+they do not fit the pattern of the rest of the data. (But note that **not all outliers
+are incorrect and not all incorrect values will be outliers**.)
+
+GPAs of 5 (on a 4-point scale), human ages of 150 years, or other values that
+are beyond the feasible bounds for a measurement are clear indicators of a problem.
+Other outliers may be large (or small) but not impossible. And some incorrect values
+may not “stand out in the crowd” at all.
+
+Suppose student GPA is recorded as 5.0
+This would be unusual (impossible, really) at an institution where students are
+graded on a 4 point scale. But what should the data analyst working on
+checking the validity of the data do with such a value?
+
+(Van den Broeck et al. 2005) defines data cleaning as
+
+> \[the\] process of detecting, diagnosing, and editing faulty data.
+
 It is often said that data analysts spend 80% of their time cleaning and
-20% analyzing[^2]. If the time is not spent to clean the data
+20% analyzing (Browne-Anderson 2018).
+If the time is not spent to clean the data
 properly, the results could be incorrect, and the process fraught with
 ethical issues.
 
 In our GPA scenario, the first step of cleaning would be to check to see
 if the university posting the GPA did, in fact, adhere to a 4 point
 scale. If so, the data point is erroneous and the issue needs to be
-addressed. If the dataset was used to get the average GPA for a certain
-major, for example, and the sample size was very large, the person
-cleaning the data could probably remove the record and the results would
-not change much. Alternatively, she/he could keep the record and replace
-the value with the average or the median GPA of all students in the
-major corresponding to the record with the outlier. Often, the median is
-used as a replacement value if the data is skewed, and the average if it
-the distribution is normal. Another option, if the data had gone through
-previous transformations, would be to check backup copies of the data
-and see if there was ever an entry for this cell that is within range.
+addressed.
+
+-   **The first course of action will typically be to see if the value
+    can be reliably corrected.** Is there another source for the missing or
+    incorrect values? Might the error have been introduced somewhere in our
+    data pipeline? Is there an earlier version of the data where the value
+    appears to be correct?
+
+-   **The importance of fixing a missing/incorrect data problem depends both
+    on the data and the purpose to which they are put.**
+    If the dataset was used to get the average GPA for a certain
+    major, for example, and there are many students with that major in
+    the data set, and only very few with missing/incorrect GPAs, then
+    the estimate would change very little, even if we had the correct
+    data, so we might choose to compute our estimate using only those
+    records with complete data.
+
+-   **It is tempting to replace an obviously incorrect value with some estimate**
+    for that value – perhaps the mean or median computed from (a subset) of the data.
+    But this is frought with potential problems – we don’t really know that
+    the missing values should be “average.”
+    A better way to do this is called **imputation** and (a) uses other
+    values in the data to inform the imputed value and (b) takes into account
+    the **added uncertainty** of this imputation when drawing conclusions. This
+    latter step is important – we cannot treat unknown/estimated/imputed values
+    the same way we treat known values.
+    Imputation methods are typically not introduced in introductory statistics courses,
+    and you may need to consult someone with more expertise to do this well.
+
+Whatever approach is taken, it is important that a **clear record** is kept
+of the decisions made, in such a way that the entire analysis (including
+the data cleaning) could be reproduced by another person. Furthermore,
+these decisions and their potential impact on the conclusions drawn
+need to be clearly communicated to those relying on the analysis.
+Repeating the analysis usign a different set of decisions is a form
+of **sensitivity analysis**. If the results depend greatly on the data
+cleaning and analysis decisions, they it is crucial to know how and why
+those decisions were made. If several competing analyses yeild very similar
+results, then the stakes are lower.
+
+<!--
 Another approach, though not a good idea, would be to check the major of
 the student to determine that it is a hard major, and, if so, randomly
 assign a value of 3 for that GPA. To add to the unethicality of this
@@ -133,20 +180,21 @@ transparency. Not clearly explaining any of the cleaning choices well
 could violate the virtue of hospitality. Randomly choosing a value to
 use causes a problem with data integrity and could also introduce a bias
 into the results.
+-->
 
 ### Activity
 
 Pass out the student handout that describes a dataset, the type of
 analysis for which it will be used, and some potential data cleaning
 transformations. The definitions of various ethical issues is also
-included. 
+included.
 
 Have the students consider the questions by themselves first
 and then with the class or in small groups.
 
 ### Notes
 
-1. Regarding **anonymity**: This might be sufficiently anonymous for a very
+1.  Regarding **anonymity**: This might be sufficiently anonymous for a very
     large university. However, for a small university it would not. If
     the major was computer science, for example, and the gender was
     female, the student could be easily recognized. Since this survey
@@ -155,27 +203,26 @@ and then with the class or in small groups.
     Similarly, if there were few veterans at the school, or few
     non-traditional (older) students, they could be easily recognized.
 
-2.  Regarding missingness for  **age**
+2.  Regarding missingness for **age**
 
-    a.  Fill with the median of the student population
+    1.  Fill with the median of the student population
 
-    Maybe -- this is skewed data, but you could be missing important
-    information -- If the individual was also a vet, you might just go
-    with the median of the vets
+        Maybe – this is skewed data, but you could be missing important
+        information – If the individual was also a vet, you might just go
+        with the median of the vets
 
-    b. Fill with the mean of the student population
+    2.  Fill with the mean of the student population
 
-    Bad option as this is skewed data and this individual might not have
-    listed their age because it would be very obvious who they were
-    (could be one of the few older students)
+        Bad option as this is skewed data and this individual might not have
+        listed their age because it would be very obvious who they were
+        (could be one of the few older students)
 
-    c. Remove records where age is missing and make a note of this in the
-    data cleaning documentation
+    3.  Remove records where age is missing and make a note of this in the
+        data cleaning documentation
 
-    If your sample size is sufficiently large, you might go with
-    this option -- shouldn't affect other metrics -- there
-    shouldn't be more males than females for example
-
+        If your sample size is sufficiently large, you might go with
+        this option – shouldn’t affect other metrics – there
+        shouldn’t be more males than females for example
 
 3.  Regarding missingness for **parental college experience**:
 
@@ -189,7 +236,7 @@ and then with the class or in small groups.
     to indicate that they left college due to pregnancy. Again, a
     diversity issue.
 
-5.  Regarding **reliability** and **hospitality**: 
+5.  Regarding **reliability** and **hospitality**:
 
     If there is no standardized
     way to fix errors in the study, it could not be replicated with
@@ -214,8 +261,8 @@ ethical issues would have to be considered with the choice?
 ### Possible ideas for professor if students are struggling with reflection
 
 If the analyst replaced the major with one that he/she thought was
-closest (perhaps replacing exercise science (doesn't exist) with
-kinesiology (does exist)) but doesn't record this change, this could be
+closest (perhaps replacing exercise science (doesn’t exist) with
+kinesiology (does exist)) but doesn’t record this change, this could be
 a violation of transparency or reliability. While this approach is
 reasonable, the cleaner should record the cleaning method so the results
 could be reproduced. It might also be wise to produce the final analysis
@@ -226,8 +273,6 @@ Ask students to share anything that surprised them from this exercise,
 or changed how they might make a data cleaning decision.
 
 ## Assessment
-
-*to be included at a later date on a quiz, paper, or exam to determine if LOs were reached*
 
 -   Ask students to define data cleaning.
 
@@ -259,18 +304,33 @@ or changed how they might make a data cleaning decision.
 
         -   Does this solution violate my moral values (virtues) or
             those of the society to which I belong? (students should
-             recall that virtues include such principles as
-             adaptability, compassion, dignity, excellence, honesty,
-             inclusivity, justice, patience, transparency)
+            recall that virtues include such principles as
+            adaptability, compassion, dignity, excellence, honesty,
+            inclusivity, justice, patience, transparency)
 
+<!-- [^1]: Van den Broeck J, Argeseanu Cunningham S, Eeckels R, Herbst K -->
+<!--     (2005) Data Cleaning: Detecting, Diagnosing, and Editing Data -->
+<!--     Abnormalities. PLoS Med 2(10): e267. -->
+<!--     [[https://doi.org/10.1371/journal.pmed.0020267]{.ul}](https://doi.org/10.1371/journal.pmed.0020267) -->
+<!-- [^2]: Browne-Anderson, Hugo. (2018) What Data Scientists Really Do -->
+<!--     According to 35 Data Scientists, Harvard Business Review, August 2018. -->
+<!--     [[https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists]{.ul}](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists). -->
+<!--     Accessed July 4, 2019. -->
 
+## References
 
-[^1]: Van den Broeck J, Argeseanu Cunningham S, Eeckels R, Herbst K
-    (2005) Data Cleaning: Detecting, Diagnosing, and Editing Data
-    Abnormalities. PLoS Med 2(10): e267.
-    [[https://doi.org/10.1371/journal.pmed.0020267]{.ul}](https://doi.org/10.1371/journal.pmed.0020267)
+<div id="refs" class="references csl-bib-body hanging-indent">
 
-[^2]: Browne-Anderson, Hugo. (2018) What Data Scientists Really Do
-    According to 35 Data Scientists, Harvard Business Review, August 2018.
-    [[https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists]{.ul}](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists).
-    Accessed July 4, 2019.
+<div id="ref-Browne-Anderson:2018" class="csl-entry">
+
+Browne-Anderson, Hugo. 2018. “What Data Scientists Really Do, According to 35 Data Scientists.” *Harvard Business Review*. <https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists>.
+
+</div>
+
+<div id="ref-Van-den-Broeck:2005" class="csl-entry">
+
+Van den Broeck, Jan, Solveig Argeseanu Cunningham, Roger Eeckels, and Kobus Herbst. 2005. “Data Cleaning: Detecting, Diagnosing, and Editing Data Abnormalities.” *PLoS Med* 2 (10): e267. <https://doi.org/10.1371/journal.pmed.0020267>.
+
+</div>
+
+</div>

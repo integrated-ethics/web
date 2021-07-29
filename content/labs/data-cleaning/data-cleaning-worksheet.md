@@ -51,48 +51,54 @@ It may be helpful to review the list of potential ethical
 issues in computing and data science below as you consider the exercises 
 below.
 
-### Anonymity
+### Confidentiality of personally identifying data
 
-1.  Anonymity is a well-known ethical issue with data collection. If all
-    of the data in this survey was made available to the researchers,
-    would it be sufficiently anonymous? Why or why not? If a survey is
-    not anonymous, which ethical issue(s) might be a problem?
-
+1.  If all of the data in this survey were made available, would it be possible
+    to identify or nearly identify some individuals (perhaps by combining it with
+    other information)?  Who might have access to the additional information that
+    would be needed?
+    
+2. Could a personally identified individual suffer harm from being identified 
+   in these data? (What sorts of harm?)
+   
+3. What ethical responsibilities do researchers working with this data have in light
+   of your previous answers?
+    
 
 ### Dealing with missing data
 
 Very often some values of some variables are not recorded for some individuals.
 There are many reasons why data might be missing. Perhaps the data collection
 protocol changed over time. Perhaps some subjects declined to answer some questions
-on a survey. Perhaps some information is simply not available. 
+on a survey. Perhaps some information is simply not available for some individuals. 
 
 Before proceeding to analyse a data set, researchers need to decide how to handle missing
 data.
 
-2. For several records, `age` is missing.
+4. For several people, `age` is missing.
    Consider the pros and cons of each of these possible
     options for addressing the problem. How likely is the option to
     create an ethical issue and what might that issue be if there is
     one?
 
-    a.  Fill with the median of the student population.
+    a.  Fill with the median value from the data set.
 
-    b.  Fill with the mean of the student population.
+    b.  Fill with the mean value from the data set.
 
     c.  Remove records where `age` is missing and make a note of this in the
     data cleaning documentation.
 
-3.  For several records, the college experience of at least one of the
-    parents is missing -- is there a population with which this might
-    be more likely to happen? Since one cannot guess at the experience
-    of the parents, these records would likely be removed. What ethical
-    issue(s) might arise with the action?
+5.  For several records, the college experience of at least one of the
+    parents is missing.  Is there a sub-population with which this might
+    be more likely to happen? 
+    What ethical issue(s) might arise if we simply remove anyone
+    for whom this values is missing?
 
-4. For several records, `disability` is missing.
+6. For several records, `disability` is missing.
     Removing the related records could negatively affect the diversity
     of this study. Why?
 
-5.  There are several other fields left blank on various records. You
+7.  There are several other fields left blank on various records. You
     try to take each omission on a case by case basis, doing what you
     think is right. This might influence both reliability and
     hospitality. Why?
@@ -103,59 +109,15 @@ Just because values are included in a data set doesn't mean that those
 values are correct. Unusual observations might catch our eye and lead
 us to investigate further.
 
-6.  One current GPA is listed as 1.35. Since this is an outlier, 
-    you look at the students' overall gpa which is 3.0. You're pretty sure that the 1
-    and the 3 must have been swapped so you go ahead and change the GPA
-    to a more reasonable 3.15. What ethical issues might you be
-    violating?
+8.  One current GPA is listed as 1.35. This is much lower than the GPAs of 
+other students from that university, where the mean GPA is approximately 3.0.
+You're pretty sure that the 1 and the 3 must have been swapped so you go ahead 
+and change the GPA to a more reasonable 3.15. 
+What ethical issues might you be violating?
 
 ## Ethical Issues Definitions
 
-**Media Literacy**: Determining if an online article, video, etc. is
-factual, reliable, and unbiased.
-
-**Accessibility**: Ensuring to the best of one's ability that what we 
-produce is available to those with special needs,
-including economic, physical, mental, and emotional.
-
-**Visualization**: Employing techniques that represent data and models
-in a clear, accessible way that accurately reflects the data and what 
-we can learn from them.
-
-**Transparency**: Representing data, algorithms, processes, or any information
-that affects stakeholders in an open, explicit, and easily comprehensible
-format.
-
-**Diversity**: Having a variety of people (race and ethnicity, age,
-gender, skills and education level, sexual orientation, religion, etc.)
-contributing to the development of an idea or product in an effort to
-avoid bias, to increase the breadth of insight into the development 
-process, and to ensure different groups don't experience disproportionate
-benefits or costs.
-
-**Sustainability**: Practices that serve to protect the environment
-including living creatures and other naturally occurring resources and
-features.
-
-**Intellectual Property**: Crediting the creator or discoverer of work;
-affording control over the work to the creator of the work.
-
-**Decision Making**: Taking responsibility for how a system or organization
-makes decisions, especially those involving life-altering actions.
-
-**Freedom of Speech**: Granting the rights and enforcing the limitations
-of the public to express themselves and correspond, including through electronic
-communication.
-
-**Dignity**: Valuing human and animal life, well-being, and connection
-above productivity or end results.
-
-**Physical and Mental Health**: Proactively taking care to protect the
-health of colleagues, customers, clients, consumers, employees, and oneself.
-
-**Professional Citizenship**: Contributing voice and opinion within
-one's expertise regarding the ethicality of the work of those around
-them.
+{{% ethical-issues-list %}}
 
 <!-- Should this be expanded beyond just ethics citizenship? -->
 
