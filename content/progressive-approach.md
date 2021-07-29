@@ -26,7 +26,7 @@ While a particular lab can be used in isolation from all others, our experience
 shows that laying the groundwork with the first year curriculum prepares the
 students to gain more from subsequent course-related labs. If you do choose
 to use a lab in isolation, we recommend that you have the students complete 
-[*A First Look at Ethics in Computer and Data Sciences*](labs/first-look) 
+[*A First Look at Ethics in Computer and Data Sciences*](/labs/first-look/) 
 as homework prior to presenting the isolated lab.
 
 ## The first year: Laying a foundation

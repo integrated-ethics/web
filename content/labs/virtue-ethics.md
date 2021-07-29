@@ -26,7 +26,7 @@ statistics, data science, or programming course
 [*A First Look at Ethics in Computer and Data Science*](../first-look/)`
 (this lab is designed to be completed as homework)
 
--   Recommended follow-up labs: [*Analogies*](../analogies/)
+-   Recommended follow-up labs: [*Analogies (Code Plagiarism)*](../analogies-code-plagiarism/)
 
 **Time** required:
   **Out of class**: None;  **In class**: 20-30 minutes
