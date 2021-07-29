@@ -155,6 +155,7 @@ addressed. But how?
     the same way we treat known values.
     Imputation methods are typically not introduced in introductory statistics courses,
     and you may need to consult someone with more expertise to do this well.
+    This may require the researcher to exhibit a certain amount of **humility**.
 
 -   **Dealing with missing data is especially challenging if the individuals with
     missing data are systematically different** in some way from those with complete data.
@@ -215,6 +216,9 @@ and then with the class or in small groups.
     Any summaries or analyses of the data should be sure to protect the individuals involved.
     Additionally, researchers may be in a position to advocate on behalf of marginalized
     groups based on data like these.
+
+    This could be a place to start a conversation about things like IRB approval,
+    informed consent, etc.
 
 4.  Regarding missingness for **age**
 
