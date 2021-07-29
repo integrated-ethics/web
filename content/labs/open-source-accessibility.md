@@ -10,7 +10,7 @@ date: "2021-07-21"
 
 Worksheet:
 -   [web version](open-source-accessibility-worksheet/)
--   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/open-source-accessibility/open-source-accessibility.md)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/open-source-accessibility/open-source-accessibility-worksheet.md)
 
 Group Discussion:
 -   [web version](open-source-accessibility-discussion/)

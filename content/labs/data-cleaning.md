@@ -8,7 +8,7 @@ pagecat: lab
 # Student Materials
 
 * [web page](data-cleaning-worksheet/)
-* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.Rmd)
+* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.md)
  
 # For Instructors
 

@@ -10,7 +10,7 @@ slug: first-look
 # Student Materials
 
 -   [worksheet](first-look-worksheet/)
--   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/first-look/first-look-worksheet.md)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/first-look/first-look-worksheet.Rmarkdown)
 
 # Overview
 

@@ -9,7 +9,7 @@ link-citations: true
 # Student Materials
 
 -   [web version](why-ethics-worksheet/)
--   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/virtue-ethics/why-ethics-worksheet.md)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/why-ethics/why-ethics-worksheet.md)
 
 # Overview
 

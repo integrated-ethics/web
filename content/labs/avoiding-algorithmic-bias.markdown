@@ -12,10 +12,10 @@ nocite: '@Lee:2019'
 
 -   Long version of worksheet with questions and EU Guidelines
     -   [web version](avoiding-algorithmic-bias-worksheet/)
-    -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-worksheet.Rmd)
+    -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-worksheet.md)
 -   Scenarios only version of worksheet
     -   [scenarios only](avoiding-algorithmic-bias-scenarios/)
-    -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-scenarios.Rmd)
+    -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/avoiding-algorithmic-bias/avoiding-algorithmic-bias-scenarios.md)
 -   EU AI Guidelines slide deck
     -   [web version](/slides/eu-ai-guidelines.html)
     -   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/static/slides/eu-ai-guidelines.Rmd)
