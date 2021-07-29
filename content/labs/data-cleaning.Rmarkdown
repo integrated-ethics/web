@@ -1,6 +1,6 @@
 ---
 title: "Data Cleaning"
-author: "Lori Carter"
+author: "Lori Carter, Randall Pruim"
 date: "2021-07-06"
 pagecat: lab
 bibliography: ../ie-references.bib
@@ -9,7 +9,7 @@ bibliography: ../ie-references.bib
 # Student Materials
 
 * [web page](data-cleaning-worksheet/)
-* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.md)
+* [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/data-cleaning/data-cleaning-worksheet.Rmarkdown)
  
 # For Instructors
 
@@ -92,11 +92,12 @@ students to consider, and definitions of potential ethical issues.
 
 Bad/incorrect data leads to bad/incorrect decisions. 
 Data can be "bad" (also called dirty) for a variety of reasons. 
+Here are few:
 
-*  Information can be missing from a record because someone forgot record information,
-or did not want to make an entry or because the information isn't available. 
+* Information can be missing from a record because someone forgot to record information,
+or did not want to make an entry, or because the information isn't available. 
 * The person entering the data could have introduced a typo. 
-* A tool used for measuring data may not have been calibrated correctly, or 
+* A tool used for measuring data may not have been calibrated correctly. 
 * The data may have been entered with non-uniform units.
 
 **One way to detect dirty data is to look for outliers** -- values that stick out because
@@ -126,7 +127,7 @@ ethical issues.
 In our GPA scenario, the first step of cleaning would be to check to see
 if the university posting the GPA did, in fact, adhere to a 4 point
 scale. If so, the data point is erroneous and the issue needs to be
-addressed. 
+addressed.  But how?
 
 * **The first course of action will typically be to see if the value
 can be reliably corrected.** Is there another source for the missing or
@@ -154,6 +155,9 @@ latter step is important -- we cannot treat unknown/estimated/imputed values
 the same way we treat known values.
 Imputation methods are typically not introduced in introductory statistics courses,
 and you may need to consult someone with more expertise to do this well.
+
+* **Dealing with missing data is especially challenging if the individuals with
+missing data are systematically different** in some way from those with complete data.
 
 Whatever approach is taken, it is important that a **clear record** is kept
 of the decisions made, in such a way that the entire analysis (including 
@@ -194,50 +198,68 @@ and then with the class or in small groups.
 
 ### Notes
 
-1. Regarding **anonymity**: This might be sufficiently anonymous for a very
-    large university. However, for a small university it would not. If
+1. Regarding **confendiality and personally identifiable data**: 
+    In a large university with many students of all types in each program,
+    it may not be possible to identify individuals with these data.
+    However, for a small university, a small program, or for students
+    with unusual data values, it may be much easier. If
     the major was computer science, for example, and the gender was
-    female, the student could be easily recognized. Since this survey
-    also asks about things like mental illness and the possibility of
-    pregnancy, dignity could be an ethical issue at stake here.
+    female, the student could be easily recognized. 
     Similarly, if there were few veterans at the school, or few
     non-traditional (older) students, they could be easily recognized.
+    
+2. Since this survey also asks about things like mental illness and the possibility of
+    pregnancy, dignity could be an ethical issue at stake here.
 
-2.  Regarding missingness for  **age**
+3. The data must be kept secure and only those with legitimate purposes should have access.
+Any summaries or analyses of the data should be sure to protect the individuals involved.
+Additionally, researchers may be in a position to advocate on behalf of marginalized 
+groups based on data like these.
 
+4.  Regarding missingness for  **age**
+
+    a. Fill with the mean of the student population
+
+        Bad option as this is skewed data, so the mean age is likely
+        an over-estimate for most students.
+    
     a. Fill with the median of the student population
 
-        Maybe -- this is skewed data, but you could be missing important
-    information -- If the individual was also a vet, you might just go
-    with the median of the vets
-
-    b. Fill with the mean of the student population
-
-        Bad option as this is skewed data and this individual might not have
-    listed their age because it would be very obvious who they were
-    (could be one of the few older students)
+        Only slightly better. A median is often a better summary of a skewed
+        distribution, but that doesn't make the median a good estimate for an
+        individual with missing data. Furthermore, treating "filled in" data as
+        if it were correct can lead to incorrect conclusions. 
+        
+        Note: this is somewhat like some imputation methods, but those methods
+        also take into account the greater uncertainty associated with imputed 
+        values.
+        
 
     c. Remove records where age is missing and make a note of this in the
     data cleaning documentation
 
-        If your sample size is sufficiently large, you might go with
-    this option -- shouldn't affect other metrics -- there
-    shouldn't be more males than females for example
+        If your sample size is sufficiently large and the amount of missing data
+        small, you might go with this option.
+        
+        But if individuals for whom age is missing are systematically different
+        from those with age recorded (perhaps older students are reluctant to
+        reveal their age), then our analysis won't accurately reflect
+        this difference (since we aren't using any data for one of the groups).
+        This could create bias and be a diversity issue.
 
-
-3.  Regarding missingness for **parental college experience**:
+5.  Regarding missingness for **parental college experience**:
 
     More likely to happen for parents with no college experience or
     students who are adopted. Removing these records could affect
     diversity.
 
-4.  Regarding missingness for **physical disability**:
+6.  Regarding missingness for **physical disability**:
 
     Some female students might not want
-    to indicate that they left college due to pregnancy. Again, a
-    diversity issue.
+    to indicate that they are pregnant or suffer from mental illness. 
+    Again, a diversity issue.
 
-5.  Regarding **reliability** and **hospitality**: 
+7.  Regarding **reliability** and **hospitality**: 
 
     If there is no standardized
     way to fix errors in the study, it could not be replicated with
@@ -252,12 +274,15 @@ and then with the class or in small groups.
 
 ## Reflection
 
-Ask the class to reflect on this additional example based on what they
+1. Ask the class to reflect on this additional example based on what they
 learned from the exercise:
 
-A survey-taker has indicated a major that does not exist at the
+    A survey-taker has indicated a major that does not exist at the
 university. What possible choices are there to handle this, and what
 ethical issues would have to be considered with the choice?
+
+2. Ask students to share anything that surprised them from this exercise,
+or changed how they might make a data cleaning decision.
 
 ### Possible ideas for professor if students are struggling with reflection
 
@@ -270,8 +295,6 @@ could be reproduced. It might also be wise to produce the final analysis
 both with the change made, and with the offending record removed and see
 if the results differed significantly.
 
-Ask students to share anything that surprised them from this exercise,
-or changed how they might make a data cleaning decision.
 
 ## Assessment
 

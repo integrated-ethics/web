@@ -3,13 +3,14 @@ title: "Data Cleaning"
 author: ''
 date: '2021-07-06'
 pagecat: worksheet
-output:
-  word_document: default
-  html_document:
-    df_print: paged
-  pdf_document: default
 publishdate: '2021-07-06'
+bibliography: ../../ie-references.bib
 ---
+
+
+[@Van-den-Broeck:2005] defines data cleaning as
+
+> [the] process of detecting, diagnosing, and editing faulty data. 
 
 ## University Students Data
 
@@ -146,3 +147,5 @@ techniques employed.
 **Professional Ethics**: Contributing one's best effort in the workplace
 while respecting one's peers and upholding the requirements of one's
 employer and the discipline's overarching guild.
+
+## References
