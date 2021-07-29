@@ -41,6 +41,7 @@ params:
   description: "Integrated Ethics Labs for teaching ethics in computing and data courses"
   # footer: "CC-BY-NC-SA-4.0"
   GithubEdit: "https://github.com/integrated-ethics/web/edit/main/content/"
+  GithubRead: "https://github.com/integrated-ethics/web/blob/main/content/"
 
 markup:
   goldmark:
