@@ -14,12 +14,28 @@ nocite: '@*'
 
 ## Other websites
 
+### Reference
+
 -   The [Stanford Encylopedia of Philosophy](https://plato.stanford.edu/) is a good,
     peer-reviewed and actively updated resource for many areas of philosophy, including
     ethics.
+
+### Organizations
+
 -   [Montreal AI Ethics Institute](https://montrealethics.ai/)
+
+-   the [Algorithmic Justice League](https://www.ajl.org/) and the related film
+    [*CODED BIAS: A DOCUMENTARY*](https://www.ajl.org/spotlight-documentary-coded-bias)
+
+### Podcasts and Blogs
+
 -   [Data Science Ethics podcast](https://datascienceethics.com/category/podcast/)
+
 -   [Philosophy of Data Science](https://www.podofasclepius.com/philosophy-of-data-science) section of the [Data and Science with Glen Wright Colopy](https://www.podofasclepius.com/) website.
+
+-   The [Teach Data Science](https://teachdatascience.com/) blog has some items
+    related to ethics. See, for example, the posts on [social justice](https://teachdatascience.com/socialjustice/)
+    and [data feminism](https://teachdatascience.com/datafem/).
 
 ## References
 
@@ -37,6 +53,18 @@ Association, American Statistical. 2018. “Ethical Guidelines for Statistical P
 <div id="ref-Baase:2012" class="csl-entry">
 
 Baase, Sara. 2012. *A Gift of Fire*. Pearson Education Limited.
+
+</div>
+
+<div id="ref-Benjamin:2019" class="csl-entry">
+
+Benjamin, Ruha. 2019a. *Race After Technology: Abolitionist Tools for the New Jim Code*. Polity.
+
+</div>
+
+<div id="ref-Benjamin:2019review" class="csl-entry">
+
+———. 2019b. “<span class="nocase">Race After Technology: Abolitionist Tools for the New Jim Code</span>.” *Social Forces* 98 (4): 1–3. <https://doi.org/10.1093/sf/soz162>.
 
 </div>
 
@@ -115,6 +143,12 @@ Lee, Nicol Turner, Paul Resnick, and Genie Barton. 2019. “Algorithmic Bias Det
 <div id="ref-MakingEthicalDecisions:online" class="csl-entry">
 
 “Making Ethical Decisions: Things to Ask Yourself.” 2014. Josephson Institute of Ethics. <https://blink.ucsd.edu/finance/accountability/ethics/ask.html>.
+
+</div>
+
+<div id="ref-McIlwain:2019" class="csl-entry">
+
+McIlwain, C. D. 2019. *Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter*. Oxford University Press, Incorporated. <https://books.google.com/books?id=DmmtDwAAQBAJ>.
 
 </div>
 
