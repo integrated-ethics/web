@@ -140,7 +140,7 @@ what went right and what went wrong.
 > Artificial Intelligence. Kaplan and Haenlein recently defined AI as “a
 > system’s ability to correctly interpret external data, to learn from
 > such data, and to use those learnings to achieve specific goals and
-> tasks through flexible adaptation” Our example of a point-based
+> tasks through flexible adaptation.” Our example of a point-based
 > algorithm for college admission is used to predict who will most likely
 > succeed at a particular college or university. Similarly, each of the
 > scenarios that you read involved simple predictive algorithms.
@@ -162,6 +162,15 @@ should be made available to students so they can follow along.
 -   It is a good idea for students to participate in the reading
     (assign 1 guideline to a student to read) so that they are more engaged.
 -   These also appear on the student worksheet.
+
+**Note to instructor**: Definition of AI.
+There are some weaknesses to the definition of AI given by
+Kaplan and Haenlein. In particular, many of the terms used
+in the definition do not have self-evident meanings, so it would
+probably be difficult to use this definition to decide whether
+something is or is not an example of AI. Try not to focus on
+the issue of defining AI – keep the focus on the scenarios
+and the ethical issues they raise.
 
 ### Activity 2 (5 min)
 
