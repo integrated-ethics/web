@@ -70,9 +70,9 @@ easily adapted to other courses.
 ## {{% lab-link title="Introduction to the Deontology Framework Using AI" link="/labs/deontology/" %}}
 
 In this lab students will encounter the ethical framework of
-deontology, review and contrast with the virtue ethics and practice
-finding an ethical solution in a group setting. It is recommended that
-either [*Virtue Ethics*](/labs/virtue-ethics/) and/or 
+deontology, review and contrast that framework with the virtue ethics, 
+and practice finding an ethical solution in a group setting. 
+It is recommended that either [*Virtue Ethics*](/labs/virtue-ethics/) and/or 
 [*A First Look at Ethics in Computer and Data Science*](/labs/first-look/) 
 be used prior to this lab.
 
@@ -165,15 +165,11 @@ as it can affect the results of the analysis. Consequently, methods
 must be scrutinized. Students will evaluate the ethical ramifications
 of data cleaning choices on a fictional data set description.
 
-## {{% lab-link title="Ethics in E-Commerce: Digital Nudging" %}}
 
-This lab considers ethics in E-Commerce. It explores how pre-set
-choices on webpages can “nudge” a person to choose options that are
-not in their best interest. A dilemma to be considered here is the
-tension between a company making money by encouraging customers to buy
-their product or to upgrade and the resulting positive or negative
-experience for the consumer. Ethical issues include transparency and
-dignity.
+# Labs in Progress
+
+We continue to add labs over time. Here are some of the labs currently
+being developed.
 
 ## {{% lab-link title="Professional Ethics" %}}
 
@@ -184,17 +180,30 @@ speak up when they see something that is wrong. It explores reasons we
 may want to remain quiet or why we might be tempted to do something
 outside of our normal character.
 
-## {{% lab-link title="Transparency" %}} 
+## {{% lab-link title="Transparency in End User Licensing Agreements" %}} 
 
+<!--
 Transparency has become an issue in computing lately, including
 transparency in how an AI makes decisions or how a predictive
-algorithm produces results. This lab focuses on end user licensing
-agreements. Such agreements are required for user and company safety,
+algorithm produces results. -->
+
+This lab focuses on end user licensing agreements. 
+Such agreements are required for user and company safety,
 but are often unread. Using online tools, students explore the actual
 complexity of such agreements, consider solutions, and contemplate how
 to discuss the solutions with their superiors.
 
-## {{% lab-link title="Reliability" %}}
+## {{% lab-link title="Ethics in E-Commerce: Digital Nudging" %}}
+
+This lab considers ethics in E-Commerce. It explores how pre-set
+choices on webpages can “nudge” a person to choose options that are
+not in their best interest. A dilemma to be considered here is the
+tension between a company making money by encouraging customers to buy
+their product or to upgrade and the resulting positive or negative
+experience for the consumer. Ethical issues include transparency and
+dignity.
+
+## {{% lab-link title="Software Reliability" %}}
 
 Poorly tested software has led to life-ending disasters, child support
 payments being misdirected, and patients being overdosed. This lab
@@ -202,9 +211,34 @@ explores the need and methods for thorough testing, but also looks at
 the role of issues such as the needs for diverse teams when building
 robust software. (this one is currently a work in progress)
 
+## {{% lab-link title="Probability and Ethics" %}}
+
+Especially in the context of the utilitarian framework and in game theory (the study
+of multiple people making simultaneous decisions), concepts from probability are an
+important part of the discussion.  In the utilitarian framework, for example,
+how do we measure utility when (a) different stakeholders may be impacted differently
+and also value outcomes differently, and (b) the consequences of a given decision
+are not completely known? 
+
+
+## {{% lab-link title="Working in Groups" %}}
+
+Whether in the classroom or on the job, we often work together with other people to
+accomplish tasks. What ethics principles should guide how we work together?
+
+## {{% lab-link title="Survey Design" %}}
+
+Sureys are used by businesses, government agencies, and non-profits to discover
+the behaviors and opinions of groups of people.  What ethical priniciples help
+us gather this information in a way that provides reliable information and 
+protects the rights of those being surveyed?
+
+## {{% lab-link title="Data Provenance" %}}
+
+
 # Capstone Labs
 
-*The captstone labs are currently under construction.*
+*The capstone labs are currently under construction.*
 
 These labs are designed to help students review and pull together
 concepts that they have learned in the ethics curriculum. In each lab,
