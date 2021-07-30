@@ -24,7 +24,7 @@ nocite: '@*'
 ## References
 
 Here is an additional list of references, including all the references used in our
-labs.
+labs. These are also availble as a [BibTex file](/ie-resources.bib).
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
