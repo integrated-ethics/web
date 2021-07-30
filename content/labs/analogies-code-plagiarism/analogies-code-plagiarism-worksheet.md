@@ -5,6 +5,15 @@ date: 2021-07-21
 pagecat: worksheet
 ---
 
+<style>
+table {
+  width: 90%;
+  }
+td {
+  width: 50%
+}
+</style>
+
 ## Comparing essay writing to programming
 
 1. What do essays and computer programs in the academic context have in

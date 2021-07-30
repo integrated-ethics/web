@@ -5,6 +5,15 @@ date: "2021-07-21"
 pagecat: lab
 ---
 
+<style>
+table {
+  width: 90%;
+  }
+td {
+  width: 50%
+}
+</style>
+
 # Student Materials
 
 * Worksheet
