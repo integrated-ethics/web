@@ -170,4 +170,10 @@ Van den Broeck, Jan, Solveig Argeseanu Cunningham, Roger Eeckels, and Kobus Herb
 
 </div>
 
+<div id="ref-Zakaria:2021" class="csl-entry">
+
+Zakaria, Rafia. 2021. *Against White Feminism: Notes on Disruption*. W. W. Norton.
+
+</div>
+
 </div>
