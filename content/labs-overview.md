@@ -76,6 +76,11 @@ It is recommended that either [*Virtue Ethics*](/labs/virtue-ethics/) and/or
 [*A First Look at Ethics in Computer and Data Science*](/labs/first-look/) 
 be used prior to this lab.
 
+Currently this lab is based on the ACM's
+[*Code of Ethics and Professional Conduct*](https://www.acm.org/code-of-ethics).
+We plan to create a similar lab using the ASA's 
+[*Ethical Guidelines for Statistical Practice*](https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
+
 ## {{% lab-link title="Utilitarianism: Plagiarism Issues" link="/labs/utilitarianism-plagiarism/" %}}
 
 To evaluate a dilemma employing utilitarian ethics, one would look at
@@ -211,6 +216,12 @@ explores the need and methods for thorough testing, but also looks at
 the role of issues such as the needs for diverse teams when building
 robust software. (this one is currently a work in progress)
 
+## {{% lab-link title="Data Visualization" %}}
+
+Data visualization is used in so many ways and is so important, this might
+turn into multiple labs. We are still sorting through how we want to deal
+with this important topic.
+
 ## {{% lab-link title="Probability and Ethics" %}}
 
 Especially in the context of the utilitarian framework and in game theory (the study
@@ -233,7 +244,11 @@ the behaviors and opinions of groups of people.  What ethical priniciples help
 us gather this information in a way that provides reliable information and 
 protects the rights of those being surveyed?
 
+
+
+<!-- 
 ## {{% lab-link title="Data Provenance" %}}
+-->
 
 
 # Capstone Labs
@@ -246,3 +261,10 @@ students will be asked to identify a potential ethical dilemma and
 evaluate possible approaches to the dilemma using the framework tools
 taught in this curriculum. 
 
+# Ethics and Engineering
+
+Integrated Ethics Labs began with a focus on computer science and quickly expanded 
+to statistics and data science as well. Soon we may be expanding include labs
+focused on issues in engineering. There is, of course, a lot of overlap in the ethical
+issues related to these disciplines, but there are also discipline-specific 
+foci and application areas that we want to be able to address.
