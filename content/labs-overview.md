@@ -67,7 +67,7 @@ it would be unfair to the other students? While the scenarios in this
 lab are written for an introductory programming course, they can be
 easily adapted to other courses.
 
-## {{% lab-link title="Introduction to the Deontology Framework Using AI" link="/labs/deontology/" %}}
+## {{% lab-link title="Introduction to the Deontology: Assigning Grades" link="/labs/deontology/" %}}
 
 In this lab students will encounter the ethical framework of
 deontology, review and contrast that framework with the virtue ethics, 

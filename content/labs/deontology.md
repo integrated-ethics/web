@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the Deontology Framework Using AI"
+title: "Introduction to the Deontology: Assigning Grades"
 author: "Lori Carter, Catherine Crockett, Whitney Featherston, Morgan Wheeler"
 date: "2021-07-21"
 publishdate: "2021-07-21"
