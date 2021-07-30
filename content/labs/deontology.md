@@ -39,7 +39,7 @@ semester programming course
 
 **Lab overview**:
 
-**Ethical issue to be considered**:  AI decision making
+**Ethical issue to be considered**:  (AI) decision making
 
 **Flow**
 
