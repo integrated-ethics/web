@@ -2,7 +2,7 @@
 pagetitle: "ie:Resources"
 title: "Integrated Ethics Resources"
 slug: resources
-bibliography: "ie-references.bib"
+bibliography: ["ie-references.bib", "ie-books.bib"]
 link-citations: true
 nocite: '@*'
   
@@ -37,10 +37,18 @@ nocite: '@*'
     related to ethics. See, for example, the posts on [social justice](https://teachdatascience.com/socialjustice/)
     and [data feminism](https://teachdatascience.com/datafem/).
 
+### Other Educational Materials
+
+-   [Ethical CS](https://ethicalcs.github.io/) – activities for a CS 1 course by Evan Peck (Bucknell)
+
+*Have you written or found something for teaching ethics in Computer Science, Data Science, Statistics or Engineering? Let us know, so we can add it to this list.*
+
 ## References
 
 Here is an additional list of references, including all the references used in our
-labs. These are also availble as a [BibTex file](/ie-resources.bib).
+labs. These are also availble as two BibTex files:
+[ie-references.bib](/ie-resources.bib) and
+[ie-books.bib](/ie-books.bib).
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -80,9 +88,21 @@ Brox, J. 2014. “6 Questions to Ask Yourself When Confronted with Ethical Issue
 
 </div>
 
+<div id="ref-Brynjolfsson:2014" class="csl-entry">
+
+Brynjolfsson, Erik, and Andrew McAfee. 2014. *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. 1st ed. W. W. Norton & Company.
+
+</div>
+
 <div id="ref-Calculating-Consequences:2014" class="csl-entry">
 
 “Calculating Consequences: The Utilitarian Approach.” 2014. Markkula Center for Applied Ethics. <https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/>.
+
+</div>
+
+<div id="ref-Carr:2010" class="csl-entry">
+
+Carr, Nicholas. 2010. *The Shallows: What the Internet Is Doing to Our Brains*. W. W. Norton & Company.
 
 </div>
 
@@ -104,6 +124,18 @@ DeYoung, Rebecca Konyndyk. 2020. *Glittering Vices: A New Look at the Seven Dead
 
 </div>
 
+<div id="ref-Dickerson:2016" class="csl-entry">
+
+Dickerson, M. T., and C. Taliaferro. 2016. *The Mind and the Machine: What It Means to Be Human and Why It Matters*. Wipf; Stock Publishers. [https://books.google.com/books?id=Wj\\\_kDAAAQBAJ](https://books.google.com/books?id=Wj\_kDAAAQBAJ).
+
+</div>
+
+<div id="ref-Dormehl:2017" class="csl-entry">
+
+Dormehl, Luke. 2017. *Thinking Machines: The Quest for Artificial Intelligence–and Where It’s Taking Us Next*. TarcherPerigee.
+
+</div>
+
 <div id="ref-Ellenberg:1983" class="csl-entry">
 
 Ellenberg, Jonas H. 1983. “Ethical Guidelines for Statistical Practice: A Historical Perspective.” *The American Statistician* 37 (1): 1–4.
@@ -116,9 +148,21 @@ Ellenberg, Jonas H. 1983. “Ethical Guidelines for Statistical Practice: A Hist
 
 </div>
 
+<div id="ref-Eubanks:2018" class="csl-entry">
+
+Eubanks, Virginia. 2018. *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*. New York, NY, USA: St. Martin’s Press, Inc.
+
+</div>
+
 <div id="ref-Floridi:2019" class="csl-entry">
 
 Floridi, Luciano. 2019. “Establishing the Rules for Building Trustworthy AI.” *Nature Machine Intelligence* 1 (6): 261–62. [https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG\\\_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf](https://ai.bsa.org/wp-content/uploads/2019/09/AIHLEG\_EthicsGuidelinesforTrustworthyAI-ENpdf.pdf).
+
+</div>
+
+<div id="ref-Fry:2018" class="csl-entry">
+
+Fry, Hannah. 2018. *Hello World: Being Human in the Age of Algorithms*. 1st ed. W. W. Norton & Company.
 
 </div>
 
@@ -128,9 +172,27 @@ Hurwitz, Shelley, and John S Gardenier. 2012. “Ethical Guidelines for Statisti
 
 </div>
 
+<div id="ref-Jardine:2004" class="csl-entry">
+
+Jardine, M. 2004. *The Making and Unmaking of Technological Society: How Christianity Can Save Modernity from Itself*. Christian Practice of Everyday Life. Brazos Press. <https://books.google.com/books?id=AFfuAAAAMAAJ>.
+
+</div>
+
 <div id="ref-Kaplan:2019" class="csl-entry">
 
 Kaplan, Michael, Andreas; Haenlein. 2019. “Siri, Siri, in My Hand: Who’s the Fairest in the Land? On the Interpretations, Illustrations, and Implications of Artificial Intelligence.” *Business Horizons* 62 (1): 15–25.
+
+</div>
+
+<div id="ref-Lanier:2010" class="csl-entry">
+
+Lanier, J. 2010. *You Are Not a Gadget*. Knopf Doubleday Publishing Group. [https://books.google.com/books?id=H76XlWv\\\_FqQC](https://books.google.com/books?id=H76XlWv\_FqQC).
+
+</div>
+
+<div id="ref-Lanier:2013" class="csl-entry">
+
+———. 2013. *Who Owns the Future?* Simon & Schuster. [https://books.google.com/books?id=rORuxPh\\\_IG4C](https://books.google.com/books?id=rORuxPh\_IG4C).
 
 </div>
 
@@ -146,9 +208,21 @@ Lee, Nicol Turner, Paul Resnick, and Genie Barton. 2019. “Algorithmic Bias Det
 
 </div>
 
+<div id="ref-Mayer-Schonberger:2013" class="csl-entry">
+
+Mayer-Schönberger, V., and K. Cukier. 2013. *Big Data: A Revolution That Will Transform How We Live, Work, and Think*. An Eamon Dolan Book. Houghton Mifflin Harcourt. <https://books.google.com/books?id=uy4lh-WEhhIC>.
+
+</div>
+
 <div id="ref-McIlwain:2019" class="csl-entry">
 
 McIlwain, C. D. 2019. *Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter*. Oxford University Press, Incorporated. <https://books.google.com/books?id=DmmtDwAAQBAJ>.
+
+</div>
+
+<div id="ref-Noble:2018" class="csl-entry">
+
+Noble, S. U. 2018. *Algorithms of Oppression: How Search Engines Reinforce Racism*. NYU Press. <https://books.google.com/books?id=-ThDDwAAQBAJ>.
 
 </div>
 
@@ -164,9 +238,27 @@ Quinn, Michael J. 2014. *Ethics for the Information Age*. Pearson Boston, MA.
 
 </div>
 
+<div id="ref-Rosling:2018" class="csl-entry">
+
+Rosling, H., O. Rosling, A. R. Rönnlund, and A. Goldberg. 2018. *Factfulness*. Lindhardt og Ringhof. <https://books.google.com/books?id=rm1UDwAAQBAJ>.
+
+</div>
+
 <div id="ref-Schuurman:2013" class="csl-entry">
 
 Schuurman, Derek C. 2013. *Shaping a Digital World: Faith, Culture and Computer Technology*. InterVarsity Academic.
+
+</div>
+
+<div id="ref-Tegmark:2017" class="csl-entry">
+
+Tegmark, M. 2017. *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf Doubleday Publishing Group. <https://books.google.com/books?id=2hIcDgAAQBAJ>.
+
+</div>
+
+<div id="ref-Vallor:2016" class="csl-entry">
+
+Vallor, S. 2016. *Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting*. Oxford University Press. <https://books.google.com/books?id=NHPADAAAQBAJ>.
 
 </div>
 
@@ -176,9 +268,27 @@ Van den Broeck, Jan, Solveig Argeseanu Cunningham, Roger Eeckels, and Kobus Herb
 
 </div>
 
+<div id="ref-Wu:2017" class="csl-entry">
+
+Wu, T. 2017. *The Attention Merchants: The Epic Scramble to Get Inside Our Heads*. Vintage Books, a division of Penguin Random House LLC. <https://books.google.com/books?id=mNkxDwAAQBAJ>.
+
+</div>
+
+<div id="ref-Yonck:2017" class="csl-entry">
+
+Yonck, R. 2017. *Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence*. Skyhorse Publishing. <https://books.google.com/books?id=HquvDQAAQBAJ>.
+
+</div>
+
 <div id="ref-Zakaria:2021" class="csl-entry">
 
 Zakaria, Rafia. 2021. *Against White Feminism: Notes on Disruption*. W. W. Norton.
+
+</div>
+
+<div id="ref-Zuboff:2019" class="csl-entry">
+
+Zuboff, S. 2019. *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs. <https://books.google.com/books?id=lRqrDQAAQBAJ>.
 
 </div>
 

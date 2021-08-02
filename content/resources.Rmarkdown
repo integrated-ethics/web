@@ -2,7 +2,7 @@
 pagetitle: "ie:Resources"
 title: "Integrated Ethics Resources"
 slug: resources
-bibliography: "ie-references.bib"
+bibliography: ["ie-references.bib", "ie-books.bib"]
 link-citations: true
 nocite: '@*'
   
@@ -36,10 +36,20 @@ ethics.
 related to ethics.  See, for example, the posts on [social justice](https://teachdatascience.com/socialjustice/)
 and [data feminism](https://teachdatascience.com/datafem/).
 
+### Other Educational Materials
+
+* [Ethical CS](https://ethicalcs.github.io/) -- activities for a CS 1 course by Evan Peck (Bucknell)
+
+*Have you written or found something for teaching ethics in Computer Science, Data Science, Statistics or Engineering?  Let us know, so we can add it to this list.*
+
+
 ## References 
 
 Here is an additional list of references, including all the references used in our
-labs. These are also availble as a [BibTex file](/ie-resources.bib).
+labs. These are also availble as two BibTex files:
+[ie-references.bib](/ie-resources.bib) and 
+[ie-books.bib](/ie-books.bib). 
+
 
 
 
