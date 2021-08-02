@@ -164,6 +164,12 @@ Quinn, Michael J. 2014. *Ethics for the Information Age*. Pearson Boston, MA.
 
 </div>
 
+<div id="ref-Schuurman:2013" class="csl-entry">
+
+Schuurman, Derek C. 2013. *Shaping a Digital World: Faith, Culture and Computer Technology*. InterVarsity Academic.
+
+</div>
+
 <div id="ref-Van-den-Broeck:2005" class="csl-entry">
 
 Van den Broeck, Jan, Solveig Argeseanu Cunningham, Roger Eeckels, and Kobus Herbst. 2005. “Data Cleaning: Detecting, Diagnosing, and Editing Data Abnormalities.” *PLoS Med* 2 (10): e267. <https://doi.org/10.1371/journal.pmed.0020267>.
