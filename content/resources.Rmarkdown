@@ -43,6 +43,12 @@ and [data feminism](https://teachdatascience.com/datafem/).
 *Have you written or found something for teaching ethics in Computer Science, Data Science, Statistics or Engineering?  Let us know, so we can add it to this list.*
 
 
+
+```{r, include = FALSE, echo = FALSE, results="asis"}
+books <- rmarkdown::pandoc_citeproc_convert('ie-books.bib')
+keys <- books |> sapply(function(x) x$id)
+```
+
 ## References 
 
 Here is an additional list of references, including all the references used in our
