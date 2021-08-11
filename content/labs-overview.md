@@ -239,13 +239,18 @@ accomplish tasks. What ethics principles should guide how we work together?
 
 ## {{% lab-link title="Survey Design" %}}
 
-Sureys are used by businesses, government agencies, and non-profits to discover
+Surveys are used by businesses, government agencies, and non-profits to discover
 the behaviors and opinions of groups of people.  What ethical priniciples help
 us gather this information in a way that provides reliable information and 
 protects the rights of those being surveyed?
 
+## {{% lab-link title="Diversity in Product Development" %}}
 
+Engineers have often been rewarded for getting their product to market quickly. However, this approach has frequently resulted in products that have limited appeal. One of the reasons for the limited appeal is that a diverse team was not employed in the design. This module discusses the need for, and ways to build an effective, diverse design and development team. It also considers that lack of diversity can result in an unethical product.
 
+## {{% lab-link title="Hardware Sustainability" %}}
+
+With more technological innovation, people are able to do things they never could before. Healthcare is available to rural areas. Businesses are making more money. However, as humans create more technology, we also create more e-waste. Should we continue to develop new technology knowing it creates more waste? Where and how should we dispose of our e-waste? This module is designed to get students to identify one or more ethical dilemmas and evaluate them through an ethical framework.
 <!-- 
 ## {{% lab-link title="Data Provenance" %}}
 -->
