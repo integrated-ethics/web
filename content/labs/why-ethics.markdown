@@ -9,7 +9,7 @@ link-citations: true
 # Student Materials
 
 -   [web version](why-ethics-worksheet/)
--   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/why-ethics/why-ethics-worksheet.md)
+-   [Markdown](https://raw.githubusercontent.com/integrated-ethics/web/main/content/labs/virtue-ethics/why-ethics-worksheet.md)
 
 # Overview
 
@@ -186,8 +186,7 @@ thoughts. See if an individual can summarize the need to consider
 carefully how products are designed and data analyzed based on the class
 discussion.
 
-Here are some ideas if the students have not been about to come up with
-many:
+Here are some ideas if the students are unable to come up with enough ideas:
 
 Things that can go wrong:
 
