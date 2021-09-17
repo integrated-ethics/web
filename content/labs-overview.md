@@ -137,7 +137,7 @@ They are then given the opportunity to consider how the algorithms
 could have been improved if they had been vetted with the set of
 guidelines recently released by the EU.
 
-## {{% lab-link title="Media Literacy (Choosing resources for background research"  link="/labs/media-literacy/" %}}
+## {{% lab-link title="Media Literacy (Choosing resources for background research)"  link="/labs/media-literacy/" %}}
 
 Many students get all of their information from social media. It is
 often one-sided and not fact-checked. Through the analogy of the best
