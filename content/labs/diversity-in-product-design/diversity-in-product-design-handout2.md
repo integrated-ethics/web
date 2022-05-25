@@ -1,5 +1,5 @@
 ---
-title: "Student Handout for Product Diversity #2"
+title: "Student Handout #2<br>for<br>Diversity in Product Design"
 pagecat: worksheet 
 date: 2022-05-25
 ---
