@@ -188,9 +188,9 @@ reading or experience:
 
         -   *Violates virtues of inclusion, sensitivity, professionalism*
 
-    -   \*Smartphone blog: Did not have elderly adults or people with
+    -   *Smartphone blog: Did not have elderly adults or people with
         processing issues on the design team. More is not always better –-
-        it can be confusing!
+        it can be confusing!*
 
         -   *Violates virtues of inclusion, compassion.*
 
@@ -204,9 +204,12 @@ Ask students to reflect on one of these 2 questions depending on the group with 
 2.  If you would consider yourself to be a part of the majority in the tech world, how might you encourage diverse voices to speak up?
 
     a.  *Ensure you have a diverse team to design, build and test your products.*
+    
     b.  *Allow for channels of anonymous input.*
+    
     c.  *To avoid making assumptions, accept and pay attention to user
         feedback.*
+    
     d.  *Encourage mentor-mentee relationships with diverse partnerships. It might
         be easier for the more mainstream partner to present the unique idea of the
         other partner.*
