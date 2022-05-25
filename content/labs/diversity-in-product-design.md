@@ -9,6 +9,12 @@ link-citations: true
 
 # Student Materials
 
+There are three student handouts for this lab.
+
+* [Handout 1](diversity-in-product-design/diversity-in-product-design-handout1.html)
+* [Handout 2](diversity-in-product-design/diversity-in-product-design-handout2.html)
+* [Handout 3](diversity-in-product-design/diversity-in-product-design-handout3.html)
+
 # Overview
 
 **Ethics background** suggested: Students should be familiar with the four ethical
