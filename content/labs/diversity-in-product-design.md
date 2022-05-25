@@ -1,7 +1,8 @@
 ---
 title: Diversity in Product Design
 pagecat: lab
-date: 2022-05-25
+date: "2022-05-25"
+publishdate: "2022-05-25"
 bibliography: ../../ie-references.bib
 link-citations: true
 ---
@@ -93,8 +94,8 @@ some sample answers are provided in italics.
 
 1.  What do you think that the subway designers might have included to help wheel-chair bound people?
 
-    -   At the very least, a system that shows up front which elevators are out of
-        service.\*
+    -   *At the very least, a system that shows up front which elevators are out of
+        service.*
 
 2.  Why didn’t they think of that?
 
@@ -112,28 +113,28 @@ some sample answers are provided in italics.
     1.  Virtue Ethics: Would it have been what the virtuous person would have done?
         Why or why not?
 
-    *Yes - Would have demonstrated compassion and inclusion.*
+        *Yes - Would have demonstrated compassion and inclusion.*
 
     2.  Utilitarianism: Would it have been the best for the most people?
         Why or why not?
 
-    *Yes – would have allowed more people to easily use the subway.*
+        *Yes – would have allowed more people to easily use the subway.*
 
-    *No – would have increased cost for subway development making it less
-    economically accessible.*
+        *No – would have increased cost for subway development making it less
+        economically accessible.*
 
 6.  Here are some other examples of products that would have benefitted from
     diverse design teams:
 
-    1.  Some of the first airbags to be installed in cars failed to protect
+    a.  Some of the first airbags to be installed in cars failed to protect
         women because they were built to men’s specifications, tested with male
         crash test dummies, and didn’t take the female anatomy into account.
 
-    2.  The first voice recognition programs didn’t recognize female voices or
+    b.  The first voice recognition programs didn’t recognize female voices or
         many accents because they were built and tested by men and native English
         speakers.
 
-    3.  You may remember Google Photos’ image recognition software labeled two
+    c.  You may remember Google Photos’ image recognition software labeled two
         black people as “gorillas.”
 
     <https://open.nytimes.com/why-having-a-diverse-team-will-make-your-products-better-c73e7518f677> (Accessed 2021-01-05)
@@ -196,13 +197,13 @@ Ask students to reflect on one of these 2 questions depending on the group with 
 
 2.  If you would consider yourself to be a part of the majority in the tech world, how might you encourage diverse voices to speak up?
 
-    1.  Ensure you have a diverse team to design, build and test your products.
-    2.  Allow for channels of anonymous input.
-    3.  To avoid making assumptions, accept and pay attention to user
-        feedback.
-    4.  Encourage mentor-mentee relationships with diverse partnerships. It might
+    a.  *Ensure you have a diverse team to design, build and test your products.*
+    b.  *Allow for channels of anonymous input.*
+    c.  *To avoid making assumptions, accept and pay attention to user
+        feedback.*
+    d.  *Encourage mentor-mentee relationships with diverse partnerships. It might
         be easier for the more mainstream partner to present the unique idea of the
-        other partner.
+        other partner.*
 
 ### Assessment
 
@@ -243,4 +244,4 @@ According to Antionette Carroll, in *Diversity & Inclusion in Design: Why Do The
 
 > Diversity in design means diversity of experience, perspective and creativity—otherwise known as diversity of thought—and these can be shaped by multiple factors including race, ethnicity, gender, age, sexual identity, ability/disability and location, among others.”
 
-    * <https://www.aiga.org/diversity-and-inclusion-in-design-why-do-they-matter> Accessed 2021-01-05.
+* <https://www.aiga.org/diversity-and-inclusion-in-design-why-do-they-matter> Accessed 2021-01-05.
