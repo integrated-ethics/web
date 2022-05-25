@@ -20,6 +20,9 @@ nocite: '@*'
     peer-reviewed and actively updated resource for many areas of philosophy, including
     ethics.
 
+-   [Ethical Guidelines for Statistical Practice](https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
+    is a guide on ethics prepared by the American Statistical Association.
+
 ### Organizations
 
 -   [Montreal AI Ethics Institute](https://montrealethics.ai/)
@@ -40,6 +43,10 @@ nocite: '@*'
 ### Other Educational Materials
 
 -   [Ethical CS](https://ethicalcs.github.io/) – activities for a CS 1 course by Evan Peck (Bucknell)
+
+-   [Ethics in Tech Practice](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/what-we-are-doing-with-ethicalcs-at-santa-clara-university/)
+    In 2019, Santa Clara University was one of the winners of the Mozilla Responsible Computer Science Challenge. This site contains information and examples
+    of appling ethics into tech courses.
 
 *Have you written or found something for teaching ethics in Computer Science, Data Science, Statistics or Engineering? Let us know, so we can add it to this list.*
 
