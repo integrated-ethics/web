@@ -170,6 +170,10 @@ as it can affect the results of the analysis. Consequently, methods
 must be scrutinized. Students will evaluate the ethical ramifications
 of data cleaning choices on a fictional data set description.
 
+## {{% lab-link title="Diversity in Product Development" link="/labs/diversity-in-product-design" %}}
+
+Engineers have often been rewarded for getting their product to market quickly. However, this approach has frequently resulted in products that have limited appeal. One of the reasons for the limited appeal is that a diverse team was not employed in the design. This lab discusses the need for, and ways to build an effective, diverse design and development team. It also considers that lack of diversity can result in an unethical product.
+
 
 # Labs in Progress
 
@@ -243,10 +247,6 @@ Surveys are used by businesses, government agencies, and non-profits to discover
 the behaviors and opinions of groups of people.  What ethical priniciples help
 us gather this information in a way that provides reliable information and 
 protects the rights of those being surveyed?
-
-## {{% lab-link title="Diversity in Product Development" %}}
-
-Engineers have often been rewarded for getting their product to market quickly. However, this approach has frequently resulted in products that have limited appeal. One of the reasons for the limited appeal is that a diverse team was not employed in the design. This lab discusses the need for, and ways to build an effective, diverse design and development team. It also considers that lack of diversity can result in an unethical product.
 
 ## {{% lab-link title="Hardware Sustainability" %}}
 
