@@ -4,7 +4,7 @@ pagecat: lab
 date: 2022-05-25
 ---
 
-### Read
+## Read
 
 > In Cathy O’Neil’s book, Weapons of Math Destruction, she recounts the story of
 Sarah Wysocki, a teacher who was popular with students, parents, and
@@ -19,7 +19,7 @@ developed based on observations of previous teachers. O’Neil writes:
 > O’Neil says later in her book that when Wysocki tried to find out how the
 algorithm worked and why she was awarded so few points, no one could tell her.
 
-### Discuss with your group
+## Discuss with your group
 
 1. What was the product?
 2. What was good about the product?

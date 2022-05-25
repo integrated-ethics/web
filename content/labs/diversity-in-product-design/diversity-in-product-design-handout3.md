@@ -4,7 +4,7 @@ pagecat: worksheet
 date: 2022-05-25
 ---
 
-### Read
+## Read
 
 Two companies that failed internationally due to cultural differences are Pepsi
 and Coca Cola. According to Kwintessential, both beverage giants had issues when
@@ -29,7 +29,7 @@ the brewer for displaying the verse.
 
 * <https://smallbusiness.chron.com/examples-company-failure-due-cultural-mistakes-70712.html>
 
-### Discuss with your group
+## Discuss with your group
 
 1. For each scenario above, who might be important to add 
 to a diverse development team?

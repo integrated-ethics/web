@@ -4,7 +4,7 @@ pagecat: worksheet
 date: 2022-05-25
 ---
 
-### Read
+## Read
 
 Web accessibility is something that Ian Macrae struggles with every day. As
 someone with a visual impairment, he uses VoiceOver software. "I use Amazon
@@ -15,7 +15,7 @@ a website is a long and complicated process," he says.
 
 * Excerpted from <https://www.theguardian.com/technology/2015/jun/29/disabled-people-internet-extra-costs-commission-scope>   Accessed 2020-03-07.
 
-### Discuss with your group
+## Discuss with your group
 
 1. What was the product?
 2. What was good about the product?
