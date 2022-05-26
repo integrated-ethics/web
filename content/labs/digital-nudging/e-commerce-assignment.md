@@ -7,7 +7,7 @@ date: 2022-05-25
 # Learn the Basics About E-Commerce 
 
 **by Ajeet Khurana** 
-([also available at thebalancesmb.com](https://www.thebalancesmb.com/let-s-ask-the-basic-question-what-is-ecommerce-1141599))
+(also available at [thebalancesmb.com](https://www.thebalancesmb.com/let-s-ask-the-basic-question-what-is-ecommerce-1141599))
 
 Business transactions that take place on the internet are called [e-commerce](https://www.thebalancesmb.com/how-does-ecommerce-work-understand-the-nuts-and-bolts-1141583), short for "electronic commerce." Popular examples of e-commerce generally involve buying and selling online, but the e-commerce universe contains other types of activities as well. Basically, any form of business transaction conducted electronically can be referred to as e-commerce. Those involved in the transactions can represent multiple combinations of customers, businesses, vendors or other suppliers, or government agencies.
 

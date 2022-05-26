@@ -3,17 +3,18 @@ title: Ethics in E-Commerce:<br>Digital Nudging
 pagecat: lab
 date: "2022-05-25"
 publishdate: "2022-05-25"
-bibliography: ../../ie-references.bib
+bibliography: ../ie-references.bib
 link-citations: true
+nocite: '@Khurana:2019'
 ---
 
 # Student Materials
 
 There are three student handouts for this lab.
 
-* [E-Commerce Assignment](e-commerce-assignment)
+* [E-Commerce Assignment](e-commerce-assignment) [@Khurana:2019]
 * [Digital Nudging Assignment](digital-nudging-assignment)
-* [Digital Nudging Handout (for in-class discussion)](digital-nudging-handout)
+* [Digital Nudging Handout](digital-nudging-handout) (for in-class discussion)
 
 # Overview 
 
@@ -132,7 +133,7 @@ which can be reviewed as the students do their work.
 * From the point of view of a business, what is the purpose of digital nudging –
 what are they trying to achieve? Give examples.
 
-    * **Students will hopefully see that they are trying to increase revenue.**
+    * *Students will hopefully see that they are trying to increase revenue.*
     
 * Is this purpose (or purposes) inherently unethical? Why or why not?
 
@@ -171,3 +172,4 @@ a manner that removes these unethical aspects.
 would keep company marketers from using these patterns and still remaining in
 good standing with the company.
 
+## References

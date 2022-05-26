@@ -1,0 +1,183 @@
+---
+title: Ethics in E-Commerce:<br>Digital Nudging
+pagecat: lab
+date: "2022-05-25"
+publishdate: "2022-05-25"
+bibliography: ../ie-references.bib
+link-citations: true
+nocite: '@Khurana:2019'
+---
+
+# Student Materials
+
+There are three student handouts for this lab.
+
+-   [E-Commerce Assignment](e-commerce-assignment) ([Khurana 2019](#ref-Khurana:2019))
+-   [Digital Nudging Assignment](digital-nudging-assignment)
+-   [Digital Nudging Handout](digital-nudging-handout) (for in-class discussion)
+
+# Overview
+
+**Ethics background required:**
+This lab refers to the following ethics frameworks: Virtue Ethics, Deontology,
+and Utilitarianism. Brief descriptions of each are included in the take-home
+assignments so professors and students who are not familiar with these
+approaches can still complete the lab. Using these frameworks reinforces what
+students learned in the first year curriculum (if that was used).
+
+**Subject matter** referred to in this lab: E-Commerce, Databases, Dark Patterns
+
+**Placement in overall ethics curriculum:**
+
+-   We recommend that this lab be used in years 2-4 in a Database or Software
+    Engineering course.
+
+-   Recommended previous labs: Foundational Labs
+
+-   Recommended follow-up labs: No direct follow-up labs
+
+**Time** required:
+
+-   Out of class: (30 minutes for students)
+
+    -   If students are not familiar with E-Commerce, students should complete the Introduction to E-Commerce exercise. To encourage preparation, questions are included in this exercise. (10 minutes)
+    -   Students explore the idea of dark patterns and digital nudging through a second assignment. Students are asked to find their own example of digital nudging to be shared with the class. (20 minutes)
+
+-   In class: (15-20 minutes)
+
+    -   Instructor shares some or all of the student examples. Class discusses
+        ways that a webpage content designer can present buying options to the
+        consumer in an ethical manner, but that still provide the potential of
+        increased revenue for the business represented.
+
+**Timing suggestion:**
+Since this exercise has a more significant time requirement outside of class, it
+could be used when a professor needs to miss a class. Alternatively, it could be
+used after an exam when students do not have other homework.
+
+**Learning objectives:**
+
+-   Students are introduced to E-Commerce.
+-   Students are introduced to Dark Patterns (Digital Nudging).
+-   Students practice applying three ethical frameworks in an effort to support
+    the claim that digital nudging is very often unethical and articulating their
+    conclusions.
+-   Students gain practice considering ethical ways to achieve the same goals and
+    the often unethical digital nudging approach.
+
+**Ethical dilemma or issue to be considered:** Transparency, dignity
+
+This lab looks at ethical considerations in E-Commerce. It explores, using three different ethical frameworks, how pre-set choices on webpages can “nudge” a person to choose options that are not in their best interest. A dilemma to be considered here is the tension between a company making money by encouraging customers to buy their product or to upgrade and the resulting positive or negative experience for the consumer.
+
+**Flow**
+
+-   Students complete E-Commerce (optional) and Digital Nudging exercises at home.
+
+-   Students send examples of digital nudging discovered online to the professor.
+    In class, after receiving examples of nudging, the professor presents some/all
+    examples to class.
+
+-   In class,place the students into groups and have the groups complete the
+    in-class handout.
+
+-   As a class, the professor leads a discussion of ways that the benefits of
+    nudging could occur ethically.
+
+**Preparation:**
+
+-   Read the entire lab.
+
+-   Post 2 assignments online and collect examples of nudging provided by students
+    in a way that can be presented to the class.
+
+-   Print a class-based student handout for each student.
+
+# Guide for Instructors
+
+## Lesson plan
+
+### Introduction (to be presented to class either online or in class)
+
+Buying and selling online, banking online, and other electronic transactions are
+becoming more and more popular. As is often the case with new technology, the
+way that E-Commerce has been used and exploited could not be completely
+predicted, and has resulted in some ethical issues. This lab gives us the
+opportunity to explore and discuss some of the ethical dilemmas and issues that
+exist with online buying and selling in particular.
+
+### Activity
+
+-   Read the introduction to the students.
+    Let them know that they have 2 assignments to complete before the next class.
+    Remind them that in addition to completing and submitting the assignments, they
+    should send you a screenshot of an example of online digital nudging by your
+    pre-determined deadline. The screenshot should also include a description of the
+    nudging shown.
+
+-   Students complete the E-commerce (at discretion of professor) and digital
+    nudging assignments that the professor has provided online.
+
+-   During the class after which students have turned in the assignment, the
+    professor should display to the class some or all of the examples.
+
+-   Students complete the in-class handout (attached) in a small group.
+
+### Reflection as a class
+
+Review the answers in the handout.
+
+**Here are some ideas for the instructor,**
+which can be reviewed as the students do their work.
+
+-   From the point of view of a business, what is the purpose of digital nudging –
+    what are they trying to achieve? Give examples.
+
+    -   *Students will hopefully see that they are trying to increase revenue.*
+
+-   Is this purpose (or purposes) inherently unethical? Why or why not?
+
+    -   *Students should see that it is not. Businesses need to make money to pay
+        employees.*
+
+-   What makes the digital nudging examples shown unethical? Use one of the ethical frameworks from the assignment to support your conclusion. (If this reflection is completed in small groups first, assign each group a particular framework to present.)
+
+    -   *Virtue ethics: These nudging examples violate the moral value of honesty (ethical issue transparency) and human dignity (wanting the best for others and not trying to take advantage or trick them).*
+
+    -   *Deontology: Violates “golden rule” – Do unto others as you would have them do unto you. Another rule might be that “the customer comes first.” Most of this nudging is not in the best interest of the customer.*
+
+    -   *Utilitarianism: The stakeholders would be the business, the business employees, and the consumers. The largest group would be the consumer, and these nudging practices are not in the best interest of the consumer.*
+
+-   Suggest ways that a company might increase their revenue through E-Commerce in
+    a manner that removes these unethical aspects.
+
+    -   *Honestly reporting the benefits of upgrading a product with a transparent price consideration. It is quite possible that the consumer would like to take advantage of the upgrade if they feel that they are being treated fairly.*
+
+    -   *Give options without any preset choice.*
+
+    -   *Speak in plain, concise language about options.*
+
+    -   *Use your marketing creativity to extol the virtues of a product to the correct audience. Do the research!*
+
+    -   *Instead of adding items to a cart, advertise related items immediately after something has been added to the cart.*
+
+    -   *Preselect the response that is beneficial to the user.*
+
+## Assessment
+
+1.  Give an example of a dark pattern.
+2.  Use an argument from virtue ethics as to why this example is unethical.
+3.  Create a rule that could be included in a code of ethics for a company that
+    would keep company marketers from using these patterns and still remaining in
+    good standing with the company.
+
+## References
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Khurana:2019" class="csl-entry">
+
+Khurana, Ajeet. 2019. “Learn the Basics about e-Commerce.” <https://www.thebalancesmb.com/let-s-ask-the-basic-question-what-is-ecommerce-1141599>.
+
+</div>
+
+</div>
