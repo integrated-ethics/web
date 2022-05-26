@@ -184,22 +184,7 @@ their product or to upgrade and the resulting positive or negative
 experience for the consumer. Ethical issues include transparency and
 dignity.
 
-
-# Labs in Progress
-
-We continue to add labs over time. Here are some of the labs currently
-being developed.
-
-## {{% lab-link title="Professional Ethics" %}}
-
-While this lab reviews issues in professional ethics (sexual
-harassment, using company resources properly, padding expense reports,
-product safety), the emphasis is on preparing students to actually
-speak up when they see something that is wrong. It explores reasons we
-may want to remain quiet or why we might be tempted to do something
-outside of our normal character.
-
-## {{% lab-link title="Transparency in End User Licensing Agreements" %}} 
+## {{% lab-link title="Transparency in End User Licensing Agreements" link = "/labs/eula-transparency" %}} 
 
 <!--
 Transparency has become an issue in computing lately, including
@@ -211,6 +196,30 @@ Such agreements are required for user and company safety,
 but are often unread. Using online tools, students explore the actual
 complexity of such agreements, consider solutions, and contemplate how
 to discuss the solutions with their superiors.
+
+## {{% lab-link title="Professional Ethics" link = "labs/professional-ethics" %}}
+
+While this lab reviews issues in professional ethics (sexual
+harassment, using company resources properly, padding expense reports,
+product safety), the emphasis is on preparing students to actually
+speak up when they see something that is wrong. It explores reasons we
+may want to remain quiet or why we might be tempted to do something
+outside of our normal character.
+
+## {{% lab-link title="Hardware Sustainability" link = "labs/hardware-sustainability" %}}
+
+With more technological innovation, people are able to do things they never
+could before. Healthcare is available to rural areas. Businesses are making more
+money. However, as humans create more technology, we also create more e-waste.
+Should we continue to develop new technology knowing it creates more waste?
+Where and how should we dispose of our e-waste? This lab is designed to get
+students to identify one or more ethical dilemmas and evaluate them through an
+ethical framework.
+
+# Labs in Progress
+
+We continue to add labs over time. Here are some of the labs currently
+being developed.
 
 ## {{% lab-link title="Software Reliability" %}}
 
@@ -228,12 +237,12 @@ with this important topic.
 
 ## {{% lab-link title="Probability and Ethics" %}}
 
-Especially in the context of the utilitarian framework and in game theory (the study
-of multiple people making simultaneous decisions), concepts from probability are an
-important part of the discussion.  In the utilitarian framework, for example,
-how do we measure utility when (a) different stakeholders may be impacted differently
-and also value outcomes differently, and (b) the consequences of a given decision
-are not completely known? 
+Especially in the context of the utilitarian framework and in game theory (the
+study of multiple people making simultaneous decisions), concepts from
+probability are an important part of the discussion.  In the utilitarian
+framework, for example, how do we measure utility when (a) different
+stakeholders may be impacted differently and also value outcomes differently,
+and (b) the consequences of a given decision are not completely known?
 
 
 ## {{% lab-link title="Working in Groups" %}}
@@ -248,9 +257,6 @@ the behaviors and opinions of groups of people.  What ethical priniciples help
 us gather this information in a way that provides reliable information and 
 protects the rights of those being surveyed?
 
-## {{% lab-link title="Hardware Sustainability" %}}
-
-With more technological innovation, people are able to do things they never could before. Healthcare is available to rural areas. Businesses are making more money. However, as humans create more technology, we also create more e-waste. Should we continue to develop new technology knowing it creates more waste? Where and how should we dispose of our e-waste? This lab is designed to get students to identify one or more ethical dilemmas and evaluate them through an ethical framework.
 <!-- 
 ## {{% lab-link title="Data Provenance" %}}
 -->
