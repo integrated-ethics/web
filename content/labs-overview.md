@@ -174,6 +174,16 @@ of data cleaning choices on a fictional data set description.
 
 Engineers have often been rewarded for getting their product to market quickly. However, this approach has frequently resulted in products that have limited appeal. One of the reasons for the limited appeal is that a diverse team was not employed in the design. This lab discusses the need for, and ways to build an effective, diverse design and development team. It also considers that lack of diversity can result in an unethical product.
 
+## {{% lab-link title="Ethics in E-Commerce: Digital Nudging" link="/labs/digital-nudging" %}}
+
+This lab considers ethics in E-Commerce. It explores how pre-set
+choices on webpages can "nudge" a person to choose options that are
+not in their best interest. A dilemma to be considered here is the
+tension between a company making money by encouraging customers to buy
+their product or to upgrade and the resulting positive or negative
+experience for the consumer. Ethical issues include transparency and
+dignity.
+
 
 # Labs in Progress
 
@@ -201,16 +211,6 @@ Such agreements are required for user and company safety,
 but are often unread. Using online tools, students explore the actual
 complexity of such agreements, consider solutions, and contemplate how
 to discuss the solutions with their superiors.
-
-## {{% lab-link title="Ethics in E-Commerce: Digital Nudging" %}}
-
-This lab considers ethics in E-Commerce. It explores how pre-set
-choices on webpages can “nudge” a person to choose options that are
-not in their best interest. A dilemma to be considered here is the
-tension between a company making money by encouraging customers to buy
-their product or to upgrade and the resulting positive or negative
-experience for the consumer. Ethical issues include transparency and
-dignity.
 
 ## {{% lab-link title="Software Reliability" %}}
 
