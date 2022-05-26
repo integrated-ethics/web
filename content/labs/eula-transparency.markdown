@@ -60,10 +60,18 @@ superiors.
 
 **Preparation:**
 
--   **Read entire lab**
--   **Find a user agreement yourself and test it using the tool found here as you will be asking your students to do:<https://readabilityformulas.com/freetests/six-readability-formulas.php>**
--   **Take a glance at the bullet-pointed user agreements found here**:**<https://tosdr.org/>**
--   **There are no student handouts for this lab, but students will need laptops or tablets.**
+-   Read entire lab
+
+-   Find a user agreement yourself and test it using the tool found here
+    as you will be asking your students to use:
+    <https://readabilityformulas.com/freetests/six-readability-formulas.php>
+
+-   Glance at the bullet-pointed user agreements found here:
+
+    -   <https://tosdr.org/>
+
+-   Remind students that they will need to have access to
+    a computer or tablets for this lab. (A smart phone might work in a pinch.)
 
 **If this lab is to be presented online**
 
