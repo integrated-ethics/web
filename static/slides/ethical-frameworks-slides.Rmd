@@ -1,0 +1,74 @@
+---
+title: "Ethical Frameworks"
+institute: "Integrated Ethics Labs"
+date: "2022/05/26"
+output:
+   xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      ratio: 16:10
+---
+
+
+# Virtue Ethics
+
+An ethical decision-making framework derived from the 
+**moral values that a society has in common**. 
+
+Examples of moral values (also called virtues) might
+include compassion, courage, generosity, gratitude, honesty, humility,
+inclusion, integrity, justice, mercy, open-mindedness, perseverance, respect,
+and transparency, but there are many others. An activity might be considered
+unethical it if conflicts with one or more of a society’s virtues.
+
+### Key Question
+
+* What sort of person would act this way?
+
+---
+
+# Deontological ethics 
+
+Determining whether something is right or wrong is based on **adherence to certain
+moral principles** such as traffic laws, a company’s code of ethics, or The Ten
+Commandments. 
+
+In a government context, this set of principles might be the US
+Constitution or the UN Charter of Human Rights. The primary computing
+organization (the ACM) has its own code of ethics as do many business,
+scientific, and medical organizations. A well-known principal from the American
+Medical Association is "Do no harm". Another deontological principle could be
+"Give credit where it is due."
+
+### Key Question
+
+* What rules does this uphold/violate?
+
+---
+
+# Utilitarianism
+
+The ethics of a situation is decided by performing a **cost-benefit analysis**.
+A course of action is more ethical if it brings **more benefit to more people**
+(or causes less harm).
+
+For example, vaccinations are considered to be the
+ethical choice by most in our society because they protect the general
+population (the majority stakeholder) from spread of disease.
+
+### Key Questions
+
+* Who benifits from this action? How much?
+* Who is harmed by this action? How much?
+
+---
+
+# Analogy
+
+Analogy is not so much a framework as a strategy. Sometimes investigating 
+the ethics of an analogous situation helps shed light on the situation 
+of interest.
+
+### Key Question
+
+* What other similar situation can help me understand how I should act?
