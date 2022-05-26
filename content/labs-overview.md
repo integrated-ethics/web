@@ -197,7 +197,7 @@ but are often unread. Using online tools, students explore the actual
 complexity of such agreements, consider solutions, and contemplate how
 to discuss the solutions with their superiors.
 
-## {{% lab-link title="Professional Ethics" link="labs/professional-ethics" %}}
+## {{% lab-link title="Professional Ethics" link="/labs/professional-ethics" %}}
 
 While this lab reviews issues in professional ethics (sexual
 harassment, using company resources properly, padding expense reports,
@@ -206,7 +206,7 @@ speak up when they see something that is wrong. It explores reasons we
 may want to remain quiet or why we might be tempted to do something
 outside of our normal character.
 
-## {{% lab-link title="Hardware Sustainability" link="labs/hardware-sustainability" %}}
+## {{% lab-link title="Hardware Sustainability" link="/labs/hardware-sustainability" %}}
 
 With more technological innovation, people are able to do things they never
 could before. Healthcare is available to rural areas. Businesses are making more
