@@ -1,11 +1,15 @@
 ---
-title: Transparency
+title: Transparency in End User License Agreements
 pagecat: lab
 date: "2022-05-26"
 publishdate: "2022-05-26"
 bibliography: ../ie-references.bib
 link-citations: true
 ---
+
+# Student materials
+
+-   [Handout](eula-transparency-handout)
 
 # Overview
 
@@ -169,14 +173,14 @@ the best argument!
 
 -   Possible answers:
 
-    -   **Utilitarianism** is probably the easiest choice since it might be hard to find analogy. A clear and concise user agreement would be good for the masses. However, it might not protect the company sufficiently. Lawsuits are rampant. It might be helpful to include a longer agreement in plain English along with an “executive summary.” Examples of “executive summaries” can be found at <https://tosdr.org/>. This is an organization dedicated to clarifying what the user agreement really means. See sample page below.
+    -   **Utilitarianism** is probably the easiest choice since it might be hard to find an analogy. A clear and concise user agreement would be good for the masses. However, it might not protect the company sufficiently. Lawsuits are rampant. It might be helpful to include a longer agreement in plain English along with an “executive summary.” Examples of “executive summaries” can be found at <https://tosdr.org/>. This is an organization dedicated to clarifying what the user agreement really means. See sample page below.
 
     -   **An analogy** might be an agreement signed by a patient prior to surgery. Most agreements require the patient to understand the risks and agree to arbitration. In this situation, the patient (or representative) is asked many times, if they understand and if they agree. The medical personnel try to state the main risks in a few clear sentences. (This is similar to the above suggestion about an executive summary). Often the patient must agree to arbitration for any issues that do arise.
 
 **Ask students:**
 Regardless of what you choose, the company still needs to be protected. User Agreements were put into place in part to protect the company. Can you make a recommendation as to what they should use instead of using the current agreement? Is there a way to make the agreement more user-friendly?
 
-**For the instructor:**
+## For the instructor
 
 A search for articles provides other suggestions for dealing with a necessary
 but more user-friendly user agreement. One such article is found at this link:
@@ -201,18 +205,20 @@ contracts on becoming more popular
 
 -   <https://hbr.org/2018/01/the-case-for-plain-language-contracts>
 
-### Assessment\*\* (to be included at a later date on a quiz, paper, or exam to determine if LOs were reached)\*\*
+### Assessment
 
--   Which virtue(s) does a complex user agreement violate?
+1.  Which virtue(s) does a complex user agreement violate?
 
-    -   Transparency, for sure, but maybe also honesty or dignity
+-   *Transparency, for sure, but maybe also honesty or dignity.*
 
--   What was one method suggested for making user agreements more accessible?
+2.  What was one method suggested for making user agreements more accessible?
 
-    -   Table of contents, FAQ page, Executive summary, Plain English
+-   *Table of contents, FAQ page, Executive summary, Plain English.*
 
--   What was an argument in support of the lack of ethicality of the hypothetical complex user agreement made by classmates that used either the Utilitarian or Analogies frameworks?
+3.  What was an argument in support of the lack of ethicality of the hypothetical
+    complex user agreement made by classmates that used either the Utilitarian or
+    Analogies frameworks?
 
-    -   Answers would depend on your particular class
+-   *Answers would depend on your particular class.*
 
 ## References
