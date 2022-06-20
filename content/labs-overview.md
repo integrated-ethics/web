@@ -31,10 +31,13 @@ personal value and articulate what might influence a person’s choice.
 This lab briefly covers the first three ethical frameworks (virtue,
 deontology and utilitarianism), gives the opportunity to practice
 applying the different ethical frameworks to arrive at potential
-solutions and recognize the connection between actions and values. The
-placement of this lab can be used after the [*Why Ethics*](/labs/why-ethics/) 
-lab, before the [*Virtue Ethics*](/labs/virtue-ethics/) lab or can be used to 
-build an ethical foundation for later labs, if the other foundation labs are not used.
+solutions and recognize the connection between actions and values. 
+This lab can be used 
+
+* after the [*Why Ethics?*](/labs/why-ethics/) lab, 
+* before the [*Virtue Ethics*](/labs/virtue-ethics/) lab, or 
+* to build an ethical foundation for later labs, if the other foundation labs are not used.
+
 The lab is written to be an out of class assignment, however can be
 adapted to be used in class.
 

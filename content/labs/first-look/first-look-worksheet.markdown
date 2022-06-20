@@ -35,7 +35,7 @@ thing.”
 The third framework, **virtue ethics**, takes a completely different
 approach—it examines the background of our moral decisions and actions.
 For example, it asks how a person who is generous will see a situation
-and its moral demands differently than someone who is greedy. The “right
+and its moral demands differently from someone who is greedy. The “right
 thing to do” is the thing that would be chosen by the virtuous person.
 
 Virtue ethics is often the easiest framework to initially grasp. Most of
@@ -96,7 +96,7 @@ virtues:
         trouble getting to a professional access more quickly.
         However, this would happen at the cost of not allowing time to
         determine how to make the site most accessible to people with
-        visual impairments (differing levels of blindness including
+        visual impairments (differing levels of blindness, including
         color blindness). Retrofitting the site later would be harder
         than doing it originally. Does the designer push for delaying
         the debut of the site or getting it out as quickly as possible
