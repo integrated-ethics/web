@@ -19,7 +19,7 @@ frameworks designed by ethicists. While time is a factor, we design most
 labs to take less than one class period, so they can be flexibly
 included in many existing courses.
 
-The bigger considerations then is
+The bigger considerations then is this:
 
 > How our students will respond? Are our our sometimes-awkward efforts
 > worth it?
