@@ -18,8 +18,6 @@ expertise. That is why the integrated labs lean on decision-making
 frameworks designed by ethicists. While time is a factor, we design most
 labs to take less than one class period, so they can be flexibly
 included in many existing courses.
-`<!-- We have included them in a session that is -->`{=html}
-`<!-- partially filled with a quiz or course evaluation. -->`{=html}
 
 The bigger considerations then is
 
