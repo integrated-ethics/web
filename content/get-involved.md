@@ -106,7 +106,7 @@ students.
 If selected, the testimonial will be posted on the Integrated Ethics
 website along with the author's name.
 
-## Conference paper co-author
+## Co-author a conference paper
 
 Once we have collected more data on the efficacy of the labs, we
 anticipate producing one or more papers. If you have contributed in
