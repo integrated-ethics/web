@@ -24,10 +24,12 @@ The bigger considerations then is this:
 > How our students will respond? Are our our sometimes-awkward efforts
 > worth it?
 
-**Our answer to this question is a resounding yes!** Students today can
-feel overwhelmed with the wrong they see happening in this world. They
-may feel hopeless about future changes. These discussions on making
-right choices can be empowering, providing tools for change.
+**Our answer to this question is a resounding yes!**
+
+Students today can feel overwhelmed with the wrong they see happening in
+this world. They may feel hopeless about future changes. These
+discussions on making right choices can be empowering, providing tools
+for change.
 
 Our experience is that ethics discussions in our computer and data
 science courses have been extremely well received. In fact, the
