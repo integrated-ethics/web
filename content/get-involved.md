@@ -1,7 +1,8 @@
 ---
 editor: visual
 slug: get-involved
-title: How Can You Get Involved in the Integrated Ethics Lab Project?
+title: How Can You Get Involved`<br>`{=html}in the Integrated Ethics Lab
+  Project?
 toc-title: Table of contents
 ---
 
