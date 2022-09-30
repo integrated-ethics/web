@@ -13,19 +13,23 @@ such conversations would take too much time away from your technical
 content. And to be honest, you have strong misgivings as to whether the
 topic would be well received by your students.
 
-The fact is that for most of us, discussing ethics in
-computation *is* way out of our expertise. That is why the integrated
-labs lean on the decision-making frameworks designed by ethicists. While
-time is a factor, we design most labs to take less than one class
-period. We have included them in a session that is partially filled with
-a quiz or course evaluation.
+The fact is that for most of us, discussing ethics *is* way out of our
+expertise. That is why the integrated labs lean on decision-making
+frameworks designed by ethicists. While time is a factor, we design most
+labs to take less than one class period, so they can be flexibly
+included in many existing courses.
+`<!-- We have included them in a session that is -->`{=html}
+`<!-- partially filled with a quiz or course evaluation. -->`{=html}
 
-The bigger consideration, then, is how our students will respond and if
-our sometimes-awkward efforts are worth it. Our answer to this question
-is a resounding yes! Students today can feel overwhelmed with the wrong
-they see happening in this world. They may feel hopeless about future
-changes. These discussions on making right choices can be empowering,
-providing tools for change.
+The bigger considerations then is
+
+> How our students will respond? Are our our sometimes-awkward efforts
+> worth it?
+
+**Our answer to this question is a resounding yes!** Students today can
+feel overwhelmed with the wrong they see happening in this world. They
+may feel hopeless about future changes. These discussions on making
+right choices can be empowering, providing tools for change.
 
 Our experience is that ethics discussions in our computer and data
 science courses have been extremely well received. In fact, the
@@ -34,7 +38,7 @@ discussions covering other content in the course. Students today seem to
 want to engage in conversations that explore ethical choices. Why is
 that?
 
-Most of today\'s traditional college students are from a cohort known as
+Most of today's traditional college students are from a cohort known as
 Generation Z. These are the students born during the years 1996-2010.
 Many have written about the characteristics of Gen Zers. The partial
 list of Gen Z attributes that follows might increase your confidence
@@ -63,18 +67,18 @@ only in class, but with future employers.
     are interested in engaging face-to-face about the things that
     concern them.
 
--   Gen Zers have a desire to drive societal change. The [2022 Deloitte
+-   Gen Zers have a desire to drive societal change. The [2022 Deloitte
     survery on Gen Zers and
-    Millenials](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html) reports
-    that 48% of Gen Zers have put some pressure on employers to take
-    action on climate issues.
+    Millenials](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html)
+    reports that 48% of Gen Zers have put some pressure on employers to
+    take action on climate issues.
 
--   Gen Zers make life decisions based on their
-    values. [Deloitte](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html) reveals
-    that 2 in 5 Gen Zers say they have turned down a job because the
-    values of the offering company did not align with their values.
+-   Gen Zers make life decisions based on their values.
+    [Deloitte](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html)
+    reveals that 2 in 5 Gen Zers say they have turned down a job because
+    the values of the offering company did not align with their values.
 
-Perhaps Gen Zers are the perfect audience.
+**Perhaps Gen Zers are the perfect audience.**
 
 While the general media presents some of the issues these ethics labs
 address (sustainability, AI, need for diversity), many are not
