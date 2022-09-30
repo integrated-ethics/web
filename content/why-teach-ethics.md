@@ -1,0 +1,91 @@
+---
+editor: visual
+slug: why-teach-ethics
+title: Why Discuss Ethics in Your Computer Science, Statistics, or Data
+  Science Course?
+toc-title: Table of contents
+---
+
+As a professor of computer or data science, why should you consider the
+daunting task of facilitating discussions on ethics with your students?
+You feel that ethics is way out of your expertise. Or you think that
+such conversations would take too much time away from your technical
+content. And to be honest, you have strong misgivings as to whether the
+topic would be well received by your students.
+
+The fact is that for most of us, discussing ethics in
+computation *is* way out of our expertise. That is why the integrated
+labs lean on the decision-making frameworks designed by ethicists. While
+time is a factor, we design most labs to take less than one class
+period. We have included them in a session that is partially filled with
+a quiz or course evaluation.
+
+The bigger consideration, then, is how our students will respond and if
+our sometimes-awkward efforts are worth it. Our answer to this question
+is a resounding yes! Students today can feel overwhelmed with the wrong
+they see happening in this world. They may feel hopeless about future
+changes. These discussions on making right choices can be empowering,
+providing tools for change.
+
+Our experience is that ethics discussions in our computer and data
+science courses have been extremely well received. In fact, the
+discussions are often far livelier and include far more students than
+discussions covering other content in the course. Students today seem to
+want to engage in conversations that explore ethical choices. Why is
+that?
+
+Most of today\'s traditional college students are from a cohort known as
+Generation Z. These are the students born during the years 1996-2010.
+Many have written about the characteristics of Gen Zers. The partial
+list of Gen Z attributes that follows might increase your confidence
+that students will welcome the ethics labs. They are eager to engage not
+only in class, but with future employers.
+
+-   Gen Zers [do not know a world without a smartphone, and so are well
+    aware of the
+    issues](https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/).
+
+-   Gen Zers [care about doing right and are motivated to
+    act.](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html) They
+    are, for example, willing to pay more for what they perceive to be
+    more ethically sourced products.
+
+-   Gen Zers [want a
+    voice,](https://www.shrm.org/hr-today/news/hr-magazine/1118/pages/a-16-year-old-explains-10-things-you-need-to-know-about-generation-z.aspx)and
+    are used to having a voice because of social media.
+
+-   Gen Zers are [concerned about their
+    futures](https://www.shrm.org/hr-today/news/hr-magazine/1118/pages/a-16-year-old-explains-10-things-you-need-to-know-about-generation-z.aspx) and
+    passionate about the issues facing our society today.
+
+-   Gen Zers [value direct communication, authenticity, and
+    relevance.](https://news.stanford.edu/2022/01/03/know-gen-z) They
+    are interested in engaging face-to-face about the things that
+    concern them.
+
+-   Gen Zers have a desire to drive societal change. The [2022 Deloitte
+    survery on Gen Zers and
+    Millenials](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html) reports
+    that 48% of Gen Zers have put some pressure on employers to take
+    action on climate issues.
+
+-   Gen Zers make life decisions based on their
+    values. [Deloitte](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/genzmillennialsurvey.html) reveals
+    that 2 in 5 Gen Zers say they have turned down a job because the
+    values of the offering company did not align with their values.
+
+Perhaps Gen Zers are the perfect audience.
+
+While the general media presents some of the issues these ethics labs
+address (sustainability, AI, need for diversity), many are not
+discussed. Discipline-specific considerations such as ethical data
+cleaning, data visualization, and hospitable code may be issues that
+students have never considered. But bringing these matters to light
+could have a huge impact on the choices they make or influence others to
+make in their future roles as data analysts, computer programmers, and
+product developers.
+
+As professors, we can do something about the sometimes-discouraging
+trajectory of our world. We can provide our future leaders with tools
+for making ethical decisions, and with experience in using them. We
+think that is worth a little time, effort, and awkwardness.
