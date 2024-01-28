@@ -4,7 +4,7 @@ date: 2021-07-21
 pagecat: worksheet
 ---
 
-## Two Quesions
+## Two Questions
 
 1. Suppose that each group must submit a 6 page paper on the
 history of Riemann Integration and that each group member will get the
