@@ -26,6 +26,7 @@ We welcome comments, questions, suggestions, and feedback in the
 
 * Ken Arnold, Calvin University (Data Science)
 * Nick Breems, Dordt University (Computer Science)
+* Judith Canner, California State University, Monterey Bay (Mathematics & Statistics)
 * Lori Carter, Point Loma Nazarene University (Computer Science)
 * Catherine Crockett, Point Loma Nazarene University (Mathematics)
 * Stacy DeRuiter, Calvin University (Statistics)
